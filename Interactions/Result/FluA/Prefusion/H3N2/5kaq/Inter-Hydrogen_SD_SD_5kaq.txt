@@ -1,0 +1,17 @@
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OG SER 116 HA1 Proto1 old=110   |     OD2 ASP 443 HA2 Proto2 old=408 ->   3.14778191747776
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OE2 GLU 236 HA1 Proto1 old=218   |     OG1 THR 221 HA1 Proto3 old=203 ->   2.27305147324034
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OE1 GLU 236 HA1 Proto1 old=218   |     OG1 THR 221 HA1 Proto3 old=203 ->   3.44583574768154
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OE2 GLU 236 HA1 Proto1 old=218   |     OG1 THR 230 HA1 Proto3 old=212 ->   3.41562951738036
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OE1 GLU 236 HA1 Proto1 old=218   |     OG1 THR 230 HA1 Proto3 old=212 ->   2.90952126646293
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OD2 ASP 443 HA2 Proto1 old=408   |     OG SER 116 HA1 Proto3 old=110 ->   2.91835895667409
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OH TYR 447 HA2 Proto1 old=412   |     OE1 GLN 429 HA2 Proto3 old=394 ->   3.32193332263011
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OH TYR 447 HA2 Proto1 old=412   |     OE1 GLU 449 HA2 Proto3 old=414 ->   2.56999805447393
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OH TYR 447 HA2 Proto1 old=412   |     NZ LYS 452 HA2 Proto3 old=417 ->   2.97277799372915
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OE1 GLU 449 HA2 Proto1 old=414   |     OH TYR 447 HA2 Proto2 old=412 ->   2.75222455479199
+H3N2	5kaq	Inter-Hydrogen_SD_SD	NZ LYS 452 HA2 Proto1 old=417   |     OH TYR 447 HA2 Proto2 old=412 ->   2.92123638208212
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OH TYR 505 HA2 Proto1 old=470   |     NH1 ARG 491 HA2 Proto3 old=456 ->   2.91465229487152
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OG SER 116 HA1 Proto2 old=110   |     OD2 ASP 443 HA2 Proto3 old=408 ->   2.77433433457465
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OE1 GLN 228 HA1 Proto2 old=210   |     ND2 ASN 234 HA1 Proto3 old=216 ->   3.33451780622025
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OG1 THR 230 HA1 Proto2 old=212   |     OD1 ASN 234 HA1 Proto3 old=216 ->   3.47793731973419
+H3N2	5kaq	Inter-Hydrogen_SD_SD	OE1 GLU 449 HA2 Proto2 old=414   |     OH TYR 447 HA2 Proto3 old=412 ->   2.84724498419086
+H3N2	5kaq	Inter-Hydrogen_SD_SD	NZ LYS 452 HA2 Proto2 old=417   |     OH TYR 447 HA2 Proto3 old=412 ->   2.72831633063324

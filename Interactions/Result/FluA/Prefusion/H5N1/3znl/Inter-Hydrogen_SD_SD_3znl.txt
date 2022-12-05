@@ -1,0 +1,9 @@
+H5N1	3znl	Inter-Hydrogen_SD_SD	ND1 HIS 202 HA1 Proto1 old=180   |     ND2 ASN 228 HA1 Proto3 old=206 ->   3.26609813079766
+H5N1	3znl	Inter-Hydrogen_SD_SD	ND2 ASN 228 HA1 Proto1 old=206   |     ND1 HIS 202 HA1 Proto2 old=180 ->   3.2658358807509
+H5N1	3znl	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto1 old=206   |     NH1 ARG 238 HA1 Proto2 old=216 ->   2.72314303700706
+H5N1	3znl	Inter-Hydrogen_SD_SD	NH1 ARG 238 HA1 Proto1 old=216   |     OD1 ASN 228 HA1 Proto3 old=206 ->   2.72054773896728
+H5N1	3znl	Inter-Hydrogen_SD_SD	OG SER 239 HA1 Proto1 old=217   |     OD1 ASP 259 HA1 Proto3 old=237 ->   2.74536318180309
+H5N1	3znl	Inter-Hydrogen_SD_SD	OD1 ASP 259 HA1 Proto1 old=237   |     OG SER 239 HA1 Proto2 old=217 ->   2.73585635587835
+H5N1	3znl	Inter-Hydrogen_SD_SD	ND2 ASN 228 HA1 Proto2 old=206   |     ND1 HIS 202 HA1 Proto3 old=180 ->   3.26048232628242
+H5N1	3znl	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto2 old=206   |     NH1 ARG 238 HA1 Proto3 old=216 ->   2.69662919215824
+H5N1	3znl	Inter-Hydrogen_SD_SD	OD1 ASP 259 HA1 Proto2 old=237   |     OG SER 239 HA1 Proto3 old=217 ->   2.7223609239041

@@ -1,0 +1,14 @@
+H15N9	6v49	Inter-Repulsive	OE1 GLU 461 HA2 Proto1 old=97   |     OE1 GLU 421 HA2 Proto2 old=57 ->   4.99282825660967
+H15N9	6v49	Inter-Repulsive	OE2 GLU 492 HA2 Proto1 old=128   |     OE1 GLU 495 HA2 Proto3 old=131 ->   3.88557267336489
+H15N9	6v49	Inter-Repulsive	OE2 GLU 492 HA2 Proto1 old=128   |     OE2 GLU 495 HA2 Proto3 old=131 ->   3.63639354305884
+H15N9	6v49	Inter-Repulsive	OE1 GLU 492 HA2 Proto1 old=128   |     OE2 GLU 495 HA2 Proto3 old=131 ->   4.65760582273769
+H15N9	6v49	Inter-Repulsive	OE2 GLU 495 HA2 Proto1 old=131   |     OE1 GLU 492 HA2 Proto2 old=128 ->   4.68091721781106
+H15N9	6v49	Inter-Repulsive	OE2 GLU 495 HA2 Proto1 old=131   |     OE2 GLU 492 HA2 Proto2 old=128 ->   3.80767580027502
+H15N9	6v49	Inter-Repulsive	OE1 GLU 495 HA2 Proto1 old=131   |     OE2 GLU 492 HA2 Proto2 old=128 ->   4.09929335373794
+H15N9	6v49	Inter-Repulsive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto3 old=170 ->   4.9085065956969
+H15N9	6v49	Inter-Repulsive	NE ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto2 old=163 ->   4.79544346228793
+H15N9	6v49	Inter-Repulsive	OE1 GLU 461 HA2 Proto2 old=97   |     OE1 GLU 421 HA2 Proto3 old=57 ->   4.74891756087637
+H15N9	6v49	Inter-Repulsive	OE1 GLU 495 HA2 Proto2 old=131   |     OE2 GLU 492 HA2 Proto3 old=128 ->   4.08448197449811
+H15N9	6v49	Inter-Repulsive	OE2 GLU 495 HA2 Proto2 old=131   |     OE1 GLU 492 HA2 Proto3 old=128 ->   4.67322993228452
+H15N9	6v49	Inter-Repulsive	OE2 GLU 495 HA2 Proto2 old=131   |     OE2 GLU 492 HA2 Proto3 old=128 ->   3.7933385032185
+H15N9	6v49	Inter-Repulsive	NE ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.82789695416131

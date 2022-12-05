@@ -1,0 +1,1 @@
+H7N9	6ii8	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=484   |     NE ARG 534 HA2 Proto3 old=491 ->   4.40715475108374

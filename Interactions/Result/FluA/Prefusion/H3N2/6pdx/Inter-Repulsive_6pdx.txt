@@ -1,0 +1,10 @@
+H3N2	6pdx	Inter-Repulsive	NE ARG 418 HA2 Proto1 old=383   |     NZ LYS 30 HA1 Proto3 old=27 ->   4.85600607495502
+H3N2	6pdx	Inter-Repulsive	NH1 ARG 418 HA2 Proto1 old=383   |     NZ LYS 30 HA1 Proto3 old=27 ->   3.27358916176115
+H3N2	6pdx	Inter-Repulsive	NZ LYS 487 HA2 Proto1 old=452   |     NZ LYS 487 HA2 Proto3 old=452 ->   4.98559454829612
+H3N2	6pdx	Inter-Repulsive	NZ LYS 488 HA2 Proto1 old=453   |     NZ LYS 487 HA2 Proto3 old=452 ->   3.96367140414036
+H3N2	6pdx	Inter-Repulsive	OE2 GLU 492 HA2 Proto1 old=457   |     OE1 GLU 492 HA2 Proto3 old=457 ->   4.93232977405201
+H3N2	6pdx	Inter-Repulsive	OE2 GLU 492 HA2 Proto1 old=457   |     OE2 GLU 495 HA2 Proto3 old=460 ->   4.99328158629172
+H3N2	6pdx	Inter-Repulsive	NH2 ARG 527 HA2 Proto1 old=492   |     NE ARG 534 HA2 Proto3 old=499 ->   4.35505901222934
+H3N2	6pdx	Inter-Repulsive	OE2 GLU 495 HA2 Proto2 old=460   |     OE2 GLU 492 HA2 Proto3 old=457 ->   4.69235516558582
+H3N2	6pdx	Inter-Repulsive	NE ARG 534 HA2 Proto2 old=499   |     NH2 ARG 527 HA2 Proto3 old=492 ->   4.97642210830231
+H3N2	6pdx	Inter-Repulsive	NH2 ARG 534 HA2 Proto2 old=499   |     NH2 ARG 527 HA2 Proto3 old=492 ->   4.90038304625261

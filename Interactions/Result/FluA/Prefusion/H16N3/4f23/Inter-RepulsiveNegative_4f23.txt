@@ -1,0 +1,1 @@
+H16N3	4f23	Inter-RepulsiveNegative	OE2 GLU 411 HA2 Proto1 old=375   |     OE1 GLU 34 HA1 Proto2 old=26 ->   4.57261544414135

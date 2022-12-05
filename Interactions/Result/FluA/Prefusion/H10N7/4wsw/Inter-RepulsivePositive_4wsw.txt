@@ -1,0 +1,17 @@
+H10N7	4wsw	Inter-RepulsivePositive	NZ LYS 30 HA1 Proto1 old=17   |     NH2 ARG 418 HA2 Proto2 old=54 ->   3.72002177412982
+H10N7	4wsw	Inter-RepulsivePositive	NZ LYS 117 HA1 Proto1 old=101   |     NE2 HIS 439 HA2 Proto3 old=75 ->   4.73294041796429
+H10N7	4wsw	Inter-RepulsivePositive	ND1 HIS 439 HA2 Proto1 old=75   |     NZ LYS 117 HA1 Proto2 old=101 ->   4.13481438519313
+H10N7	4wsw	Inter-RepulsivePositive	NE2 HIS 439 HA2 Proto1 old=75   |     NZ LYS 117 HA1 Proto2 old=101 ->   4.94583926143986
+H10N7	4wsw	Inter-RepulsivePositive	NH1 ARG 487 HA2 Proto1 old=123   |     NH1 ARG 487 HA2 Proto2 old=123 ->   4.62367051161737
+H10N7	4wsw	Inter-RepulsivePositive	NH1 ARG 487 HA2 Proto1 old=123   |     NH2 ARG 487 HA2 Proto2 old=123 ->   4.06248999998769
+H10N7	4wsw	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto1 old=123   |     NE ARG 487 HA2 Proto3 old=123 ->   4.01705277535658
+H10N7	4wsw	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto1 old=123   |     NH1 ARG 487 HA2 Proto3 old=123 ->   2.99316254152693
+H10N7	4wsw	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto1 old=123   |     NH2 ARG 487 HA2 Proto3 old=123 ->   3.91957319105027
+H10N7	4wsw	Inter-RepulsivePositive	NE ARG 487 HA2 Proto1 old=123   |     NH1 ARG 487 HA2 Proto3 old=123 ->   4.8859632622442
+H10N7	4wsw	Inter-RepulsivePositive	NH1 ARG 487 HA2 Proto1 old=123   |     NH1 ARG 487 HA2 Proto3 old=123 ->   3.41110553926436
+H10N7	4wsw	Inter-RepulsivePositive	NH1 ARG 487 HA2 Proto1 old=123   |     NH2 ARG 487 HA2 Proto3 old=123 ->   4.1178753016574
+H10N7	4wsw	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto3 old=170 ->   4.83513040155072
+H10N7	4wsw	Inter-RepulsivePositive	NH1 ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto2 old=163 ->   4.83191483782568
+H10N7	4wsw	Inter-RepulsivePositive	NE ARG 487 HA2 Proto2 old=123   |     NH2 ARG 487 HA2 Proto3 old=123 ->   4.28706542987159
+H10N7	4wsw	Inter-RepulsivePositive	NH1 ARG 487 HA2 Proto2 old=123   |     NH2 ARG 487 HA2 Proto3 old=123 ->   4.94084587899684
+H10N7	4wsw	Inter-RepulsivePositive	NH1 ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.92290981026466

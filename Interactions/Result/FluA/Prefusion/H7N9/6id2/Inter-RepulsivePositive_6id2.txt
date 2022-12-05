@@ -1,0 +1,3 @@
+H7N9	6id2	Inter-RepulsivePositive	NH2 ARG 340 HA1 Proto1 old=298   |     NZ LYS 343 HA1 Proto2 old=301 ->   4.79169510716198
+H7N9	6id2	Inter-RepulsivePositive	NZ LYS 343 HA1 Proto1 old=301   |     NH2 ARG 340 HA1 Proto3 old=298 ->   4.18974283220343
+H7N9	6id2	Inter-RepulsivePositive	NH2 ARG 340 HA1 Proto2 old=298   |     NZ LYS 343 HA1 Proto3 old=301 ->   4.84093606650615

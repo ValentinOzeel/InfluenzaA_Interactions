@@ -1,0 +1,11 @@
+H3N2	6y5k	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto1 old=124   |     NH1 ARG 488 HA2 Proto2 old=124 ->   3.94560134833716
+H3N2	6y5k	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto1 old=124   |     NH2 ARG 488 HA2 Proto2 old=124 ->   3.38917703875144
+H3N2	6y5k	Inter-RepulsivePositive	NE ARG 488 HA2 Proto1 old=124   |     NH2 ARG 488 HA2 Proto3 old=124 ->   4.8728404447509
+H3N2	6y5k	Inter-RepulsivePositive	NH1 ARG 488 HA2 Proto1 old=124   |     NH2 ARG 488 HA2 Proto3 old=124 ->   3.64255349995027
+H3N2	6y5k	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto1 old=124   |     NE ARG 488 HA2 Proto3 old=124 ->   4.96416871187915
+H3N2	6y5k	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto1 old=124   |     NH1 ARG 488 HA2 Proto3 old=124 ->   4.9539560958894
+H3N2	6y5k	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto1 old=124   |     NH2 ARG 488 HA2 Proto3 old=124 ->   2.87684879686089
+H3N2	6y5k	Inter-RepulsivePositive	NH1 ARG 488 HA2 Proto2 old=124   |     NH2 ARG 488 HA2 Proto3 old=124 ->   4.97974788518455
+H3N2	6y5k	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto2 old=124   |     NE ARG 488 HA2 Proto3 old=124 ->   4.78418582415024
+H3N2	6y5k	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto2 old=124   |     NH1 ARG 488 HA2 Proto3 old=124 ->   3.35580809940022
+H3N2	6y5k	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto2 old=124   |     NH2 ARG 488 HA2 Proto3 old=124 ->   3.03760530681655

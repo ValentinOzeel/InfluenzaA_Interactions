@@ -1,0 +1,1 @@
+H10N7	6tjy	Inter-RepulsiveNegative	OE2 GLU 484 HA2 Proto1 old=120   |     OE1 GLU 484 HA2 Proto3 old=120 ->   4.8879335101861

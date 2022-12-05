@@ -1,0 +1,2 @@
+Avian          Bat            Canine         Equine         Human          Seal           Swine          
+0              4              4              7              0              3              1              

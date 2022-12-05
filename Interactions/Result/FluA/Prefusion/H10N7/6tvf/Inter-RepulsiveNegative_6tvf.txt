@@ -1,0 +1,1 @@
+H10N7	6tvf	Inter-RepulsiveNegative	OE1 GLU 436 HA2 Proto1 old=72   |     OE1 GLU 193 HA1 Proto3 old=168 ->   4.12620237021889

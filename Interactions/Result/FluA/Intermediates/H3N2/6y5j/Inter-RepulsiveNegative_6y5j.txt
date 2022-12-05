@@ -1,0 +1,4 @@
+H3N2	6y5j	Inter-RepulsiveNegative	OE2 GLU 421 HA2 Proto1 old=57   |     OE1 GLU 461 HA2 Proto3 old=97 ->   4.59303755699863
+H3N2	6y5j	Inter-RepulsiveNegative	OE2 GLU 431 HA2 Proto1 old=67   |     OD2 ASP 443 HA2 Proto3 old=79 ->   4.30920804789001
+H3N2	6y5j	Inter-RepulsiveNegative	OE1 GLU 461 HA2 Proto1 old=97   |     OE2 GLU 421 HA2 Proto2 old=57 ->   4.85512244953719
+H3N2	6y5j	Inter-RepulsiveNegative	OE1 GLU 461 HA2 Proto2 old=97   |     OE2 GLU 421 HA2 Proto3 old=57 ->   4.64956535603061

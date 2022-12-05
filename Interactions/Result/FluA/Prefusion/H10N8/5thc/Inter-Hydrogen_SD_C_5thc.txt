@@ -1,0 +1,17 @@
+H10N8	5thc	Inter-Hydrogen_SD_C	O LEU 32 HA1 Proto1 old=29   |     NE ARG 418 HA2 Proto2 old=54 ->   3.16237853521681
+H10N8	5thc	Inter-Hydrogen_SD_C	OG SER 221 HA1 Proto1 old=203   |     O VAL 235 HA1 Proto3 old=217 ->   3.36668902632839
+H10N8	5thc	Inter-Hydrogen_SD_C	O SER 224 HA1 Proto1 old=206   |     NH2 ARG 247 HA1 Proto3 old=229 ->   2.93049722743429
+H10N8	5thc	Inter-Hydrogen_SD_C	O VAL 234 HA1 Proto1 old=216   |     NH1 ARG 228 HA1 Proto2 old=210 ->   2.02916288158442
+H10N8	5thc	Inter-Hydrogen_SD_C	N GLY 243 HA1 Proto1 old=225   |     OG1 THR 262 HA1 Proto2 old=244 ->   3.29461454498094
+H10N8	5thc	Inter-Hydrogen_SD_C	O SER 245 HA1 Proto1 old=227   |     NH2 ARG 228 HA1 Proto2 old=210 ->   2.24538059134749
+H10N8	5thc	Inter-Hydrogen_SD_C	NH1 ARG 247 HA1 Proto1 old=229   |     O SER 224 HA1 Proto2 old=206 ->   3.38071545682272
+H10N8	5thc	Inter-Hydrogen_SD_C	NH1 ARG 247 HA1 Proto1 old=229   |     O SER 225 HA1 Proto2 old=207 ->   3.16060911850865
+H10N8	5thc	Inter-Hydrogen_SD_C	NH1 ARG 418 HA2 Proto1 old=54   |     O LEU 32 HA1 Proto3 old=29 ->   3.03022771421555
+H10N8	5thc	Inter-Hydrogen_SD_C	OG SER 477 HA2 Proto1 old=113   |     O LEU 366 HA2 Proto3 old=2 ->   2.51817116177595
+H10N8	5thc	Inter-Hydrogen_SD_C	NH2 ARG 527 HA2 Proto1 old=163   |     O ARG 534 HA2 Proto3 old=170 ->   2.66434795024974
+H10N8	5thc	Inter-Hydrogen_SD_C	O ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto2 old=163 ->   3.14436146140993
+H10N8	5thc	Inter-Hydrogen_SD_C	O LEU 32 HA1 Proto2 old=29   |     NE ARG 418 HA2 Proto3 old=54 ->   3.04410676553896
+H10N8	5thc	Inter-Hydrogen_SD_C	N ALA 237 HA1 Proto2 old=219   |     OG SER 264 HA1 Proto3 old=246 ->   3.44028022114478
+H10N8	5thc	Inter-Hydrogen_SD_C	NH1 ARG 247 HA1 Proto2 old=229   |     O SER 224 HA1 Proto3 old=206 ->   2.75685509231079
+H10N8	5thc	Inter-Hydrogen_SD_C	O LEU 366 HA2 Proto2 old=2   |     OG SER 477 HA2 Proto3 old=113 ->   2.62126419881703
+H10N8	5thc	Inter-Hydrogen_SD_C	O ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   2.74196972995692

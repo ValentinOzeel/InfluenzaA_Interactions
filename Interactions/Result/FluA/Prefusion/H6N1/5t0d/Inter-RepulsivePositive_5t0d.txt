@@ -1,0 +1,2 @@
+H6N1	5t0d	Inter-RepulsivePositive	NH2 ARG 447 HA2 Proto1 old=83   |     ND1 HIS 432 HA2 Proto3 old=68 ->   4.93814965346331
+H6N1	5t0d	Inter-RepulsivePositive	ND1 HIS 432 HA2 Proto2 old=68   |     NH2 ARG 447 HA2 Proto3 old=83 ->   4.57864652490231

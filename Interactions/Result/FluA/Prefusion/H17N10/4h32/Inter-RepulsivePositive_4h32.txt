@@ -1,0 +1,7 @@
+H17N10	4h32	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=434   |     NE ARG 470 HA2 Proto2 old=434 ->   4.27124056920235
+H17N10	4h32	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto1 old=434   |     NE ARG 470 HA2 Proto2 old=434 ->   3.85360636287621
+H17N10	4h32	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=434   |     NE ARG 470 HA2 Proto3 old=434 ->   4.26147732599858
+H17N10	4h32	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=434   |     NH2 ARG 470 HA2 Proto3 old=434 ->   4.69519477764235
+H17N10	4h32	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto2 old=434   |     NE ARG 470 HA2 Proto3 old=434 ->   4.96705355316409
+H17N10	4h32	Inter-RepulsivePositive	NE ARG 470 HA2 Proto2 old=434   |     NE ARG 470 HA2 Proto3 old=434 ->   4.68070560920039
+H17N10	4h32	Inter-RepulsivePositive	NH1 ARG 527 HA2 Proto2 old=491   |     NZ LYS 534 HA2 Proto3 old=498 ->   4.29204123931726

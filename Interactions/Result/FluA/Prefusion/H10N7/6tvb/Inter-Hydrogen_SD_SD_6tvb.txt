@@ -1,0 +1,17 @@
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OE2 GLU 120 HA1 Proto1 old=104   |     ND2 ASN 443 HA2 Proto3 old=79 ->   3.29210616475229
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OG1 THR 423 HA2 Proto1 old=59   |     OD2 ASP 454 HA2 Proto3 old=90 ->   3.1085142753412
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OG1 THR 425 HA2 Proto1 old=61   |     OD1 ASP 454 HA2 Proto3 old=90 ->   2.64883823590645
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OG1 THR 425 HA2 Proto1 old=61   |     OD2 ASP 454 HA2 Proto3 old=90 ->   3.22517053812662
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OD2 ASP 454 HA2 Proto1 old=90   |     OG1 THR 423 HA2 Proto2 old=59 ->   3.12509583853039
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OD1 ASP 454 HA2 Proto1 old=90   |     OG1 THR 425 HA2 Proto2 old=61 ->   2.70653819481642
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OD2 ASP 454 HA2 Proto1 old=90   |     OG1 THR 425 HA2 Proto2 old=61 ->   3.4992286292839
+H10N7	6tvb	Inter-Hydrogen_SD_SD	NH2 ARG 491 HA2 Proto1 old=127   |     OH TYR 505 HA2 Proto3 old=141 ->   2.86766403192564
+H10N7	6tvb	Inter-Hydrogen_SD_SD	NE2 GLN 492 HA2 Proto1 old=128   |     NH2 ARG 534 HA2 Proto3 old=170 ->   3.41966548071591
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OE1 GLN 492 HA2 Proto1 old=128   |     NH2 ARG 534 HA2 Proto3 old=170 ->   3.23855585099283
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OH TYR 505 HA2 Proto1 old=141   |     NH2 ARG 491 HA2 Proto2 old=127 ->   2.9705708205663
+H10N7	6tvb	Inter-Hydrogen_SD_SD	NH2 ARG 534 HA2 Proto1 old=170   |     NE2 GLN 492 HA2 Proto2 old=128 ->   3.07312560758586
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OD2 ASP 454 HA2 Proto2 old=90   |     OG1 THR 423 HA2 Proto3 old=59 ->   3.24173441231695
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OD1 ASP 454 HA2 Proto2 old=90   |     OG1 THR 425 HA2 Proto3 old=61 ->   2.69247042694994
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OD2 ASP 454 HA2 Proto2 old=90   |     OG1 THR 425 HA2 Proto3 old=61 ->   3.34362737158314
+H10N7	6tvb	Inter-Hydrogen_SD_SD	OH TYR 505 HA2 Proto2 old=141   |     NH2 ARG 491 HA2 Proto3 old=127 ->   2.85874762789582
+H10N7	6tvb	Inter-Hydrogen_SD_SD	NH2 ARG 534 HA2 Proto2 old=170   |     OE1 GLN 492 HA2 Proto3 old=128 ->   3.19462892993851

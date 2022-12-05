@@ -1,0 +1,10 @@
+H10N7	6tva	Inter-Repulsive	NZ LYS 117 HA1 Proto1 old=101   |     NE2 HIS 439 HA2 Proto3 old=75 ->   4.98136226347773
+H10N7	6tva	Inter-Repulsive	NE2 HIS 202 HA1 Proto1 old=177   |     NZ LYS 228 HA1 Proto2 old=203 ->   4.46510537389657
+H10N7	6tva	Inter-Repulsive	NZ LYS 228 HA1 Proto1 old=203   |     NE2 HIS 202 HA1 Proto3 old=177 ->   4.24318748112784
+H10N7	6tva	Inter-Repulsive	ND1 HIS 439 HA2 Proto1 old=75   |     NZ LYS 117 HA1 Proto2 old=101 ->   4.89939833040756
+H10N7	6tva	Inter-Repulsive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto3 old=170 ->   4.85400885866518
+H10N7	6tva	Inter-Repulsive	NE ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto2 old=163 ->   4.70035360371961
+H10N7	6tva	Inter-Repulsive	ND1 HIS 202 HA1 Proto2 old=177   |     NZ LYS 228 HA1 Proto3 old=203 ->   4.34315219627404
+H10N7	6tva	Inter-Repulsive	NE2 HIS 202 HA1 Proto2 old=177   |     NZ LYS 228 HA1 Proto3 old=203 ->   3.70115184773605
+H10N7	6tva	Inter-Repulsive	NE2 HIS 439 HA2 Proto2 old=75   |     NZ LYS 117 HA1 Proto3 old=101 ->   4.49739746964841
+H10N7	6tva	Inter-Repulsive	NE ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.75564653858967

@@ -1,0 +1,17 @@
+H1N1	5wko	Inter-Hydrogen_SD_SD	NH2 ARG 226 HA1 Proto1 old=208   |     NE2 HIS 436 HA2 Proto2 old=72 ->   3.27364460502358
+H1N1	5wko	Inter-Hydrogen_SD_SD	OG SER 228 HA1 Proto1 old=210   |     NH2 ARG 238 HA1 Proto2 old=220 ->   3.32020616829739
+H1N1	5wko	Inter-Hydrogen_SD_SD	NE ARG 238 HA1 Proto1 old=220   |     OG SER 228 HA1 Proto3 old=210 ->   3.17961176875417
+H1N1	5wko	Inter-Hydrogen_SD_SD	NH2 ARG 238 HA1 Proto1 old=220   |     OG SER 228 HA1 Proto3 old=210 ->   2.47567849285807
+H1N1	5wko	Inter-Hydrogen_SD_SD	NE2 GLN 426 HA2 Proto1 old=62   |     OD2 ASP 454 HA2 Proto2 old=90 ->   2.94842381621096
+H1N1	5wko	Inter-Hydrogen_SD_SD	NE2 HIS 436 HA2 Proto1 old=72   |     NH1 ARG 226 HA1 Proto3 old=208 ->   3.25883813651429
+H1N1	5wko	Inter-Hydrogen_SD_SD	ND2 ASN 443 HA2 Proto1 old=79   |     OE2 GLU 116 HA1 Proto3 old=110 ->   2.6208170481741
+H1N1	5wko	Inter-Hydrogen_SD_SD	OD1 ASN 445 HA2 Proto1 old=81   |     NZ LYS 447 HA2 Proto2 old=83 ->   2.90233612801826
+H1N1	5wko	Inter-Hydrogen_SD_SD	NZ LYS 447 HA2 Proto1 old=83   |     OD1 ASN 445 HA2 Proto3 old=81 ->   3.07414736146462
+H1N1	5wko	Inter-Hydrogen_SD_SD	ND2 ASN 459 HA2 Proto1 old=95   |     OD1 ASN 459 HA2 Proto2 old=95 ->   3.49663166490267
+H1N1	5wko	Inter-Hydrogen_SD_SD	OD1 ASN 459 HA2 Proto1 old=95   |     ND2 ASN 459 HA2 Proto3 old=95 ->   3.39579357440938
+H1N1	5wko	Inter-Hydrogen_SD_SD	NH1 ARG 226 HA1 Proto2 old=208   |     ND1 HIS 436 HA2 Proto3 old=72 ->   3.27263716290089
+H1N1	5wko	Inter-Hydrogen_SD_SD	OG SER 228 HA1 Proto2 old=210   |     NE ARG 238 HA1 Proto3 old=220 ->   3.28367202990798
+H1N1	5wko	Inter-Hydrogen_SD_SD	OG SER 228 HA1 Proto2 old=210   |     NH2 ARG 238 HA1 Proto3 old=220 ->   3.1174460701029
+H1N1	5wko	Inter-Hydrogen_SD_SD	NE2 GLN 426 HA2 Proto2 old=62   |     OD2 ASP 454 HA2 Proto3 old=90 ->   3.16993706562132
+H1N1	5wko	Inter-Hydrogen_SD_SD	OD1 ASN 445 HA2 Proto2 old=81   |     NZ LYS 447 HA2 Proto3 old=83 ->   2.70311468495142
+H1N1	5wko	Inter-Hydrogen_SD_SD	ND2 ASN 459 HA2 Proto2 old=95   |     OD1 ASN 459 HA2 Proto3 old=95 ->   3.41303237605506

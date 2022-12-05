@@ -1,0 +1,12 @@
+H5N1	4kth	Inter-RepulsiveNegative	OE1 GLU 428 HA2 Proto1 old=64   |     OD2 ASP 450 HA2 Proto3 old=86 ->   4.78943420457991
+H5N1	4kth	Inter-RepulsiveNegative	OE2 GLU 428 HA2 Proto1 old=64   |     OD1 ASP 450 HA2 Proto3 old=86 ->   4.61004956589406
+H5N1	4kth	Inter-RepulsiveNegative	OE2 GLU 428 HA2 Proto1 old=64   |     OD2 ASP 450 HA2 Proto3 old=86 ->   2.69152503239334
+H5N1	4kth	Inter-RepulsiveNegative	OD1 ASP 450 HA2 Proto1 old=86   |     OE2 GLU 428 HA2 Proto2 old=64 ->   4.5876183363484
+H5N1	4kth	Inter-RepulsiveNegative	OD2 ASP 450 HA2 Proto1 old=86   |     OE1 GLU 428 HA2 Proto2 old=64 ->   4.71808700640419
+H5N1	4kth	Inter-RepulsiveNegative	OD2 ASP 450 HA2 Proto1 old=86   |     OE2 GLU 428 HA2 Proto2 old=64 ->   2.64327448442269
+H5N1	4kth	Inter-RepulsiveNegative	OE1 GLU 467 HA2 Proto1 old=103   |     OE1 GLU 469 HA2 Proto3 old=105 ->   4.52027277937958
+H5N1	4kth	Inter-RepulsiveNegative	OE1 GLU 469 HA2 Proto1 old=105   |     OE1 GLU 467 HA2 Proto2 old=103 ->   4.80276337122703
+H5N1	4kth	Inter-RepulsiveNegative	OD2 ASP 450 HA2 Proto2 old=86   |     OE1 GLU 428 HA2 Proto3 old=64 ->   4.55433716362765
+H5N1	4kth	Inter-RepulsiveNegative	OD2 ASP 450 HA2 Proto2 old=86   |     OE2 GLU 428 HA2 Proto3 old=64 ->   2.46513610171933
+H5N1	4kth	Inter-RepulsiveNegative	OD1 ASP 450 HA2 Proto2 old=86   |     OE2 GLU 428 HA2 Proto3 old=64 ->   4.37063988450204
+H5N1	4kth	Inter-RepulsiveNegative	OE1 GLU 469 HA2 Proto2 old=105   |     OE1 GLU 467 HA2 Proto3 old=103 ->   4.71161745051527

@@ -1,0 +1,17 @@
+H2N1	2wr4	Intra-RepulsiveNegative	OE2 GLU 94 HA1 Proto1 old=85   |     OE2 GLU 433 HA2 Proto1 old=398 ->   4.37491154196288
+H2N1	2wr4	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto1 old=103   |     OE1 GLU 438 HA2 Proto1 old=403 ->   4.54324487563679
+H2N1	2wr4	Intra-RepulsiveNegative	OD2 ASP 205 HA1 Proto1 old=186   |     OE1 GLU 208 HA1 Proto1 old=189 ->   4.9682380176477
+H2N1	2wr4	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto1 old=434   |     OD2 ASP 473 HA2 Proto1 old=438 ->   3.32885205438752
+H2N1	2wr4	Intra-RepulsiveNegative	OE1 GLU 527 HA2 Proto1 old=492   |     OE1 GLU 529 HA2 Proto1 old=494 ->   3.53425777214962
+H2N1	2wr4	Intra-RepulsiveNegative	OE2 GLU 94 HA1 Proto2 old=85   |     OE2 GLU 433 HA2 Proto2 old=398 ->   4.56959122898318
+H2N1	2wr4	Intra-RepulsiveNegative	OD1 ASP 205 HA1 Proto2 old=186   |     OE1 GLU 208 HA1 Proto2 old=189 ->   4.8537616340319
+H2N1	2wr4	Intra-RepulsiveNegative	OE1 GLU 469 HA2 Proto2 old=434   |     OD2 ASP 473 HA2 Proto2 old=438 ->   4.81428000847479
+H2N1	2wr4	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto2 old=434   |     OD2 ASP 473 HA2 Proto2 old=438 ->   3.74857652983102
+H2N1	2wr4	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto2 old=438   |     OD1 ASP 476 HA2 Proto2 old=441 ->   4.74487871288614
+H2N1	2wr4	Intra-RepulsiveNegative	OE1 GLU 527 HA2 Proto2 old=492   |     OE1 GLU 529 HA2 Proto2 old=494 ->   4.47879392247511
+H2N1	2wr4	Intra-RepulsiveNegative	OE2 GLU 94 HA1 Proto3 old=85   |     OE1 GLU 433 HA2 Proto3 old=398 ->   4.12483963324636
+H2N1	2wr4	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto3 old=103   |     OE1 GLU 438 HA2 Proto3 old=403 ->   4.50056907512817
+H2N1	2wr4	Intra-RepulsiveNegative	OD1 ASP 205 HA1 Proto3 old=186   |     OE1 GLU 208 HA1 Proto3 old=189 ->   4.45410799150627
+H2N1	2wr4	Intra-RepulsiveNegative	OD2 ASP 205 HA1 Proto3 old=186   |     OE1 GLU 208 HA1 Proto3 old=189 ->   4.80336028213583
+H2N1	2wr4	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto3 old=434   |     OD2 ASP 473 HA2 Proto3 old=438 ->   3.30644113814234
+H2N1	2wr4	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto3 old=438   |     OD1 ASP 476 HA2 Proto3 old=441 ->   4.89488089742743

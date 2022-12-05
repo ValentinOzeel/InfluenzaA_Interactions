@@ -1,0 +1,4 @@
+H3N2	5kaq	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=492   |     NE ARG 534 HA2 Proto2 old=499 ->   4.64413974811268
+H3N2	5kaq	Inter-RepulsivePositive	NE ARG 534 HA2 Proto1 old=499   |     NH2 ARG 527 HA2 Proto3 old=492 ->   4.46567452911653
+H3N2	5kaq	Inter-RepulsivePositive	NH2 ARG 534 HA2 Proto1 old=499   |     NH2 ARG 527 HA2 Proto3 old=492 ->   4.7848820257139
+H3N2	5kaq	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto2 old=492   |     NE ARG 534 HA2 Proto3 old=499 ->   4.45745824433611

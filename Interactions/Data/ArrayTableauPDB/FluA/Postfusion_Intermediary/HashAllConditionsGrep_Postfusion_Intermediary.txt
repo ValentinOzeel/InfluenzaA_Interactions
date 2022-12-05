@@ -1,0 +1,123 @@
+$VAR1 = {
+          'HA_Clades' => {
+                           'CladeH11_1' => [],
+                           'CladeH17_1' => [],
+                           'CladeH1_1' => [],
+                           'CladeH3_2' => [
+                                            '7K39|H3N2|A/Hong Kong/1/1968 (pH 5.2 - A)|Human|_|Antibody|ELECTRON MICROSCOPY|3',
+                                            '7K37|H3N2|A/Hong Kong/1/1968 (pH 7.8)|Human|_|Antibody|ELECTRON MICROSCOPY|2,8',
+                                            '7K3A|H3N2|A/Hong Kong/1/1968 (pH 5.2 - B)|Human|_|Antibody|ELECTRON MICROSCOPY|4,2',
+                                            '7K3B|H3N2|A/Hong Kong/1/1968 (pH 5.2 - C)|Human|_|Antibody|ELECTRON MICROSCOPY|3,4',
+                                            '6Y5G|H3N2|A/Aichi/2-1/1968 (pH 8)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                            '6Y5H|H3N2|A/Aichi/2-1/1968 (pH 5 - State I)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                            '6Y5I|H3N2|A/Aichi/2-1/1968 (pH 5 - State II)|Human|_|_|ELECTRON MICROSCOPY|5,5',
+                                            '6Y5J|H3N2|A/Aichi/2-1/1968 (pH 5 - State III)|Human|_|_|ELECTRON MICROSCOPY|5,6',
+                                            '6Y5K|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|4,2',
+                                            '6Y5L|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|3,6',
+                                            '1QU1|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|1,9',
+                                            '1HTM|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|2,5'
+                                          ],
+                           'CladeH7_2' => [],
+                           'CladeH9_1' => []
+                         },
+          'HA_Groups' => {
+                           'Group1' => [],
+                           'Group2' => [
+                                         '7K39|H3N2|A/Hong Kong/1/1968 (pH 5.2 - A)|Human|_|Antibody|ELECTRON MICROSCOPY|3',
+                                         '7K37|H3N2|A/Hong Kong/1/1968 (pH 7.8)|Human|_|Antibody|ELECTRON MICROSCOPY|2,8',
+                                         '7K3A|H3N2|A/Hong Kong/1/1968 (pH 5.2 - B)|Human|_|Antibody|ELECTRON MICROSCOPY|4,2',
+                                         '7K3B|H3N2|A/Hong Kong/1/1968 (pH 5.2 - C)|Human|_|Antibody|ELECTRON MICROSCOPY|3,4',
+                                         '6Y5G|H3N2|A/Aichi/2-1/1968 (pH 8)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                         '6Y5H|H3N2|A/Aichi/2-1/1968 (pH 5 - State I)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                         '6Y5I|H3N2|A/Aichi/2-1/1968 (pH 5 - State II)|Human|_|_|ELECTRON MICROSCOPY|5,5',
+                                         '6Y5J|H3N2|A/Aichi/2-1/1968 (pH 5 - State III)|Human|_|_|ELECTRON MICROSCOPY|5,6',
+                                         '6Y5K|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|4,2',
+                                         '6Y5L|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|3,6',
+                                         '1QU1|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|1,9',
+                                         '1HTM|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|2,5'
+                                       ]
+                         },
+          'Hosts' => {
+                       'Human' => [
+                                    '7K39|H3N2|A/Hong Kong/1/1968 (pH 5.2 - A)|Human|_|Antibody|ELECTRON MICROSCOPY|3',
+                                    '7K37|H3N2|A/Hong Kong/1/1968 (pH 7.8)|Human|_|Antibody|ELECTRON MICROSCOPY|2,8',
+                                    '7K3A|H3N2|A/Hong Kong/1/1968 (pH 5.2 - B)|Human|_|Antibody|ELECTRON MICROSCOPY|4,2',
+                                    '7K3B|H3N2|A/Hong Kong/1/1968 (pH 5.2 - C)|Human|_|Antibody|ELECTRON MICROSCOPY|3,4',
+                                    '6Y5G|H3N2|A/Aichi/2-1/1968 (pH 8)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                    '6Y5H|H3N2|A/Aichi/2-1/1968 (pH 5 - State I)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                    '6Y5I|H3N2|A/Aichi/2-1/1968 (pH 5 - State II)|Human|_|_|ELECTRON MICROSCOPY|5,5',
+                                    '6Y5J|H3N2|A/Aichi/2-1/1968 (pH 5 - State III)|Human|_|_|ELECTRON MICROSCOPY|5,6',
+                                    '6Y5K|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|4,2',
+                                    '6Y5L|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|3,6',
+                                    '1QU1|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|1,9',
+                                    '1HTM|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|2,5'
+                                  ]
+                     },
+          'Subtypes' => {
+                          'H3N2' => [
+                                      '7K39|H3N2|A/Hong Kong/1/1968 (pH 5.2 - A)|Human|_|Antibody|ELECTRON MICROSCOPY|3',
+                                      '7K37|H3N2|A/Hong Kong/1/1968 (pH 7.8)|Human|_|Antibody|ELECTRON MICROSCOPY|2,8',
+                                      '7K3A|H3N2|A/Hong Kong/1/1968 (pH 5.2 - B)|Human|_|Antibody|ELECTRON MICROSCOPY|4,2',
+                                      '7K3B|H3N2|A/Hong Kong/1/1968 (pH 5.2 - C)|Human|_|Antibody|ELECTRON MICROSCOPY|3,4',
+                                      '6Y5G|H3N2|A/Aichi/2-1/1968 (pH 8)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                      '6Y5H|H3N2|A/Aichi/2-1/1968 (pH 5 - State I)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                      '6Y5I|H3N2|A/Aichi/2-1/1968 (pH 5 - State II)|Human|_|_|ELECTRON MICROSCOPY|5,5',
+                                      '6Y5J|H3N2|A/Aichi/2-1/1968 (pH 5 - State III)|Human|_|_|ELECTRON MICROSCOPY|5,6',
+                                      '6Y5K|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|4,2',
+                                      '6Y5L|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|3,6',
+                                      '1QU1|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|1,9',
+                                      '1HTM|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|2,5'
+                                    ]
+                        },
+          'SubtypesSameHA' => {
+                                'H1' => [],
+                                'H10' => [],
+                                'H11' => [],
+                                'H12' => [],
+                                'H13' => [],
+                                'H14' => [],
+                                'H15' => [],
+                                'H16' => [],
+                                'H17' => [],
+                                'H18' => [],
+                                'H2' => [],
+                                'H3' => [
+                                          '7K39|H3N2|A/Hong Kong/1/1968 (pH 5.2 - A)|Human|_|Antibody|ELECTRON MICROSCOPY|3',
+                                          '7K37|H3N2|A/Hong Kong/1/1968 (pH 7.8)|Human|_|Antibody|ELECTRON MICROSCOPY|2,8',
+                                          '7K3A|H3N2|A/Hong Kong/1/1968 (pH 5.2 - B)|Human|_|Antibody|ELECTRON MICROSCOPY|4,2',
+                                          '7K3B|H3N2|A/Hong Kong/1/1968 (pH 5.2 - C)|Human|_|Antibody|ELECTRON MICROSCOPY|3,4',
+                                          '6Y5G|H3N2|A/Aichi/2-1/1968 (pH 8)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                          '6Y5H|H3N2|A/Aichi/2-1/1968 (pH 5 - State I)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                          '6Y5I|H3N2|A/Aichi/2-1/1968 (pH 5 - State II)|Human|_|_|ELECTRON MICROSCOPY|5,5',
+                                          '6Y5J|H3N2|A/Aichi/2-1/1968 (pH 5 - State III)|Human|_|_|ELECTRON MICROSCOPY|5,6',
+                                          '6Y5K|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|4,2',
+                                          '6Y5L|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|3,6',
+                                          '1QU1|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|1,9',
+                                          '1HTM|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|2,5'
+                                        ],
+                                'H4' => [],
+                                'H5' => [],
+                                'H6' => [],
+                                'H7' => [],
+                                'H8' => [],
+                                'H9' => []
+                              },
+          'Subtypes_Hosts' => {
+                                'H3N2' => {
+                                            'Human' => [
+                                                         '7K39|H3N2|A/Hong Kong/1/1968 (pH 5.2 - A)|Human|_|Antibody|ELECTRON MICROSCOPY|3',
+                                                         '7K37|H3N2|A/Hong Kong/1/1968 (pH 7.8)|Human|_|Antibody|ELECTRON MICROSCOPY|2,8',
+                                                         '7K3A|H3N2|A/Hong Kong/1/1968 (pH 5.2 - B)|Human|_|Antibody|ELECTRON MICROSCOPY|4,2',
+                                                         '7K3B|H3N2|A/Hong Kong/1/1968 (pH 5.2 - C)|Human|_|Antibody|ELECTRON MICROSCOPY|3,4',
+                                                         '6Y5G|H3N2|A/Aichi/2-1/1968 (pH 8)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                                         '6Y5H|H3N2|A/Aichi/2-1/1968 (pH 5 - State I)|Human|_|_|ELECTRON MICROSCOPY|3',
+                                                         '6Y5I|H3N2|A/Aichi/2-1/1968 (pH 5 - State II)|Human|_|_|ELECTRON MICROSCOPY|5,5',
+                                                         '6Y5J|H3N2|A/Aichi/2-1/1968 (pH 5 - State III)|Human|_|_|ELECTRON MICROSCOPY|5,6',
+                                                         '6Y5K|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|4,2',
+                                                         '6Y5L|H3N2|A/Aichi/2-1/1968 (pH 5 - State IV)|Human|_|_|ELECTRON MICROSCOPY|3,6',
+                                                         '1QU1|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|1,9',
+                                                         '1HTM|H3N2|A/Aichi/2/1968 (Post fusion)|Human|_|_|X-RAY DIFFRACTION|2,5'
+                                                       ]
+                                          }
+                              }
+        };

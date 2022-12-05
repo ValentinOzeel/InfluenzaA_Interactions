@@ -1,0 +1,17 @@
+H10N8	4qy1	Inter-Hydrogen_SD_C	O LEU 32 HA1 Proto1 old=19   |     NE ARG 418 HA2 Proto2 old=377 ->   3.21619588955648
+H10N8	4qy1	Inter-Hydrogen_SD_C	O LEU 32 HA1 Proto1 old=19   |     NH2 ARG 418 HA2 Proto2 old=377 ->   3.4498599971593
+H10N8	4qy1	Inter-Hydrogen_SD_C	O SER 224 HA1 Proto1 old=199   |     NH2 ARG 247 HA1 Proto3 old=222 ->   3.08668641102397
+H10N8	4qy1	Inter-Hydrogen_SD_C	NH2 ARG 247 HA1 Proto1 old=222   |     O SER 224 HA1 Proto2 old=199 ->   2.87427312550495
+H10N8	4qy1	Inter-Hydrogen_SD_C	O GLY 365 HA2 Proto1 old=324   |     ND2 ASN 481 HA2 Proto2 old=440 ->   2.99370689948097
+H10N8	4qy1	Inter-Hydrogen_SD_C	O LEU 366 HA2 Proto1 old=325   |     OG SER 477 HA2 Proto2 old=436 ->   2.64931557199213
+H10N8	4qy1	Inter-Hydrogen_SD_C	NE ARG 418 HA2 Proto1 old=377   |     O LEU 32 HA1 Proto3 old=19 ->   3.07335663404038
+H10N8	4qy1	Inter-Hydrogen_SD_C	NH2 ARG 418 HA2 Proto1 old=377   |     O LEU 32 HA1 Proto3 old=19 ->   3.29353685268588
+H10N8	4qy1	Inter-Hydrogen_SD_C	OG SER 477 HA2 Proto1 old=436   |     O LEU 366 HA2 Proto3 old=325 ->   2.38996108754934
+H10N8	4qy1	Inter-Hydrogen_SD_C	ND2 ASN 481 HA2 Proto1 old=440   |     O GLY 365 HA2 Proto3 old=324 ->   2.82363329772122
+H10N8	4qy1	Inter-Hydrogen_SD_C	NH2 ARG 527 HA2 Proto1 old=486   |     O ARG 534 HA2 Proto3 old=493 ->   3.38529673736291
+H10N8	4qy1	Inter-Hydrogen_SD_C	O ARG 534 HA2 Proto1 old=493   |     NH2 ARG 527 HA2 Proto2 old=486 ->   3.15575553552552
+H10N8	4qy1	Inter-Hydrogen_SD_C	O LEU 32 HA1 Proto2 old=19   |     NE ARG 418 HA2 Proto3 old=377 ->   3.33904791819465
+H10N8	4qy1	Inter-Hydrogen_SD_C	NH2 ARG 247 HA1 Proto2 old=222   |     O SER 224 HA1 Proto3 old=199 ->   2.92146624146164
+H10N8	4qy1	Inter-Hydrogen_SD_C	O GLY 365 HA2 Proto2 old=324   |     ND2 ASN 481 HA2 Proto3 old=440 ->   3.19942791761277
+H10N8	4qy1	Inter-Hydrogen_SD_C	O LEU 366 HA2 Proto2 old=325   |     OG SER 477 HA2 Proto3 old=436 ->   2.58213574391432
+H10N8	4qy1	Inter-Hydrogen_SD_C	O ARG 534 HA2 Proto2 old=493   |     NH2 ARG 527 HA2 Proto3 old=486 ->   2.94633009012908

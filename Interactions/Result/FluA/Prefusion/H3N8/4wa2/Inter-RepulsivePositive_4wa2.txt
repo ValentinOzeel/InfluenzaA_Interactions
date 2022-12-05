@@ -1,0 +1,3 @@
+H3N8	4wa2	Inter-RepulsivePositive	NZ LYS 69 HA1 Proto1 old=65   |     NH2 ARG 226 HA1 Proto2 old=208 ->   4.59070680832483
+H3N8	4wa2	Inter-RepulsivePositive	NE ARG 534 HA2 Proto1 old=499   |     NH2 ARG 527 HA2 Proto2 old=492 ->   4.76625901520259
+H3N8	4wa2	Inter-RepulsivePositive	NE ARG 534 HA2 Proto2 old=499   |     NH2 ARG 527 HA2 Proto3 old=492 ->   4.82024771147707

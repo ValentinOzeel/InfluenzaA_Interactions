@@ -1,0 +1,9 @@
+H3N2	2ypg	Inter-RepulsiveNegative	OE1 GLU 492 HA2 Proto1 old=128   |     OE2 GLU 495 HA2 Proto3 old=131 ->   4.70412850589778
+H3N2	2ypg	Inter-RepulsiveNegative	OE2 GLU 492 HA2 Proto1 old=128   |     OE1 GLU 495 HA2 Proto3 old=131 ->   3.86446024691677
+H3N2	2ypg	Inter-RepulsiveNegative	OE2 GLU 492 HA2 Proto1 old=128   |     OE2 GLU 495 HA2 Proto3 old=131 ->   3.88612982284432
+H3N2	2ypg	Inter-RepulsiveNegative	OE2 GLU 495 HA2 Proto1 old=131   |     OE1 GLU 492 HA2 Proto2 old=128 ->   4.84089475200608
+H3N2	2ypg	Inter-RepulsiveNegative	OE2 GLU 495 HA2 Proto1 old=131   |     OE2 GLU 492 HA2 Proto2 old=128 ->   4.12910414012532
+H3N2	2ypg	Inter-RepulsiveNegative	OE1 GLU 495 HA2 Proto1 old=131   |     OE2 GLU 492 HA2 Proto2 old=128 ->   4.03124124805252
+H3N2	2ypg	Inter-RepulsiveNegative	OE1 GLU 495 HA2 Proto2 old=131   |     OE2 GLU 492 HA2 Proto3 old=128 ->   3.82598588601683
+H3N2	2ypg	Inter-RepulsiveNegative	OE2 GLU 495 HA2 Proto2 old=131   |     OE1 GLU 492 HA2 Proto3 old=128 ->   4.6456037282575
+H3N2	2ypg	Inter-RepulsiveNegative	OE2 GLU 495 HA2 Proto2 old=131   |     OE2 GLU 492 HA2 Proto3 old=128 ->   3.98052772883194

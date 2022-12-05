@@ -1,0 +1,3 @@
+H3N2	7k3b	Inter-RepulsivePositive	NE2 HIS 470 HA2 Proto1 old=106   |     NE2 HIS 470 HA2 Proto2 old=106 ->   4.26067893650767
+H3N2	7k3b	Inter-RepulsivePositive	NE2 HIS 470 HA2 Proto1 old=106   |     NE2 HIS 470 HA2 Proto3 old=106 ->   4.18080111940285
+H3N2	7k3b	Inter-RepulsivePositive	NE2 HIS 470 HA2 Proto2 old=106   |     NE2 HIS 470 HA2 Proto3 old=106 ->   4.22450340276819

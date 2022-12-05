@@ -1,0 +1,10 @@
+H10N7	6tvb	Inter-RepulsivePositive	NZ LYS 117 HA1 Proto1 old=101   |     NE2 HIS 439 HA2 Proto3 old=75 ->   4.31719318539256
+H10N7	6tvb	Inter-RepulsivePositive	ND1 HIS 202 HA1 Proto1 old=177   |     NZ LYS 228 HA1 Proto2 old=203 ->   4.18428942593602
+H10N7	6tvb	Inter-RepulsivePositive	NE2 HIS 202 HA1 Proto1 old=177   |     NZ LYS 228 HA1 Proto2 old=203 ->   3.52443215284391
+H10N7	6tvb	Inter-RepulsivePositive	NZ LYS 228 HA1 Proto1 old=203   |     NE2 HIS 202 HA1 Proto3 old=177 ->   4.24546793651772
+H10N7	6tvb	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto3 old=170 ->   4.66218082017417
+H10N7	6tvb	Inter-RepulsivePositive	NE ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto2 old=163 ->   4.74759328502347
+H10N7	6tvb	Inter-RepulsivePositive	ND1 HIS 202 HA1 Proto2 old=177   |     NZ LYS 228 HA1 Proto3 old=203 ->   4.16442000763611
+H10N7	6tvb	Inter-RepulsivePositive	NE2 HIS 202 HA1 Proto2 old=177   |     NZ LYS 228 HA1 Proto3 old=203 ->   3.74961944735728
+H10N7	6tvb	Inter-RepulsivePositive	ND1 HIS 439 HA2 Proto2 old=75   |     NZ LYS 117 HA1 Proto3 old=101 ->   4.22170877726069
+H10N7	6tvb	Inter-RepulsivePositive	NE ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.77557096062868

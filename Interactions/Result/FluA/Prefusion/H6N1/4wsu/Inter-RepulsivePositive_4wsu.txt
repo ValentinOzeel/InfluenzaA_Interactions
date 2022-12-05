@@ -1,0 +1,2 @@
+H6N1	4wsu	Inter-RepulsivePositive	NH2 ARG 355 HA1 Proto2 old=321   |     NZ LYS 407 HA2 Proto3 old=43 ->   4.54998032962781
+H6N1	4wsu	Inter-RepulsivePositive	NH1 ARG 355 HA1 Proto2 old=321   |     NZ LYS 407 HA2 Proto3 old=43 ->   4.9400973674615

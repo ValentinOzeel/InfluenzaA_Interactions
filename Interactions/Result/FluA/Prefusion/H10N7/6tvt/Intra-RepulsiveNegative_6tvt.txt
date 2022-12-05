@@ -1,0 +1,16 @@
+H10N7	6tvt	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto1 old=104   |     OE1 GLU 428 HA2 Proto1 old=64 ->   3.02867842465984
+H10N7	6tvt	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto1 old=104   |     OE2 GLU 428 HA2 Proto1 old=64 ->   4.79977364049598
+H10N7	6tvt	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto1 old=104   |     OE1 GLU 428 HA2 Proto1 old=64 ->   4.76431338180015
+H10N7	6tvt	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto1 old=109   |     OD2 ASP 476 HA2 Proto1 old=112 ->   4.97797719962638
+H10N7	6tvt	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto2 old=104   |     OE1 GLU 428 HA2 Proto2 old=64 ->   3.23835899801119
+H10N7	6tvt	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto2 old=104   |     OE2 GLU 428 HA2 Proto2 old=64 ->   4.53630785992308
+H10N7	6tvt	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto2 old=104   |     OE1 GLU 428 HA2 Proto2 old=64 ->   3.61931056970798
+H10N7	6tvt	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto2 old=104   |     OE2 GLU 428 HA2 Proto2 old=64 ->   3.73785780895957
+H10N7	6tvt	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto2 old=109   |     OD2 ASP 476 HA2 Proto2 old=112 ->   4.87417870004783
+H10N7	6tvt	Intra-RepulsiveNegative	OD2 ASP 497 HA2 Proto2 old=133   |     OE2 GLU 503 HA2 Proto2 old=139 ->   4.65617450274364
+H10N7	6tvt	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto3 old=104   |     OE1 GLU 428 HA2 Proto3 old=64 ->   3.25609228984684
+H10N7	6tvt	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto3 old=104   |     OE2 GLU 428 HA2 Proto3 old=64 ->   4.61660806220324
+H10N7	6tvt	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto3 old=104   |     OE1 GLU 428 HA2 Proto3 old=64 ->   4.50482441389229
+H10N7	6tvt	Intra-RepulsiveNegative	OE2 GLU 359 HA1 Proto3 old=317   |     OE2 GLU 379 HA2 Proto3 old=15 ->   4.76881211624027
+H10N7	6tvt	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto3 old=109   |     OD2 ASP 476 HA2 Proto3 old=112 ->   4.89363229104926
+H10N7	6tvt	Intra-RepulsiveNegative	OD2 ASP 497 HA2 Proto3 old=133   |     OE2 GLU 503 HA2 Proto3 old=139 ->   4.91624551868598

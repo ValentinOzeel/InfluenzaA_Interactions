@@ -1,0 +1,4 @@
+H17N10	4h32	Intra-RepulsivePositive	NE2 HIS 390 HA2 Proto1 old=354   |     NZ LYS 517 HA2 Proto1 old=481 ->   4.1962193698614
+H17N10	4h32	Intra-RepulsivePositive	NH1 ARG 440 HA2 Proto1 old=404   |     ND1 HIS 443 HA2 Proto1 old=407 ->   4.92128966836946
+H17N10	4h32	Intra-RepulsivePositive	NZ LYS 415 HA2 Proto2 old=379   |     NH1 ARG 470 HA2 Proto2 old=434 ->   3.91318655318144
+H17N10	4h32	Intra-RepulsivePositive	NZ LYS 415 HA2 Proto3 old=379   |     NH1 ARG 470 HA2 Proto3 old=434 ->   4.06810582458225

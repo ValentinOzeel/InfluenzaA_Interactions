@@ -1,0 +1,9 @@
+H1N1	5ujz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto1 old=12   |     ND1 HIS 41 HA1 Proto1 old=32 ->   4.2020143978811
+H1N1	5ujz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto1 old=12   |     NE2 HIS 41 HA1 Proto1 old=32 ->   4.51236656312406
+H1N1	5ujz	Intra-RepulsivePositive	NE ARG 238 HA1 Proto1 old=220   |     NH2 ARG 247 HA1 Proto1 old=229 ->   4.8655290565364
+H1N1	5ujz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto2 old=12   |     ND1 HIS 41 HA1 Proto2 old=32 ->   4.20157934591268
+H1N1	5ujz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto2 old=12   |     NE2 HIS 41 HA1 Proto2 old=32 ->   4.51214649584874
+H1N1	5ujz	Intra-RepulsivePositive	NE ARG 238 HA1 Proto2 old=220   |     NH2 ARG 247 HA1 Proto2 old=229 ->   4.86706698125267
+H1N1	5ujz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto3 old=12   |     ND1 HIS 41 HA1 Proto3 old=32 ->   4.20194443085579
+H1N1	5ujz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto3 old=12   |     NE2 HIS 41 HA1 Proto3 old=32 ->   4.51224655797974
+H1N1	5ujz	Intra-RepulsivePositive	NE ARG 238 HA1 Proto3 old=220   |     NH2 ARG 247 HA1 Proto3 old=229 ->   4.86679453028377

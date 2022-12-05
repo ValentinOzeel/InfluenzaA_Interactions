@@ -1,0 +1,6 @@
+H10N8	5th1	Inter-RepulsiveNegative	OE2 GLU 35 HA1 Proto1 old=32   |     OE1 GLU 421 HA2 Proto2 old=57 ->   4.70733427748656
+H10N8	5th1	Inter-RepulsiveNegative	OE2 GLU 35 HA1 Proto1 old=32   |     OE2 GLU 421 HA2 Proto2 old=57 ->   3.12500975998476
+H10N8	5th1	Inter-RepulsiveNegative	OE1 GLU 35 HA1 Proto1 old=32   |     OE2 GLU 421 HA2 Proto2 old=57 ->   4.27502678354183
+H10N8	5th1	Inter-RepulsiveNegative	OE1 GLU 35 HA1 Proto2 old=32   |     OE1 GLU 421 HA2 Proto3 old=57 ->   4.93739404949616
+H10N8	5th1	Inter-RepulsiveNegative	OE1 GLU 461 HA2 Proto2 old=97   |     OE2 GLU 421 HA2 Proto3 old=57 ->   4.11840612373283
+H10N8	5th1	Inter-RepulsiveNegative	OE2 GLU 461 HA2 Proto2 old=97   |     OE2 GLU 421 HA2 Proto3 old=57 ->   4.89804808061336

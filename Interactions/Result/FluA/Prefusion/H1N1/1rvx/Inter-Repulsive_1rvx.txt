@@ -1,0 +1,11 @@
+H1N1	1rvx	Inter-Repulsive	OE2 GLU 264 HA1 Proto1 old=246   |     OE2 GLU 237 HA1 Proto3 old=219 ->   4.61573547768933
+H1N1	1rvx	Inter-Repulsive	OE1 GLU 421 HA2 Proto1 old=557   |     OE1 GLU 461 HA2 Proto3 old=597 ->   4.9920813294657
+H1N1	1rvx	Inter-Repulsive	OE2 GLU 421 HA2 Proto1 old=557   |     OE1 GLU 461 HA2 Proto3 old=597 ->   4.75876570131374
+H1N1	1rvx	Inter-Repulsive	NE ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto2 old=606 ->   4.65108170214198
+H1N1	1rvx	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto2 old=606 ->   3.65735915654998
+H1N1	1rvx	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=606   |     NE ARG 470 HA2 Proto3 old=606 ->   4.64816318560354
+H1N1	1rvx	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   3.75410362137221
+H1N1	1rvx	Inter-Repulsive	OE2 GLU 237 HA1 Proto2 old=219   |     OE1 GLU 264 HA1 Proto3 old=246 ->   4.94455265924026
+H1N1	1rvx	Inter-Repulsive	OE2 GLU 237 HA1 Proto2 old=219   |     OE2 GLU 264 HA1 Proto3 old=246 ->   4.25362280885365
+H1N1	1rvx	Inter-Repulsive	NE ARG 470 HA2 Proto2 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   4.63075954892931
+H1N1	1rvx	Inter-Repulsive	NH1 ARG 470 HA2 Proto2 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   3.82772438924225

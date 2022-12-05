@@ -1,0 +1,17 @@
+H1N1	3ubn	Intra-RepulsiveNegative	OD2 ASP 14 HA1 Proto1 old=11   |     OE1 GLU 393 HA2 Proto1 old=29 ->   4.91029540862869
+H1N1	3ubn	Intra-RepulsiveNegative	OD1 ASP 14 HA1 Proto1 old=11   |     OE1 GLU 393 HA2 Proto1 old=29 ->   4.89115957621503
+H1N1	3ubn	Intra-RepulsiveNegative	OE1 GLU 47 HA1 Proto1 old=44   |     OD1 ASP 48 HA1 Proto1 old=45 ->   4.57597301128405
+H1N1	3ubn	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto1 old=106   |     OE1 GLU 438 HA2 Proto1 old=74 ->   4.78479675639415
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto1 old=105   |     OD1 ASP 473 HA2 Proto1 old=109 ->   3.90244244031863
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto1 old=105   |     OD2 ASP 473 HA2 Proto1 old=109 ->   4.18009688882926
+H1N1	3ubn	Intra-RepulsiveNegative	OE1 GLU 528 HA2 Proto1 old=164   |     OE1 GLU 529 HA2 Proto1 old=165 ->   4.5321582055352
+H1N1	3ubn	Intra-RepulsiveNegative	OE1 GLU 47 HA1 Proto2 old=44   |     OD1 ASP 48 HA1 Proto2 old=45 ->   3.93237129477877
+H1N1	3ubn	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto2 old=106   |     OE1 GLU 438 HA2 Proto2 old=74 ->   4.86084128520979
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 256 HA1 Proto2 old=238   |     OD2 ASP 259 HA1 Proto2 old=241 ->   4.40593792511879
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto2 old=105   |     OD1 ASP 473 HA2 Proto2 old=109 ->   3.26131675861146
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto2 old=105   |     OD2 ASP 473 HA2 Proto2 old=109 ->   3.65530244986649
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 528 HA2 Proto2 old=164   |     OE1 GLU 529 HA2 Proto2 old=165 ->   4.71077371564374
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 47 HA1 Proto3 old=44   |     OD1 ASP 48 HA1 Proto3 old=45 ->   4.73642586767702
+H1N1	3ubn	Intra-RepulsiveNegative	OE1 GLU 94 HA1 Proto3 old=89   |     OE1 GLU 433 HA2 Proto3 old=69 ->   4.98078447636514
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto3 old=105   |     OD1 ASP 473 HA2 Proto3 old=109 ->   3.52549471705745
+H1N1	3ubn	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto3 old=105   |     OD2 ASP 473 HA2 Proto3 old=109 ->   3.67917708190296

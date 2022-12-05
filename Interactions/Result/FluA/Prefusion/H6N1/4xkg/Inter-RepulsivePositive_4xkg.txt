@@ -1,0 +1,4 @@
+H6N1	4xkg	Inter-RepulsivePositive	NH2 ARG 491 HA2 Proto1 old=127   |     NZ LYS 487 HA2 Proto2 old=123 ->   3.96469027794101
+H6N1	4xkg	Inter-RepulsivePositive	NH1 ARG 491 HA2 Proto1 old=127   |     NZ LYS 487 HA2 Proto2 old=123 ->   3.95248036048253
+H6N1	4xkg	Inter-RepulsivePositive	NZ LYS 407 HA2 Proto2 old=43   |     NH2 ARG 355 HA1 Proto3 old=321 ->   4.71289390926636
+H6N1	4xkg	Inter-RepulsivePositive	ND1 HIS 432 HA2 Proto2 old=68   |     NH2 ARG 447 HA2 Proto3 old=83 ->   4.82904390122932

@@ -1,0 +1,17 @@
+H10N2	4cz0	Inter-Hydrogen_SD_C	OG SER 221 HA1 Proto1 old=203   |     O VAL 235 HA1 Proto3 old=217 ->   3.41973259188493
+H10N2	4cz0	Inter-Hydrogen_SD_C	O SER 224 HA1 Proto1 old=206   |     NH1 ARG 247 HA1 Proto3 old=229 ->   2.79379079388561
+H10N2	4cz0	Inter-Hydrogen_SD_C	O VAL 235 HA1 Proto1 old=217   |     OG SER 221 HA1 Proto2 old=203 ->   2.74158968483615
+H10N2	4cz0	Inter-Hydrogen_SD_C	NE ARG 247 HA1 Proto1 old=229   |     O SER 224 HA1 Proto2 old=206 ->   3.14584138188816
+H10N2	4cz0	Inter-Hydrogen_SD_C	NH2 ARG 247 HA1 Proto1 old=229   |     O SER 224 HA1 Proto2 old=206 ->   3.10631421462801
+H10N2	4cz0	Inter-Hydrogen_SD_C	O GLY 365 HA2 Proto1 old=1   |     ND2 ASN 481 HA2 Proto2 old=117 ->   2.92045150618872
+H10N2	4cz0	Inter-Hydrogen_SD_C	O LEU 366 HA2 Proto1 old=2   |     OG SER 477 HA2 Proto2 old=113 ->   3.16863598414207
+H10N2	4cz0	Inter-Hydrogen_SD_C	NH1 ARG 418 HA2 Proto1 old=54   |     O LEU 32 HA1 Proto3 old=29 ->   2.68440682460763
+H10N2	4cz0	Inter-Hydrogen_SD_C	ND2 ASN 481 HA2 Proto1 old=117   |     O GLY 365 HA2 Proto3 old=1 ->   3.24965367385511
+H10N2	4cz0	Inter-Hydrogen_SD_C	ND2 ASN 481 HA2 Proto1 old=117   |     O LEU 366 HA2 Proto3 old=2 ->   3.42397678146333
+H10N2	4cz0	Inter-Hydrogen_SD_C	O LEU 32 HA1 Proto2 old=29   |     NH1 ARG 418 HA2 Proto3 old=54 ->   2.76127850822767
+H10N2	4cz0	Inter-Hydrogen_SD_C	N ALA 237 HA1 Proto2 old=219   |     OG SER 264 HA1 Proto3 old=246 ->   3.10358550711914
+H10N2	4cz0	Inter-Hydrogen_SD_C	O ALA 237 HA1 Proto2 old=219   |     OG SER 264 HA1 Proto3 old=246 ->   2.64813689223197
+H10N2	4cz0	Inter-Hydrogen_SD_C	O GLY 365 HA2 Proto2 old=1   |     OG SER 477 HA2 Proto3 old=113 ->   2.85660130224713
+H10N2	4cz0	Inter-Hydrogen_SD_C	O GLY 365 HA2 Proto2 old=1   |     ND2 ASN 481 HA2 Proto3 old=117 ->   3.13768656815814
+H10N2	4cz0	Inter-Hydrogen_SD_C	O LEU 366 HA2 Proto2 old=2   |     OG SER 477 HA2 Proto3 old=113 ->   2.73335581291569
+H10N2	4cz0	Inter-Hydrogen_SD_C	O ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   3.49303149141258

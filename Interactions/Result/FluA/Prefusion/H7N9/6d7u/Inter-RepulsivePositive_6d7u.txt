@@ -1,0 +1,9 @@
+H7N9	6d7u	Inter-RepulsivePositive	NH2 ARG 340 HA1 Proto1 old=298   |     NZ LYS 343 HA1 Proto2 old=301 ->   4.87141242351743
+H7N9	6d7u	Inter-RepulsivePositive	NH1 ARG 488 HA2 Proto1 old=124   |     NZ LYS 487 HA2 Proto2 old=123 ->   4.2240758752655
+H7N9	6d7u	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto1 old=124   |     NZ LYS 487 HA2 Proto2 old=123 ->   4.50344645799193
+H7N9	6d7u	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto2 old=170 ->   3.69204442010115
+H7N9	6d7u	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=163   |     NH2 ARG 534 HA2 Proto2 old=170 ->   3.85682122997683
+H7N9	6d7u	Inter-RepulsivePositive	NE ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.04319490007593
+H7N9	6d7u	Inter-RepulsivePositive	NH2 ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.02720324791288
+H7N9	6d7u	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto2 old=163   |     NE ARG 534 HA2 Proto3 old=170 ->   3.79601488405934
+H7N9	6d7u	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto2 old=163   |     NH2 ARG 534 HA2 Proto3 old=170 ->   4.03502131345053

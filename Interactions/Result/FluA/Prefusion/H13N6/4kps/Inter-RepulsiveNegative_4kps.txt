@@ -1,0 +1,4 @@
+H13N6	4kps	Inter-RepulsiveNegative	OE1 GLU 107 HA1 Proto1 old=99   |     OE2 GLU 229 HA1 Proto2 old=211 ->   4.90657823742779
+H13N6	4kps	Inter-RepulsiveNegative	OE2 GLU 229 HA1 Proto1 old=211   |     OE1 GLU 107 HA1 Proto3 old=99 ->   4.90825692074081
+H13N6	4kps	Inter-RepulsiveNegative	OE2 GLU 107 HA1 Proto2 old=99   |     OE2 GLU 229 HA1 Proto3 old=211 ->   4.90477583585631
+H13N6	4kps	Inter-RepulsiveNegative	OE1 GLU 107 HA1 Proto2 old=99   |     OE2 GLU 229 HA1 Proto3 old=211 ->   4.83028643043039

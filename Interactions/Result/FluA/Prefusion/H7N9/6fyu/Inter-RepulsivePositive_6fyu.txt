@@ -1,0 +1,6 @@
+H7N9	6fyu	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto1 old=123   |     NZ LYS 487 HA2 Proto2 old=123 ->   4.46451273937034
+H7N9	6fyu	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto1 old=123   |     NZ LYS 487 HA2 Proto3 old=123 ->   4.30828991596434
+H7N9	6fyu	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto3 old=170 ->   4.70986135677049
+H7N9	6fyu	Inter-RepulsivePositive	NZ LYS 343 HA1 Proto2 old=310   |     NH2 ARG 340 HA1 Proto3 old=307 ->   4.82526455233285
+H7N9	6fyu	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto2 old=123   |     NZ LYS 487 HA2 Proto3 old=123 ->   4.30881491828089
+H7N9	6fyu	Inter-RepulsivePositive	NE ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.93665007874774

@@ -1,0 +1,4 @@
+H1N1	3ubq	Inter-RepulsiveNegative	OE2 GLU 34 HA1 Proto1 old=31   |     OE2 GLU 411 HA2 Proto3 old=47 ->   4.2372487536136
+H1N1	3ubq	Inter-RepulsiveNegative	OE2 GLU 411 HA2 Proto1 old=47   |     OE2 GLU 34 HA1 Proto2 old=31 ->   3.9208138185841
+H1N1	3ubq	Inter-RepulsiveNegative	OE2 GLU 484 HA2 Proto1 old=120   |     OE1 GLU 484 HA2 Proto2 old=120 ->   4.754650565499
+H1N1	3ubq	Inter-RepulsiveNegative	OE2 GLU 411 HA2 Proto2 old=47   |     OE2 GLU 34 HA1 Proto3 old=31 ->   4.15050189736133

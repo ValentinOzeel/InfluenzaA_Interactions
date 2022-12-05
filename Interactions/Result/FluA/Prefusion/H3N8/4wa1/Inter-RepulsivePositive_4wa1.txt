@@ -1,0 +1,5 @@
+H3N8	4wa1	Inter-RepulsivePositive	NH1 ARG 219 HA1 Proto1 old=201   |     NH1 ARG 238 HA1 Proto3 old=220 ->   4.41010816193889
+H3N8	4wa1	Inter-RepulsivePositive	NH1 ARG 219 HA1 Proto1 old=201   |     NH2 ARG 238 HA1 Proto3 old=220 ->   4.54701990318934
+H3N8	4wa1	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=492   |     NE ARG 534 HA2 Proto3 old=499 ->   4.88341048858275
+H3N8	4wa1	Inter-RepulsivePositive	NE ARG 534 HA2 Proto1 old=499   |     NH2 ARG 527 HA2 Proto2 old=492 ->   4.69330949331066
+H3N8	4wa1	Inter-RepulsivePositive	NE ARG 534 HA2 Proto2 old=499   |     NH2 ARG 527 HA2 Proto3 old=492 ->   4.76069175645724

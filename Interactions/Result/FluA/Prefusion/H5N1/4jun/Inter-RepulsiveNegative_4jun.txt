@@ -1,0 +1,1 @@
+H5N1	4jun	Inter-RepulsiveNegative	OE1 GLU 469 HA2 Proto1 old=105   |     OE1 GLU 467 HA2 Proto3 old=103 ->   4.96470885349786

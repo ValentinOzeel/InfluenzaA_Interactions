@@ -1,0 +1,1614 @@
+
+>4k3xProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H18N11/4k3x.pdb
+
+>4k3xProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H18N11/4k3x.pdb
+
+>4k3xProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H18N11/4k3x.pdb
+
+>4mc5Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H18N11/4mc5.pdb
+
+>4mc5Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H18N11/4mc5.pdb
+
+>4mc5Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H18N11/4mc5.pdb
+
+>4kpsProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H13N6/4kps.pdb
+
+>4kpsProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H13N6/4kps.pdb
+
+>4kpsProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H13N6/4kps.pdb
+
+>4kpqProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H13N6/4kpq.pdb
+
+>4kpqProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H13N6/4kpq.pdb
+
+>4kpqProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H13N6/4kpq.pdb
+
+>5ykcProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N2/5ykc.pdb
+
+>5ykcProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N2/5ykc.pdb
+
+>5ykcProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N2/5ykc.pdb
+
+>4f3zProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N2/4f3z.pdb
+
+>4f3zProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N2/4f3z.pdb
+
+>4f3zProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N2/4f3z.pdb
+
+>4unxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unx.pdb
+
+>4unxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unx.pdb
+
+>4unxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unx.pdb
+
+>4unyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uny.pdb
+
+>4unyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uny.pdb
+
+>4unyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uny.pdb
+
+>4unzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unz.pdb
+
+>4unzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unz.pdb
+
+>4unzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unz.pdb
+
+>4wa2Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4wa2.pdb
+
+>4wa2Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4wa2.pdb
+
+>4wa2Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4wa2.pdb
+
+>4wa1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4wa1.pdb
+
+>4wa1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4wa1.pdb
+
+>4wa1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4wa1.pdb
+
+>4uo5Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo5.pdb
+
+>4uo5Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo5.pdb
+
+>4uo5Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo5.pdb
+
+>4uo7Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo7.pdb
+
+>4uo7Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo7.pdb
+
+>4uo7Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo7.pdb
+
+>1mqlProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mql.pdb
+
+>1mqlProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mql.pdb
+
+>1mqlProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mql.pdb
+
+>4unwProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unw.pdb
+
+>4unwProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unw.pdb
+
+>4unwProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4unw.pdb
+
+>4uo3Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo3.pdb
+
+>4uo3Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo3.pdb
+
+>4uo3Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo3.pdb
+
+>1mqmProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mqm.pdb
+
+>1mqmProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mqm.pdb
+
+>1mqmProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mqm.pdb
+
+>4uo1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo1.pdb
+
+>4uo1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo1.pdb
+
+>4uo1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo1.pdb
+
+>4uo0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo0.pdb
+
+>4uo0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo0.pdb
+
+>4uo0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/4uo0.pdb
+
+>1mqnProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mqn.pdb
+
+>1mqnProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mqn.pdb
+
+>1mqnProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N8/1mqn.pdb
+
+>4dj8Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj8.pdb
+
+>4dj8Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj8.pdb
+
+>4dj8Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj8.pdb
+
+>4fqvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4fqv.pdb
+
+>4fqvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4fqv.pdb
+
+>4fqvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4fqv.pdb
+
+>4dj6Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj6.pdb
+
+>4dj6Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj6.pdb
+
+>4dj6Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj6.pdb
+
+>4dj7Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj7.pdb
+
+>4dj7Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj7.pdb
+
+>4dj7Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N7/4dj7.pdb
+
+>4ln8Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln8.pdb
+
+>4ln8Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln8.pdb
+
+>4ln8Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln8.pdb
+
+>6d8dProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d8d.pdb
+
+>6d8dProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d8d.pdb
+
+>6d8dProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d8d.pdb
+
+>6ii8Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6ii8.pdb
+
+>6ii8Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6ii8.pdb
+
+>6ii8Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6ii8.pdb
+
+>6ii9Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6ii9.pdb
+
+>6ii9Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6ii9.pdb
+
+>6ii9Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6ii9.pdb
+
+>4lcxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4lcx.pdb
+
+>4lcxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4lcx.pdb
+
+>4lcxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4lcx.pdb
+
+>6d8bProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d8b.pdb
+
+>6d8bProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d8b.pdb
+
+>6d8bProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d8b.pdb
+
+>4ln3Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln3.pdb
+
+>4ln3Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln3.pdb
+
+>4ln3Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln3.pdb
+
+>6fyuProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6fyu.pdb
+
+>6fyuProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6fyu.pdb
+
+>6fyuProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6fyu.pdb
+
+>6d7cProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d7c.pdb
+
+>6d7cProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d7c.pdb
+
+>6d7cProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d7c.pdb
+
+>6id2Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6id2.pdb
+
+>6id2Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6id2.pdb
+
+>6id2Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6id2.pdb
+
+>6iddProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6idd.pdb
+
+>6iddProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6idd.pdb
+
+>6iddProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6idd.pdb
+
+>6d7uProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d7u.pdb
+
+>6d7uProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d7u.pdb
+
+>6d7uProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/6d7u.pdb
+
+>5t6sProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/5t6s.pdb
+
+>5t6sProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/5t6s.pdb
+
+>5t6sProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/5t6s.pdb
+
+>4ln4Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln4.pdb
+
+>4ln4Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln4.pdb
+
+>4ln4Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln4.pdb
+
+>4ln6Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln6.pdb
+
+>4ln6Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln6.pdb
+
+>4ln6Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N9/4ln6.pdb
+
+>4fiuProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H16N3/4fiu.pdb
+
+>4fiuProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H16N3/4fiu.pdb
+
+>4fiuProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H16N3/4fiu.pdb
+
+>4f23Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H16N3/4f23.pdb
+
+>4f23Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H16N3/4f23.pdb
+
+>4f23Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H16N3/4f23.pdb
+
+>4wssProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N2/4wss.pdb
+
+>4wssProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N2/4wss.pdb
+
+>4wssProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N2/4wss.pdb
+
+>4wsrProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N2/4wsr.pdb
+
+>4wsrProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N2/4wsr.pdb
+
+>4wsrProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N2/4wsr.pdb
+
+>4h32Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H17N10/4h32.pdb
+
+>4h32Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H17N10/4h32.pdb
+
+>4h32Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H17N10/4h32.pdb
+
+>5y2mProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5y2m.pdb
+
+>5y2mProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5y2m.pdb
+
+>5y2mProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5y2m.pdb
+
+>5xl2Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl2.pdb
+
+>5xl2Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl2.pdb
+
+>5xl2Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl2.pdb
+
+>5xl8Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl8.pdb
+
+>5xl8Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl8.pdb
+
+>5xl8Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl8.pdb
+
+>5xl9Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl9.pdb
+
+>5xl9Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl9.pdb
+
+>5xl9Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/5xl9.pdb
+
+>6v44Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/6v44.pdb
+
+>6v44Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/6v44.pdb
+
+>6v44Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H4N6/6v44.pdb
+
+>5th1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5th1.pdb
+
+>5th1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5th1.pdb
+
+>5th1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5th1.pdb
+
+>5th0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5th0.pdb
+
+>5th0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5th0.pdb
+
+>5th0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5th0.pdb
+
+>5thbProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5thb.pdb
+
+>5thbProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5thb.pdb
+
+>5thbProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5thb.pdb
+
+>5thcProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5thc.pdb
+
+>5thcProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5thc.pdb
+
+>5thcProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5thc.pdb
+
+>5tgoProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgo.pdb
+
+>5tgoProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgo.pdb
+
+>5tgoProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgo.pdb
+
+>4xq5Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xq5.pdb
+
+>4xq5Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xq5.pdb
+
+>4xq5Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xq5.pdb
+
+>4xquProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xqu.pdb
+
+>4xquProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xqu.pdb
+
+>4xquProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xqu.pdb
+
+>4qy2Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy2.pdb
+
+>4qy2Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy2.pdb
+
+>4qy2Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy2.pdb
+
+>4qy1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy1.pdb
+
+>4qy1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy1.pdb
+
+>4qy1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy1.pdb
+
+>4qy0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy0.pdb
+
+>4qy0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy0.pdb
+
+>4qy0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4qy0.pdb
+
+>4xqoProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xqo.pdb
+
+>4xqoProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xqo.pdb
+
+>4xqoProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4xqo.pdb
+
+>5tguProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgu.pdb
+
+>5tguProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgu.pdb
+
+>5tguProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgu.pdb
+
+>5tgvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgv.pdb
+
+>5tgvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgv.pdb
+
+>5tgvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/5tgv.pdb
+
+>4wsxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4wsx.pdb
+
+>4wsxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4wsx.pdb
+
+>4wsxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N8/4wsx.pdb
+
+>4w8nProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N3/4w8n.pdb
+
+>4w8nProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N3/4w8n.pdb
+
+>4w8nProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N3/4w8n.pdb
+
+>6v46Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H8N4/6v46.pdb
+
+>6v46Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H8N4/6v46.pdb
+
+>6v46Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H8N4/6v46.pdb
+
+>6twhProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twh.pdb
+
+>6twhProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twh.pdb
+
+>6twhProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twh.pdb
+
+>6twiProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twi.pdb
+
+>6twiProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twi.pdb
+
+>6twiProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twi.pdb
+
+>6ty1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6ty1.pdb
+
+>6ty1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6ty1.pdb
+
+>6ty1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6ty1.pdb
+
+>4wswProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/4wsw.pdb
+
+>4wswProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/4wsw.pdb
+
+>4wswProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/4wsw.pdb
+
+>6tjwProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tjw.pdb
+
+>6tjwProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tjw.pdb
+
+>6tjwProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tjw.pdb
+
+>6tjyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tjy.pdb
+
+>6tjyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tjy.pdb
+
+>6tjyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tjy.pdb
+
+>6tvfProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvf.pdb
+
+>6tvfProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvf.pdb
+
+>6tvfProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvf.pdb
+
+>6twvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twv.pdb
+
+>6twvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twv.pdb
+
+>6twvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6twv.pdb
+
+>6tvrProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvr.pdb
+
+>6tvrProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvr.pdb
+
+>6tvrProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvr.pdb
+
+>6tvdProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvd.pdb
+
+>6tvdProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvd.pdb
+
+>6tvdProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvd.pdb
+
+>6tvsProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvs.pdb
+
+>6tvsProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvs.pdb
+
+>6tvsProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvs.pdb
+
+>6txoProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6txo.pdb
+
+>6txoProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6txo.pdb
+
+>6txoProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6txo.pdb
+
+>6twsProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tws.pdb
+
+>6twsProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tws.pdb
+
+>6twsProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tws.pdb
+
+>6tvaProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tva.pdb
+
+>6tvaProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tva.pdb
+
+>6tvaProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tva.pdb
+
+>6tvcProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvc.pdb
+
+>6tvcProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvc.pdb
+
+>6tvcProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvc.pdb
+
+>6tvtProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvt.pdb
+
+>6tvtProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvt.pdb
+
+>6tvtProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvt.pdb
+
+>4d00Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/4d00.pdb
+
+>4d00Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/4d00.pdb
+
+>4d00Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/4d00.pdb
+
+>6tvbProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvb.pdb
+
+>6tvbProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvb.pdb
+
+>6tvbProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N7/6tvb.pdb
+
+>4hg4Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/4hg4.pdb
+
+>4hg4Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/4hg4.pdb
+
+>4hg4Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/4hg4.pdb
+
+>2wrbProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrb.pdb
+
+>2wrbProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrb.pdb
+
+>2wrbProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrb.pdb
+
+>2wrcProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrc.pdb
+
+>2wrcProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrc.pdb
+
+>2wrcProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrc.pdb
+
+>2wr7Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr7.pdb
+
+>2wr7Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr7.pdb
+
+>2wr7Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr7.pdb
+
+>2wrdProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrd.pdb
+
+>2wrdProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrd.pdb
+
+>2wrdProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrd.pdb
+
+>2wr2Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr2.pdb
+
+>2wr2Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr2.pdb
+
+>2wr2Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr2.pdb
+
+>2wreProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wre.pdb
+
+>2wreProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wre.pdb
+
+>2wreProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wre.pdb
+
+>2wr1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr1.pdb
+
+>2wr1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr1.pdb
+
+>2wr1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr1.pdb
+
+>2wr0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr0.pdb
+
+>2wr0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr0.pdb
+
+>2wr0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wr0.pdb
+
+>2wrfProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrf.pdb
+
+>2wrfProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrf.pdb
+
+>2wrfProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/2wrf.pdb
+
+>4hlzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/4hlz.pdb
+
+>4hlzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/4hlz.pdb
+
+>4hlzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/4hlz.pdb
+
+>3qqoProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/3qqo.pdb
+
+>3qqoProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/3qqo.pdb
+
+>3qqoProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N2/3qqo.pdb
+
+>5hu8Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N6/5hu8.pdb
+
+>5hu8Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N6/5hu8.pdb
+
+>5hu8Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N6/5hu8.pdb
+
+>5jw4Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5jw4.pdb
+
+>5jw4Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5jw4.pdb
+
+>5jw4Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5jw4.pdb
+
+>3znkProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znk.pdb
+
+>3znkProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znk.pdb
+
+>3znkProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znk.pdb
+
+>4bgzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bgz.pdb
+
+>4bgzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bgz.pdb
+
+>4bgzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bgz.pdb
+
+>3fkuProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3fku.pdb
+
+>3fkuProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3fku.pdb
+
+>3fkuProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3fku.pdb
+
+>6e7hProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6e7h.pdb
+
+>6e7hProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6e7h.pdb
+
+>6e7hProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6e7h.pdb
+
+>4bh1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bh1.pdb
+
+>4bh1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bh1.pdb
+
+>4bh1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bh1.pdb
+
+>3znlProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znl.pdb
+
+>3znlProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znl.pdb
+
+>3znlProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znl.pdb
+
+>5e2zProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e2z.pdb
+
+>5e2zProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e2z.pdb
+
+>5e2zProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e2z.pdb
+
+>3znmProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znm.pdb
+
+>3znmProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znm.pdb
+
+>3znmProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3znm.pdb
+
+>4bh0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bh0.pdb
+
+>4bh0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bh0.pdb
+
+>4bh0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4bh0.pdb
+
+>5e2yProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e2y.pdb
+
+>5e2yProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e2y.pdb
+
+>5e2yProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e2y.pdb
+
+>4cqwProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqw.pdb
+
+>4cqwProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqw.pdb
+
+>4cqwProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqw.pdb
+
+>4cqvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqv.pdb
+
+>4cqvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqv.pdb
+
+>4cqvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqv.pdb
+
+>4n5yProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4n5y.pdb
+
+>4n5yProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4n5y.pdb
+
+>4n5yProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4n5y.pdb
+
+>4n5zProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4n5z.pdb
+
+>4n5zProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4n5z.pdb
+
+>4n5zProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4n5z.pdb
+
+>4kdnProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdn.pdb
+
+>4kdnProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdn.pdb
+
+>4kdnProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdn.pdb
+
+>4mhjProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhj.pdb
+
+>4mhjProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhj.pdb
+
+>4mhjProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhj.pdb
+
+>4kdoProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdo.pdb
+
+>4kdoProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdo.pdb
+
+>4kdoProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdo.pdb
+
+>4kdmProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdm.pdb
+
+>4kdmProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdm.pdb
+
+>4kdmProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdm.pdb
+
+>4mhhProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhh.pdb
+
+>4mhhProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhh.pdb
+
+>4mhhProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhh.pdb
+
+>2ibxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/2ibx.pdb
+
+>2ibxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/2ibx.pdb
+
+>2ibxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/2ibx.pdb
+
+>4mhiProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhi.pdb
+
+>4mhiProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhi.pdb
+
+>4mhiProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4mhi.pdb
+
+>6cf5Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6cf5.pdb
+
+>6cf5Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6cf5.pdb
+
+>6cf5Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6cf5.pdb
+
+>4junProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4jun.pdb
+
+>4junProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4jun.pdb
+
+>4junProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4jun.pdb
+
+>4cqxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqx.pdb
+
+>4cqxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqx.pdb
+
+>4cqxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqx.pdb
+
+>4cqyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqy.pdb
+
+>4cqyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqy.pdb
+
+>4cqyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4cqy.pdb
+
+>4kdqProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdq.pdb
+
+>4kdqProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdq.pdb
+
+>4kdqProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kdq.pdb
+
+>4julProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4jul.pdb
+
+>4julProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4jul.pdb
+
+>4julProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4jul.pdb
+
+>2fk0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/2fk0.pdb
+
+>2fk0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/2fk0.pdb
+
+>2fk0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/2fk0.pdb
+
+>6b3mProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6b3m.pdb
+
+>6b3mProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6b3m.pdb
+
+>6b3mProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6b3m.pdb
+
+>5e30Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e30.pdb
+
+>5e30Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e30.pdb
+
+>5e30Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/5e30.pdb
+
+>6vmzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6vmz.pdb
+
+>6vmzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6vmz.pdb
+
+>6vmzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6vmz.pdb
+
+>4kthProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kth.pdb
+
+>4kthProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kth.pdb
+
+>4kthProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/4kth.pdb
+
+>3s11Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3s11.pdb
+
+>3s11Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3s11.pdb
+
+>3s11Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/3s11.pdb
+
+>6e7gProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6e7g.pdb
+
+>6e7gProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6e7g.pdb
+
+>6e7gProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N1/6e7g.pdb
+
+>5hufProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N8/5huf.pdb
+
+>5hufProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N8/5huf.pdb
+
+>5hufProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H5N8/5huf.pdb
+
+>6v49Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H15N9/6v49.pdb
+
+>6v49Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H15N9/6v49.pdb
+
+>6v49Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H15N9/6v49.pdb
+
+>3m5gProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5g.pdb
+
+>3m5gProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5g.pdb
+
+>3m5gProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5g.pdb
+
+>3m5hProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5h.pdb
+
+>3m5hProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5h.pdb
+
+>3m5hProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5h.pdb
+
+>3m5iProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5i.pdb
+
+>3m5iProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5i.pdb
+
+>3m5iProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5i.pdb
+
+>6mlmProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/6mlm.pdb
+
+>6mlmProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/6mlm.pdb
+
+>6mlmProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/6mlm.pdb
+
+>3m5jProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5j.pdb
+
+>3m5jProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5j.pdb
+
+>3m5jProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H7N2/3m5j.pdb
+
+>6v47Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H11N9/6v47.pdb
+
+>6v47Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H11N9/6v47.pdb
+
+>6v47Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H11N9/6v47.pdb
+
+>1hgiProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgi.pdb
+
+>1hgiProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgi.pdb
+
+>1hgiProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgi.pdb
+
+>2hmgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/2hmg.pdb
+
+>2hmgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/2hmg.pdb
+
+>2hmgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/2hmg.pdb
+
+>1hghProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgh.pdb
+
+>1hghProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgh.pdb
+
+>1hghProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgh.pdb
+
+>5xrsProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5xrs.pdb
+
+>5xrsProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5xrs.pdb
+
+>5xrsProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5xrs.pdb
+
+>1hgjProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgj.pdb
+
+>1hgjProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgj.pdb
+
+>1hgjProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgj.pdb
+
+>3vunProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3vun.pdb
+
+>3vunProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3vun.pdb
+
+>3vunProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3vun.pdb
+
+>4fqrProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4fqr.pdb
+
+>4fqrProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4fqr.pdb
+
+>4fqrProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4fqr.pdb
+
+>3wheProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3whe.pdb
+
+>3wheProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3whe.pdb
+
+>3wheProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3whe.pdb
+
+>5thfProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5thf.pdb
+
+>5thfProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5thf.pdb
+
+>5thfProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5thf.pdb
+
+>6p6pProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6p6p.pdb
+
+>6p6pProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6p6p.pdb
+
+>6p6pProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6p6p.pdb
+
+>6mzkProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mzk.pdb
+
+>6mzkProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mzk.pdb
+
+>6mzkProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mzk.pdb
+
+>6bkmProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6bkm.pdb
+
+>6bkmProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6bkm.pdb
+
+>6bkmProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6bkm.pdb
+
+>4o5iProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4o5i.pdb
+
+>4o5iProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4o5i.pdb
+
+>4o5iProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4o5i.pdb
+
+>6mxuProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mxu.pdb
+
+>6mxuProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mxu.pdb
+
+>6mxuProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mxu.pdb
+
+>5xrtProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5xrt.pdb
+
+>5xrtProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5xrt.pdb
+
+>5xrtProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5xrt.pdb
+
+>5kanProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kan.pdb
+
+>5kanProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kan.pdb
+
+>5kanProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kan.pdb
+
+>6pdxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6pdx.pdb
+
+>6pdxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6pdx.pdb
+
+>6pdxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6pdx.pdb
+
+>4hmgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4hmg.pdb
+
+>4hmgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4hmg.pdb
+
+>4hmgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4hmg.pdb
+
+>2ypgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/2ypg.pdb
+
+>2ypgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/2ypg.pdb
+
+>2ypgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/2ypg.pdb
+
+>5vtzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtz.pdb
+
+>5vtzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtz.pdb
+
+>5vtzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtz.pdb
+
+>5k9qProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5k9q.pdb
+
+>5k9qProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5k9q.pdb
+
+>5k9qProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5k9q.pdb
+
+>6wxbProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6wxb.pdb
+
+>6wxbProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6wxb.pdb
+
+>6wxbProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6wxb.pdb
+
+>5kuyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kuy.pdb
+
+>5kuyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kuy.pdb
+
+>5kuyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kuy.pdb
+
+>5t6nProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5t6n.pdb
+
+>5t6nProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5t6n.pdb
+
+>5t6nProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5t6n.pdb
+
+>5vtyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vty.pdb
+
+>5vtyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vty.pdb
+
+>5vtyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vty.pdb
+
+>5vtxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtx.pdb
+
+>5vtxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtx.pdb
+
+>5vtxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtx.pdb
+
+>5vtuProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtu.pdb
+
+>5vtuProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtu.pdb
+
+>5vtuProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtu.pdb
+
+>6n4fProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6n4f.pdb
+
+>6n4fProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6n4f.pdb
+
+>6n4fProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6n4f.pdb
+
+>4ubdProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4ubd.pdb
+
+>4ubdProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4ubd.pdb
+
+>4ubdProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4ubd.pdb
+
+>5vtvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtv.pdb
+
+>5vtvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtv.pdb
+
+>5vtvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtv.pdb
+
+>5kaqProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kaq.pdb
+
+>5kaqProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kaq.pdb
+
+>5kaqProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5kaq.pdb
+
+>3hmgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3hmg.pdb
+
+>3hmgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3hmg.pdb
+
+>3hmgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3hmg.pdb
+
+>5vtwProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtw.pdb
+
+>5vtwProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtw.pdb
+
+>5vtwProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtw.pdb
+
+>6cexProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6cex.pdb
+
+>6cexProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6cex.pdb
+
+>6cexProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6cex.pdb
+
+>1kenProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1ken.pdb
+
+>1kenProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1ken.pdb
+
+>1kenProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1ken.pdb
+
+>5vtrProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtr.pdb
+
+>5vtrProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtr.pdb
+
+>5vtrProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtr.pdb
+
+>4fnkProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4fnk.pdb
+
+>4fnkProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4fnk.pdb
+
+>4fnkProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4fnk.pdb
+
+>5vtqProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtq.pdb
+
+>5vtqProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtq.pdb
+
+>5vtqProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vtq.pdb
+
+>5vu4Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vu4.pdb
+
+>5vu4Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vu4.pdb
+
+>5vu4Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5vu4.pdb
+
+>4nm8Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4nm8.pdb
+
+>4nm8Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4nm8.pdb
+
+>4nm8Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4nm8.pdb
+
+>5hmgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5hmg.pdb
+
+>5hmgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5hmg.pdb
+
+>5hmgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/5hmg.pdb
+
+>3eymProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3eym.pdb
+
+>3eymProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3eym.pdb
+
+>3eymProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3eym.pdb
+
+>6n08Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6n08.pdb
+
+>6n08Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6n08.pdb
+
+>6n08Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6n08.pdb
+
+>1hgfProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgf.pdb
+
+>1hgfProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgf.pdb
+
+>1hgfProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgf.pdb
+
+>6mymProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mym.pdb
+
+>6mymProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mym.pdb
+
+>6mymProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6mym.pdb
+
+>6nhqProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhq.pdb
+
+>6nhqProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhq.pdb
+
+>6nhqProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhq.pdb
+
+>3ztjProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3ztj.pdb
+
+>3ztjProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3ztj.pdb
+
+>3ztjProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/3ztj.pdb
+
+>6nhpProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhp.pdb
+
+>6nhpProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhp.pdb
+
+>6nhpProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhp.pdb
+
+>6bkqProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6bkq.pdb
+
+>6bkqProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6bkq.pdb
+
+>6bkqProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6bkq.pdb
+
+>4zcjProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4zcj.pdb
+
+>4zcjProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4zcj.pdb
+
+>4zcjProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4zcj.pdb
+
+>1hggProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgg.pdb
+
+>1hggProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgg.pdb
+
+>1hggProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgg.pdb
+
+>6tzbProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6tzb.pdb
+
+>6tzbProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6tzb.pdb
+
+>6tzbProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6tzb.pdb
+
+>1hgeProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hge.pdb
+
+>1hgeProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hge.pdb
+
+>1hgeProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hge.pdb
+
+>6nhrProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhr.pdb
+
+>6nhrProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhr.pdb
+
+>6nhrProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/6nhr.pdb
+
+>4gmsProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4gms.pdb
+
+>4gmsProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4gms.pdb
+
+>4gmsProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/4gms.pdb
+
+>1hgdProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgd.pdb
+
+>1hgdProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgd.pdb
+
+>1hgdProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H3N2/1hgd.pdb
+
+>6hjpProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjp.pdb
+
+>6hjpProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjp.pdb
+
+>6hjpProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjp.pdb
+
+>3al4Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3al4.pdb
+
+>3al4Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3al4.pdb
+
+>3al4Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3al4.pdb
+
+>1ruzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ruz.pdb
+
+>1ruzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ruz.pdb
+
+>1ruzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ruz.pdb
+
+>6hjqProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjq.pdb
+
+>6hjqProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjq.pdb
+
+>6hjqProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjq.pdb
+
+>6lksProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6lks.pdb
+
+>6lksProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6lks.pdb
+
+>6lksProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6lks.pdb
+
+>1rvtProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvt.pdb
+
+>1rvtProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvt.pdb
+
+>1rvtProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvt.pdb
+
+>1ruyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ruy.pdb
+
+>1ruyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ruy.pdb
+
+>1ruyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ruy.pdb
+
+>6hjrProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjr.pdb
+
+>6hjrProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjr.pdb
+
+>6hjrProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjr.pdb
+
+>1rv0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rv0.pdb
+
+>1rv0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rv0.pdb
+
+>1rv0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rv0.pdb
+
+>4gxxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4gxx.pdb
+
+>4gxxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4gxx.pdb
+
+>4gxxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4gxx.pdb
+
+>6wj1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6wj1.pdb
+
+>6wj1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6wj1.pdb
+
+>6wj1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6wj1.pdb
+
+>4m4yProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4m4y.pdb
+
+>4m4yProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4m4y.pdb
+
+>4m4yProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4m4y.pdb
+
+>3ubeProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ube.pdb
+
+>3ubeProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ube.pdb
+
+>3ubeProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ube.pdb
+
+>4lxvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4lxv.pdb
+
+>4lxvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4lxv.pdb
+
+>4lxvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4lxv.pdb
+
+>3ubqProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubq.pdb
+
+>3ubqProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubq.pdb
+
+>3ubqProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubq.pdb
+
+>5vmjProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmj.pdb
+
+>5vmjProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmj.pdb
+
+>5vmjProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmj.pdb
+
+>5ujzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5ujz.pdb
+
+>5ujzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5ujz.pdb
+
+>5ujzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5ujz.pdb
+
+>3lzgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3lzg.pdb
+
+>3lzgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3lzg.pdb
+
+>3lzgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3lzg.pdb
+
+>6d8wProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6d8w.pdb
+
+>6d8wProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6d8w.pdb
+
+>6d8wProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6d8w.pdb
+
+>5wkoProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5wko.pdb
+
+>5wkoProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5wko.pdb
+
+>5wkoProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5wko.pdb
+
+>4jugProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jug.pdb
+
+>4jugProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jug.pdb
+
+>4jugProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jug.pdb
+
+>5ugyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5ugy.pdb
+
+>5ugyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5ugy.pdb
+
+>5ugyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5ugy.pdb
+
+>4ju0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4ju0.pdb
+
+>4ju0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4ju0.pdb
+
+>4ju0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4ju0.pdb
+
+>6osrProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6osr.pdb
+
+>6osrProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6osr.pdb
+
+>6osrProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6osr.pdb
+
+>4edbProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4edb.pdb
+
+>4edbProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4edb.pdb
+
+>4edbProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4edb.pdb
+
+>4eefProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4eef.pdb
+
+>4eefProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4eef.pdb
+
+>4eefProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4eef.pdb
+
+>2wrgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/2wrg.pdb
+
+>2wrgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/2wrg.pdb
+
+>2wrgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/2wrg.pdb
+
+>4jtvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jtv.pdb
+
+>4jtvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jtv.pdb
+
+>4jtvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jtv.pdb
+
+>4juhProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4juh.pdb
+
+>4juhProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4juh.pdb
+
+>4juhProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4juh.pdb
+
+>6n41Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6n41.pdb
+
+>6n41Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6n41.pdb
+
+>6n41Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6n41.pdb
+
+>1rd8Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rd8.pdb
+
+>1rd8Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rd8.pdb
+
+>1rd8Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rd8.pdb
+
+>5vmcProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmc.pdb
+
+>5vmcProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmc.pdb
+
+>5vmcProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmc.pdb
+
+>4jtxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jtx.pdb
+
+>4jtxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jtx.pdb
+
+>4jtxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4jtx.pdb
+
+>2wrhProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/2wrh.pdb
+
+>2wrhProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/2wrh.pdb
+
+>2wrhProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/2wrh.pdb
+
+>4jujProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4juj.pdb
+
+>4jujProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4juj.pdb
+
+>4jujProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4juj.pdb
+
+>3ubnProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubn.pdb
+
+>3ubnProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubn.pdb
+
+>3ubnProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubn.pdb
+
+>6xgcProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6xgc.pdb
+
+>6xgcProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6xgc.pdb
+
+>6xgcProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6xgc.pdb
+
+>3ubjProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubj.pdb
+
+>3ubjProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubj.pdb
+
+>3ubjProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3ubj.pdb
+
+>5vmfProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmf.pdb
+
+>5vmfProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmf.pdb
+
+>5vmfProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmf.pdb
+
+>5uk2Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk2.pdb
+
+>5uk2Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk2.pdb
+
+>5uk2Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk2.pdb
+
+>5vmgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmg.pdb
+
+>5vmgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmg.pdb
+
+>5vmgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5vmg.pdb
+
+>5uk1Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk1.pdb
+
+>5uk1Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk1.pdb
+
+>5uk1Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk1.pdb
+
+>5uk0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk0.pdb
+
+>5uk0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk0.pdb
+
+>5uk0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5uk0.pdb
+
+>6hjnProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjn.pdb
+
+>6hjnProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjn.pdb
+
+>6hjnProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6hjn.pdb
+
+>6onaProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6ona.pdb
+
+>6onaProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6ona.pdb
+
+>6onaProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/6ona.pdb
+
+>4gxuProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4gxu.pdb
+
+>4gxuProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4gxu.pdb
+
+>4gxuProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/4gxu.pdb
+
+>5w6rProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5w6r.pdb
+
+>5w6rProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5w6r.pdb
+
+>5w6rProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/5w6r.pdb
+
+>3m6sProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3m6s.pdb
+
+>3m6sProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3m6s.pdb
+
+>3m6sProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/3m6s.pdb
+
+>1rvxProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvx.pdb
+
+>1rvxProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvx.pdb
+
+>1rvxProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvx.pdb
+
+>1rvzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvz.pdb
+
+>1rvzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvz.pdb
+
+>1rvzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1rvz.pdb
+
+>1ru7Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ru7.pdb
+
+>1ru7Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ru7.pdb
+
+>1ru7Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H1N1/1ru7.pdb
+
+>4cz0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cz0.pdb
+
+>4cz0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cz0.pdb
+
+>4cz0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cz0.pdb
+
+>4cyzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyz.pdb
+
+>4cyzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyz.pdb
+
+>4cyzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyz.pdb
+
+>4cyvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyv.pdb
+
+>4cyvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyv.pdb
+
+>4cyvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyv.pdb
+
+>4cywProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyw.pdb
+
+>4cywProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyw.pdb
+
+>4cywProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H10N2/4cyw.pdb
+
+>5bnyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bny.pdb
+
+>5bnyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bny.pdb
+
+>5bnyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bny.pdb
+
+>5bqyProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bqy.pdb
+
+>5bqyProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bqy.pdb
+
+>5bqyProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bqy.pdb
+
+>5bqzProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bqz.pdb
+
+>5bqzProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bqz.pdb
+
+>5bqzProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N6/5bqz.pdb
+
+>5t08Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t08.pdb
+
+>5t08Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t08.pdb
+
+>5t08Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t08.pdb
+
+>4wsuProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wsu.pdb
+
+>4wsuProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wsu.pdb
+
+>4wsuProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wsu.pdb
+
+>4wstProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wst.pdb
+
+>4wstProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wst.pdb
+
+>4wstProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wst.pdb
+
+>4wsvProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wsv.pdb
+
+>4wsvProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wsv.pdb
+
+>4wsvProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4wsv.pdb
+
+>4xkgProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkg.pdb
+
+>4xkgProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkg.pdb
+
+>4xkgProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkg.pdb
+
+>4xkfProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkf.pdb
+
+>4xkfProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkf.pdb
+
+>4xkfProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkf.pdb
+
+>4xkdProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkd.pdb
+
+>4xkdProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkd.pdb
+
+>4xkdProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xkd.pdb
+
+>4xkeProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xke.pdb
+
+>4xkeProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xke.pdb
+
+>4xkeProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4xke.pdb
+
+>4yy0Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4yy0.pdb
+
+>4yy0Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4yy0.pdb
+
+>4yy0Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/4yy0.pdb
+
+>5t0bProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0b.pdb
+
+>5t0bProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0b.pdb
+
+>5t0bProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0b.pdb
+
+>5t0dProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0d.pdb
+
+>5t0dProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0d.pdb
+
+>5t0dProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0d.pdb
+
+>5t0eProto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0e.pdb
+
+>5t0eProto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0e.pdb
+
+>5t0eProto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H6N1/5t0e.pdb
+
+>2wr4Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr4.pdb
+
+>2wr4Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr4.pdb
+
+>2wr4Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr4.pdb
+
+>2wr5Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr5.pdb
+
+>2wr5Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr5.pdb
+
+>2wr5Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr5.pdb
+
+>2wr3Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr3.pdb
+
+>2wr3Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr3.pdb
+
+>2wr3Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H2N1/2wr3.pdb
+
+>6v48Proto1 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H14N5/6v48.pdb
+
+>6v48Proto2 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H14N5/6v48.pdb
+
+>6v48Proto3 _P_ /Users/valentin.ozl/GitHub/Interactions/Data/PDB/Trimeric/FluA/Prefusion/H14N5/6v48.pdb

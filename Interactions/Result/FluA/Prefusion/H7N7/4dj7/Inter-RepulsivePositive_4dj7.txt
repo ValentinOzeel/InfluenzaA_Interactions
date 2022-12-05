@@ -1,0 +1,5 @@
+H7N7	4dj7	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto1 old=123   |     NZ LYS 487 HA2 Proto2 old=123 ->   4.76216547381546
+H7N7	4dj7	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto1 old=123   |     NZ LYS 487 HA2 Proto3 old=123 ->   4.89156222489299
+H7N7	4dj7	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto2 old=170 ->   4.89383959688096
+H7N7	4dj7	Inter-RepulsivePositive	NE ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.4690102931186
+H7N7	4dj7	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto2 old=123   |     NZ LYS 487 HA2 Proto3 old=123 ->   4.9141677830534

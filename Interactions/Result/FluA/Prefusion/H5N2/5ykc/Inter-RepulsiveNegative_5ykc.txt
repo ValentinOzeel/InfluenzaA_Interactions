@@ -1,0 +1,6 @@
+H5N2	5ykc	Inter-RepulsiveNegative	OE1 GLU 535 HA2 Proto1 old=500   |     OD1 ASP 538 HA2 Proto2 old=503 ->   3.6421678983814
+H5N2	5ykc	Inter-RepulsiveNegative	OE1 GLU 535 HA2 Proto1 old=500   |     OD2 ASP 538 HA2 Proto2 old=503 ->   4.44781362019588
+H5N2	5ykc	Inter-RepulsiveNegative	OD2 ASP 538 HA2 Proto1 old=503   |     OE2 GLU 535 HA2 Proto3 old=500 ->   4.43434425817392
+H5N2	5ykc	Inter-RepulsiveNegative	OD1 ASP 538 HA2 Proto1 old=503   |     OE2 GLU 535 HA2 Proto3 old=500 ->   4.98810144243278
+H5N2	5ykc	Inter-RepulsiveNegative	OE1 GLU 535 HA2 Proto2 old=500   |     OD1 ASP 538 HA2 Proto3 old=503 ->   4.57942802105241
+H5N2	5ykc	Inter-RepulsiveNegative	OE1 GLU 535 HA2 Proto2 old=500   |     OD2 ASP 538 HA2 Proto3 old=503 ->   4.88235322360028

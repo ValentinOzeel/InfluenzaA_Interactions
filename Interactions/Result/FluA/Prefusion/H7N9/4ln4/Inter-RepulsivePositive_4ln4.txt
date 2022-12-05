@@ -1,0 +1,3 @@
+H7N9	4ln4	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=163   |     NH1 ARG 534 HA2 Proto3 old=170 ->   4.45738050877418
+H7N9	4ln4	Inter-RepulsivePositive	NE ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto2 old=163 ->   4.9027864526206
+H7N9	4ln4	Inter-RepulsivePositive	NH1 ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.4737550223498

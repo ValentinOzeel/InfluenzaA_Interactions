@@ -1,0 +1,2 @@
+H6N6	5bny	Inter-RepulsiveNegative	OD1 ASP 217 HA1 Proto1 old=196   |     OD2 ASP 217 HA1 Proto3 old=196 ->   4.72691231143545
+H6N6	5bny	Inter-RepulsiveNegative	OD2 ASP 217 HA1 Proto2 old=196   |     OD1 ASP 217 HA1 Proto3 old=196 ->   4.48137400804708

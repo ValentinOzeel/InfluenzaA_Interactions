@@ -1,0 +1,4 @@
+H1N1	6d8w	Inter-Repulsive	NZ LYS 281 HA1 Proto1 old=261   |     NZ LYS 439 HA2 Proto2 old=404 ->   4.66182142515133
+H1N1	6d8w	Inter-Repulsive	NE ARG 470 HA2 Proto1 old=435   |     NH1 ARG 470 HA2 Proto2 old=435 ->   4.91851288500904
+H1N1	6d8w	Inter-Repulsive	NH2 ARG 470 HA2 Proto1 old=435   |     NH1 ARG 470 HA2 Proto2 old=435 ->   4.60863157564151
+H1N1	6d8w	Inter-Repulsive	NE ARG 470 HA2 Proto1 old=435   |     NE ARG 470 HA2 Proto3 old=435 ->   4.86350521743321

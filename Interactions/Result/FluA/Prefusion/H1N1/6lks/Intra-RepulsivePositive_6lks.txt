@@ -1,0 +1,16 @@
+H1N1	6lks	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto1 old=8   |     NE2 HIS 41 HA1 Proto1 old=28 ->   4.5040186500502
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 132 HA1 Proto1 old=119   |     NH1 ARG 273 HA1 Proto1 old=251 ->   4.70536512929656
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 164 HA1 Proto1 old=145   |     NH1 ARG 273 HA1 Proto1 old=251 ->   3.78005687787895
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 164 HA1 Proto1 old=145   |     NH2 ARG 273 HA1 Proto1 old=251 ->   4.4052823973044
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 495 HA2 Proto1 old=131   |     NZ LYS 525 HA2 Proto1 old=161 ->   4.06899348733811
+H1N1	6lks	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto2 old=8   |     NE2 HIS 41 HA1 Proto2 old=28 ->   4.7824368265561
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 132 HA1 Proto2 old=119   |     NH1 ARG 273 HA1 Proto2 old=251 ->   3.99830989294227
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 132 HA1 Proto2 old=119   |     NH2 ARG 273 HA1 Proto2 old=251 ->   4.95723834407828
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 164 HA1 Proto2 old=145   |     NH1 ARG 273 HA1 Proto2 old=251 ->   4.0300637712076
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 164 HA1 Proto2 old=145   |     NH2 ARG 273 HA1 Proto2 old=251 ->   4.18961406337147
+H1N1	6lks	Intra-RepulsivePositive	ND1 HIS 202 HA1 Proto2 old=180   |     NH2 ARG 238 HA1 Proto2 old=216 ->   4.74543380524899
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 495 HA2 Proto2 old=131   |     NZ LYS 525 HA2 Proto2 old=161 ->   4.82955215315043
+H1N1	6lks	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto3 old=8   |     NE2 HIS 41 HA1 Proto3 old=28 ->   4.97359115730273
+H1N1	6lks	Intra-RepulsivePositive	ND1 HIS 202 HA1 Proto3 old=180   |     NH2 ARG 238 HA1 Proto3 old=216 ->   4.86196750297655
+H1N1	6lks	Intra-RepulsivePositive	NE ARG 238 HA1 Proto3 old=216   |     NH1 ARG 247 HA1 Proto3 old=225 ->   4.98397732739627
+H1N1	6lks	Intra-RepulsivePositive	NZ LYS 403 HA2 Proto3 old=39   |     NZ LYS 485 HA2 Proto3 old=121 ->   3.91334601076879

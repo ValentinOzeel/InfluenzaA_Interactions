@@ -1,0 +1,4 @@
+H18N11	4k3x	Inter-RepulsiveNegative	OD2 ASP 107 HA1 Proto1 old=101   |     OE1 GLU 227 HA1 Proto3 old=209 ->   4.98750578947033
+H18N11	4k3x	Inter-RepulsiveNegative	OD1 ASP 107 HA1 Proto1 old=101   |     OE1 GLU 227 HA1 Proto3 old=209 ->   4.88673357162021
+H18N11	4k3x	Inter-RepulsiveNegative	OD1 ASP 107 HA1 Proto1 old=101   |     OE2 GLU 227 HA1 Proto3 old=209 ->   4.91061992013228
+H18N11	4k3x	Inter-RepulsiveNegative	OE1 GLU 227 HA1 Proto2 old=209   |     OD1 ASP 107 HA1 Proto3 old=101 ->   4.72124782234527

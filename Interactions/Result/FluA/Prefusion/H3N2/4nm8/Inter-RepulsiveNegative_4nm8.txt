@@ -1,0 +1,14 @@
+H3N2	4nm8	Inter-RepulsiveNegative	OD1 ASP 35 HA1 Proto1 old=32   |     OE1 GLU 421 HA2 Proto3 old=57 ->   4.23940573665697
+H3N2	4nm8	Inter-RepulsiveNegative	OD1 ASP 35 HA1 Proto1 old=32   |     OE2 GLU 421 HA2 Proto3 old=57 ->   3.95624367298072
+H3N2	4nm8	Inter-RepulsiveNegative	OE1 GLU 421 HA2 Proto1 old=57   |     OD1 ASP 35 HA1 Proto2 old=32 ->   4.40159800527035
+H3N2	4nm8	Inter-RepulsiveNegative	OE2 GLU 421 HA2 Proto1 old=57   |     OD1 ASP 35 HA1 Proto2 old=32 ->   3.81246403261722
+H3N2	4nm8	Inter-RepulsiveNegative	OE2 GLU 492 HA2 Proto1 old=128   |     OE1 GLU 495 HA2 Proto2 old=131 ->   4.18933646297358
+H3N2	4nm8	Inter-RepulsiveNegative	OE2 GLU 492 HA2 Proto1 old=128   |     OE2 GLU 495 HA2 Proto2 old=131 ->   3.98027348306621
+H3N2	4nm8	Inter-RepulsiveNegative	OE1 GLU 495 HA2 Proto1 old=131   |     OE2 GLU 492 HA2 Proto3 old=128 ->   4.0309207384914
+H3N2	4nm8	Inter-RepulsiveNegative	OE2 GLU 495 HA2 Proto1 old=131   |     OE1 GLU 492 HA2 Proto3 old=128 ->   4.87269596835263
+H3N2	4nm8	Inter-RepulsiveNegative	OE2 GLU 495 HA2 Proto1 old=131   |     OE2 GLU 492 HA2 Proto3 old=128 ->   3.84601872070327
+H3N2	4nm8	Inter-RepulsiveNegative	OE1 GLU 421 HA2 Proto2 old=57   |     OD1 ASP 35 HA1 Proto3 old=32 ->   4.64040871044782
+H3N2	4nm8	Inter-RepulsiveNegative	OE2 GLU 421 HA2 Proto2 old=57   |     OD1 ASP 35 HA1 Proto3 old=32 ->   4.33959306848004
+H3N2	4nm8	Inter-RepulsiveNegative	OE1 GLU 492 HA2 Proto2 old=128   |     OE2 GLU 495 HA2 Proto3 old=131 ->   4.82632385983369
+H3N2	4nm8	Inter-RepulsiveNegative	OE2 GLU 492 HA2 Proto2 old=128   |     OE1 GLU 495 HA2 Proto3 old=131 ->   3.94049311634978
+H3N2	4nm8	Inter-RepulsiveNegative	OE2 GLU 492 HA2 Proto2 old=128   |     OE2 GLU 495 HA2 Proto3 old=131 ->   3.76370163535846

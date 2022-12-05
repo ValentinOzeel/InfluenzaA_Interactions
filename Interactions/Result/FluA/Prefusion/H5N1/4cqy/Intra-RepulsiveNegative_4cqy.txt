@@ -1,0 +1,17 @@
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 94 HA1 Proto1 old=81   |     OE1 GLU 433 HA2 Proto1 old=69 ->   4.51125437101479
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 94 HA1 Proto1 old=81   |     OE2 GLU 433 HA2 Proto1 old=69 ->   4.72058778119844
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto1 old=99   |     OE1 GLU 438 HA2 Proto1 old=74 ->   4.58351895381703
+H5N1	4cqy	Intra-RepulsiveNegative	OD2 ASP 14 HA1 Proto2 old=1   |     OE1 GLU 393 HA2 Proto2 old=29 ->   4.92601796586248
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 94 HA1 Proto2 old=81   |     OE1 GLU 433 HA2 Proto2 old=69 ->   4.62831373180341
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 94 HA1 Proto2 old=81   |     OE2 GLU 433 HA2 Proto2 old=69 ->   4.28613333903648
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto2 old=99   |     OE1 GLU 438 HA2 Proto2 old=74 ->   4.24539597682006
+H5N1	4cqy	Intra-RepulsiveNegative	OD2 ASP 401 HA2 Proto2 old=37   |     OE1 GLU 403 HA2 Proto2 old=39 ->   3.72089424735506
+H5N1	4cqy	Intra-RepulsiveNegative	OD1 ASP 401 HA2 Proto2 old=37   |     OE1 GLU 403 HA2 Proto2 old=39 ->   2.99725107390088
+H5N1	4cqy	Intra-RepulsiveNegative	OD1 ASP 401 HA2 Proto2 old=37   |     OE2 GLU 403 HA2 Proto2 old=39 ->   4.30794463752727
+H5N1	4cqy	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto2 old=109   |     OD2 ASP 476 HA2 Proto2 old=112 ->   4.84283852714501
+H5N1	4cqy	Intra-RepulsiveNegative	OD2 ASP 14 HA1 Proto3 old=1   |     OE1 GLU 393 HA2 Proto3 old=29 ->   4.87807882265139
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 94 HA1 Proto3 old=81   |     OE1 GLU 433 HA2 Proto3 old=69 ->   4.68606967511154
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 94 HA1 Proto3 old=81   |     OE2 GLU 433 HA2 Proto3 old=69 ->   4.75137516935887
+H5N1	4cqy	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto3 old=99   |     OE1 GLU 438 HA2 Proto3 old=74 ->   4.55640669826564
+H5N1	4cqy	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto3 old=109   |     OD2 ASP 476 HA2 Proto3 old=112 ->   4.80846368396393
+H5N1	4cqy	Intra-RepulsiveNegative	OD2 ASP 509 HA2 Proto3 old=145   |     OE1 GLU 511 HA2 Proto3 old=147 ->   3.92549347216372

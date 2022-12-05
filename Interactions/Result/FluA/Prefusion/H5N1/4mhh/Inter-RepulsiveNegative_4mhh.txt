@@ -1,0 +1,2 @@
+H5N1	4mhh	Inter-RepulsiveNegative	OE2 GLU 469 HA2 Proto1 old=105   |     OE1 GLU 467 HA2 Proto3 old=103 ->   4.81950132275114
+H5N1	4mhh	Inter-RepulsiveNegative	OE2 GLU 469 HA2 Proto1 old=105   |     OE2 GLU 467 HA2 Proto3 old=103 ->   4.80586766359624

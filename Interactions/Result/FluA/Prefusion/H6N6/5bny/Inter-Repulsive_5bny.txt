@@ -1,0 +1,11 @@
+H6N6	5bny	Inter-Repulsive	OD1 ASP 217 HA1 Proto1 old=196   |     OD2 ASP 217 HA1 Proto3 old=196 ->   4.72691231143545
+H6N6	5bny	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NE ARG 470 HA2 Proto2 old=106 ->   4.54713987029209
+H6N6	5bny	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto2 old=106 ->   3.51572951177988
+H6N6	5bny	Inter-Repulsive	NE ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   4.50258159281984
+H6N6	5bny	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   3.57725425431294
+H6N6	5bny	Inter-Repulsive	NE ARG 534 HA2 Proto1 old=170   |     NH2 ARG 531 HA2 Proto3 old=167 ->   3.82280041330959
+H6N6	5bny	Inter-Repulsive	NH2 ARG 534 HA2 Proto1 old=170   |     NH2 ARG 531 HA2 Proto3 old=167 ->   4.17533771089238
+H6N6	5bny	Inter-Repulsive	OD2 ASP 217 HA1 Proto2 old=196   |     OD1 ASP 217 HA1 Proto3 old=196 ->   4.48137400804708
+H6N6	5bny	Inter-Repulsive	ND1 HIS 432 HA2 Proto2 old=68   |     NH2 ARG 447 HA2 Proto3 old=83 ->   4.9753980745263
+H6N6	5bny	Inter-Repulsive	NH1 ARG 470 HA2 Proto2 old=106   |     NE ARG 470 HA2 Proto3 old=106 ->   4.36427233339076
+H6N6	5bny	Inter-Repulsive	NH1 ARG 470 HA2 Proto2 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   3.49460584329621

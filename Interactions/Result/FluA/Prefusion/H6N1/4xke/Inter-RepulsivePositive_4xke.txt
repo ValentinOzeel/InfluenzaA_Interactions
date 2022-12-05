@@ -1,0 +1,1 @@
+H6N1	4xke	Inter-RepulsivePositive	NZ LYS 407 HA2 Proto2 old=43   |     NH2 ARG 355 HA1 Proto3 old=321 ->   4.95117581994419

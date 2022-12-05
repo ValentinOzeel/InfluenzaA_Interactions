@@ -1,0 +1,12 @@
+H7N2	6mlm	Inter-Hydrogen	O THR 31 HA1 Proto1 old=44   |     NH2 ARG 418 HA2 Proto2 old=54 ->   2.93561663028401
+H7N2	6mlm	Inter-Hydrogen	O LEU 32 HA1 Proto1 old=45   |     NH2 ARG 418 HA2 Proto2 old=54 ->   3.04806053089503
+H7N2	6mlm	Inter-Hydrogen	O THR 33 HA1 Proto1 old=46   |     NH1 ARG 418 HA2 Proto2 old=54 ->   3.41369858071859
+H7N2	6mlm	Inter-Hydrogen	OG SER 113 HA1 Proto1 old=123   |     OE1 GLN 439 HA2 Proto3 old=75 ->   2.94511697560553
+H7N2	6mlm	Inter-Hydrogen	NH2 ARG 418 HA2 Proto1 old=54   |     O THR 31 HA1 Proto3 old=44 ->   2.93595197508407
+H7N2	6mlm	Inter-Hydrogen	NH2 ARG 418 HA2 Proto1 old=54   |     O LEU 32 HA1 Proto3 old=45 ->   3.04802247367043
+H7N2	6mlm	Inter-Hydrogen	NH1 ARG 418 HA2 Proto1 old=54   |     O THR 33 HA1 Proto3 old=46 ->   3.4144952774898
+H7N2	6mlm	Inter-Hydrogen	OE1 GLN 439 HA2 Proto1 old=75   |     OG SER 113 HA1 Proto2 old=123 ->   2.94460472729363
+H7N2	6mlm	Inter-Hydrogen	O THR 31 HA1 Proto2 old=44   |     NH2 ARG 418 HA2 Proto3 old=54 ->   2.93662901981164
+H7N2	6mlm	Inter-Hydrogen	O LEU 32 HA1 Proto2 old=45   |     NH2 ARG 418 HA2 Proto3 old=54 ->   3.048507011637
+H7N2	6mlm	Inter-Hydrogen	O THR 33 HA1 Proto2 old=46   |     NH1 ARG 418 HA2 Proto3 old=54 ->   3.4143363923316
+H7N2	6mlm	Inter-Hydrogen	OE1 GLN 439 HA2 Proto2 old=75   |     OG SER 113 HA1 Proto3 old=123 ->   2.94427682122452

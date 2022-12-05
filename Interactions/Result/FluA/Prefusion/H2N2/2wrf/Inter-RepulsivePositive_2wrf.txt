@@ -1,0 +1,6 @@
+H2N2	2wrf	Inter-RepulsivePositive	NZ LYS 480 HA2 Proto1 old=445   |     NZ LYS 480 HA2 Proto2 old=445 ->   4.56434453125528
+H2N2	2wrf	Inter-RepulsivePositive	NH1 ARG 491 HA2 Proto1 old=456   |     NZ LYS 495 HA2 Proto2 old=460 ->   4.99666668890371
+H2N2	2wrf	Inter-RepulsivePositive	NH2 ARG 491 HA2 Proto1 old=456   |     NZ LYS 495 HA2 Proto2 old=460 ->   3.97811085818382
+H2N2	2wrf	Inter-RepulsivePositive	NZ LYS 495 HA2 Proto1 old=460   |     NH2 ARG 491 HA2 Proto3 old=456 ->   4.01340154980785
+H2N2	2wrf	Inter-RepulsivePositive	NZ LYS 480 HA2 Proto2 old=445   |     NZ LYS 480 HA2 Proto3 old=445 ->   4.35493145755476
+H2N2	2wrf	Inter-RepulsivePositive	NH2 ARG 491 HA2 Proto2 old=456   |     NZ LYS 495 HA2 Proto3 old=460 ->   4.52946497944293

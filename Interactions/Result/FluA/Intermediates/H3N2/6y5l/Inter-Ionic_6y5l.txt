@@ -1,0 +1,12 @@
+H3N2	6y5l	Inter-Ionic	OE1 GLU 438 HA2 Proto1 old=74   |     NH1 ARG 440 HA2 Proto3 old=76 ->   2.77952172144779
+H3N2	6y5l	Inter-Ionic	OE2 GLU 438 HA2 Proto1 old=74   |     NH1 ARG 440 HA2 Proto3 old=76 ->   3.80243606126391
+H3N2	6y5l	Inter-Ionic	NH1 ARG 440 HA2 Proto1 old=76   |     OE1 GLU 438 HA2 Proto2 old=74 ->   2.86982142301574
+H3N2	6y5l	Inter-Ionic	NH1 ARG 440 HA2 Proto1 old=76   |     OE2 GLU 438 HA2 Proto2 old=74 ->   3.49400286204808
+H3N2	6y5l	Inter-Ionic	NH2 ARG 440 HA2 Proto1 old=76   |     OE1 GLU 445 HA2 Proto2 old=81 ->   3.20370254549327
+H3N2	6y5l	Inter-Ionic	NH2 ARG 440 HA2 Proto1 old=76   |     OE2 GLU 445 HA2 Proto2 old=81 ->   3.62854640317581
+H3N2	6y5l	Inter-Ionic	OE1 GLU 445 HA2 Proto1 old=81   |     NH2 ARG 440 HA2 Proto3 old=76 ->   2.71320106147701
+H3N2	6y5l	Inter-Ionic	OE2 GLU 445 HA2 Proto1 old=81   |     NH2 ARG 440 HA2 Proto3 old=76 ->   3.42305638282515
+H3N2	6y5l	Inter-Ionic	NH1 ARG 440 HA2 Proto2 old=76   |     OE1 GLU 438 HA2 Proto3 old=74 ->   2.51689769359027
+H3N2	6y5l	Inter-Ionic	NH1 ARG 440 HA2 Proto2 old=76   |     OE2 GLU 438 HA2 Proto3 old=74 ->   3.6569018307852
+H3N2	6y5l	Inter-Ionic	NH2 ARG 440 HA2 Proto2 old=76   |     OE1 GLU 445 HA2 Proto3 old=81 ->   2.82732541459239
+H3N2	6y5l	Inter-Ionic	NH2 ARG 440 HA2 Proto2 old=76   |     OE2 GLU 445 HA2 Proto3 old=81 ->   3.59383499899483

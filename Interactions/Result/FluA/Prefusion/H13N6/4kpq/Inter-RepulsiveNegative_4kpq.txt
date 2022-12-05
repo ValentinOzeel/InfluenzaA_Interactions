@@ -1,0 +1,2 @@
+H13N6	4kpq	Inter-RepulsiveNegative	OE1 GLU 107 HA1 Proto1 old=99   |     OE2 GLU 229 HA1 Proto2 old=211 ->   4.99387675058166
+H13N6	4kpq	Inter-RepulsiveNegative	OE1 GLU 107 HA1 Proto2 old=99   |     OE2 GLU 229 HA1 Proto3 old=211 ->   4.975069949257

@@ -1,0 +1,17 @@
+H2N2	2wr1	Inter-Hydrogen_SD_SD	NH2 ARG 35 HA1 Proto1 old=26   |     OG SER 418 HA2 Proto3 old=383 ->   2.39058235582881
+H2N2	2wr1	Inter-Hydrogen_SD_SD	NH1 ARG 35 HA1 Proto1 old=26   |     OG SER 418 HA2 Proto3 old=383 ->   3.16148620114022
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto1 old=209   |     NE ARG 238 HA1 Proto2 old=219 ->   2.9576906531955
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto1 old=209   |     NH2 ARG 238 HA1 Proto2 old=219 ->   3.46149823053544
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OE1 GLU 234 HA1 Proto1 old=215   |     ND2 ASN 228 HA1 Proto3 old=209 ->   3.4819961229157
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OG1 THR 237 HA1 Proto1 old=218   |     OE1 GLU 264 HA1 Proto3 old=245 ->   3.20219830741321
+H2N2	2wr1	Inter-Hydrogen_SD_SD	NE ARG 238 HA1 Proto1 old=219   |     OD1 ASN 228 HA1 Proto3 old=209 ->   3.19625030308954
+H2N2	2wr1	Inter-Hydrogen_SD_SD	NH2 ARG 238 HA1 Proto1 old=219   |     OD1 ASN 228 HA1 Proto3 old=209 ->   3.33267715208059
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OG SER 418 HA2 Proto1 old=383   |     NH1 ARG 35 HA1 Proto2 old=26 ->   2.95224694089095
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OG SER 418 HA2 Proto1 old=383   |     NH2 ARG 35 HA1 Proto2 old=26 ->   2.5532823972291
+H2N2	2wr1	Inter-Hydrogen_SD_SD	NE2 GLN 426 HA2 Proto1 old=391   |     OD2 ASP 450 HA2 Proto2 old=415 ->   3.34560741869096
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OD2 ASP 450 HA2 Proto1 old=415   |     NE2 GLN 426 HA2 Proto3 old=391 ->   3.31616193814476
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OD1 ASN 459 HA2 Proto1 old=424   |     ND2 ASN 459 HA2 Proto3 old=424 ->   3.06705493918841
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto2 old=209   |     NE ARG 238 HA1 Proto3 old=219 ->   2.61206757186716
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto2 old=209   |     NH2 ARG 238 HA1 Proto3 old=219 ->   2.88414649419893
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OG SER 418 HA2 Proto2 old=383   |     NH1 ARG 35 HA1 Proto3 old=26 ->   2.95232823378431
+H2N2	2wr1	Inter-Hydrogen_SD_SD	OG SER 418 HA2 Proto2 old=383   |     NH2 ARG 35 HA1 Proto3 old=26 ->   2.57145309115294

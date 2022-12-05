@@ -1,0 +1,9 @@
+H1N1	6xgc	Inter-Hydrogen_SD_C	O LEU 33 HA1 Proto1 old=30   |     ND2 ASN 414 HA2 Proto3 old=50 ->   3.05652891365353
+H1N1	6xgc	Inter-Hydrogen_SD_C	OE1 GLU 113 HA1 Proto1 old=110   |     N LYS 439 HA2 Proto2 old=75 ->   3.426415619857
+H1N1	6xgc	Inter-Hydrogen_SD_C	ND2 ASN 414 HA2 Proto1 old=50   |     O LEU 33 HA1 Proto2 old=30 ->   3.24911203254057
+H1N1	6xgc	Inter-Hydrogen_SD_C	O VAL 419 HA2 Proto1 old=55   |     OH TYR 458 HA2 Proto2 old=94 ->   3.3174280700567
+H1N1	6xgc	Inter-Hydrogen_SD_C	N LYS 439 HA2 Proto1 old=75   |     OE1 GLU 113 HA1 Proto3 old=110 ->   3.45656679379989
+H1N1	6xgc	Inter-Hydrogen_SD_C	OH TYR 458 HA2 Proto1 old=94   |     O VAL 419 HA2 Proto3 old=55 ->   3.34481643741476
+H1N1	6xgc	Inter-Hydrogen_SD_C	OE1 GLU 113 HA1 Proto2 old=110   |     N LYS 439 HA2 Proto3 old=75 ->   3.32810005859199
+H1N1	6xgc	Inter-Hydrogen_SD_C	ND2 ASN 414 HA2 Proto2 old=50   |     O LEU 33 HA1 Proto3 old=30 ->   3.20445954881631
+H1N1	6xgc	Inter-Hydrogen_SD_C	O VAL 419 HA2 Proto2 old=55   |     OH TYR 458 HA2 Proto3 old=94 ->   3.16733926190424

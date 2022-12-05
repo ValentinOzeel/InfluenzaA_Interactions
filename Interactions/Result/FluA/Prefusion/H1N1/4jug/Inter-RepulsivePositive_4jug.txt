@@ -1,0 +1,15 @@
+H1N1	4jug	Inter-RepulsivePositive	NH2 ARG 439 HA2 Proto1 old=575   |     NH1 ARG 281 HA1 Proto2 old=262 ->   4.74748038437232
+H1N1	4jug	Inter-RepulsivePositive	NH2 ARG 439 HA2 Proto1 old=575   |     NH2 ARG 281 HA1 Proto2 old=262 ->   4.63866122927726
+H1N1	4jug	Inter-RepulsivePositive	NZ LYS 447 HA2 Proto1 old=583   |     NZ LYS 432 HA2 Proto2 old=568 ->   4.95086467195378
+H1N1	4jug	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto2 old=606 ->   4.79811890223659
+H1N1	4jug	Inter-RepulsivePositive	NH1 ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto2 old=606 ->   4.1292023442791
+H1N1	4jug	Inter-RepulsivePositive	NH1 ARG 470 HA2 Proto1 old=606   |     NE ARG 470 HA2 Proto3 old=606 ->   4.40605674044264
+H1N1	4jug	Inter-RepulsivePositive	NH1 ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   4.08822369740209
+H1N1	4jug	Inter-RepulsivePositive	NH2 ARG 480 HA2 Proto1 old=616   |     NE ARG 480 HA2 Proto2 old=616 ->   4.02455227323487
+H1N1	4jug	Inter-RepulsivePositive	NH2 ARG 480 HA2 Proto1 old=616   |     NH2 ARG 480 HA2 Proto2 old=616 ->   3.89754037823856
+H1N1	4jug	Inter-RepulsivePositive	NE ARG 480 HA2 Proto1 old=616   |     NH2 ARG 480 HA2 Proto3 old=616 ->   4.234069201135
+H1N1	4jug	Inter-RepulsivePositive	NH2 ARG 480 HA2 Proto1 old=616   |     NH2 ARG 480 HA2 Proto3 old=616 ->   3.89057643543987
+H1N1	4jug	Inter-RepulsivePositive	NH1 ARG 470 HA2 Proto2 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   3.64722154523138
+H1N1	4jug	Inter-RepulsivePositive	NE ARG 470 HA2 Proto2 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   4.9365228653375
+H1N1	4jug	Inter-RepulsivePositive	NH2 ARG 480 HA2 Proto2 old=616   |     NE ARG 480 HA2 Proto3 old=616 ->   3.26256708743284
+H1N1	4jug	Inter-RepulsivePositive	NH2 ARG 480 HA2 Proto2 old=616   |     NH2 ARG 480 HA2 Proto3 old=616 ->   3.48594234031488

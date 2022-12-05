@@ -1,0 +1,6 @@
+H1N1	1rvz	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto2 old=606 ->   4.82166703537272
+H1N1	1rvz	Inter-RepulsivePositive	NH1 ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto2 old=606 ->   3.99124892734091
+H1N1	1rvz	Inter-RepulsivePositive	NH1 ARG 470 HA2 Proto1 old=606   |     NE ARG 470 HA2 Proto3 old=606 ->   4.74211946285625
+H1N1	1rvz	Inter-RepulsivePositive	NH1 ARG 470 HA2 Proto1 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   3.68021656971434
+H1N1	1rvz	Inter-RepulsivePositive	NH1 ARG 470 HA2 Proto2 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   3.83198251561773
+H1N1	1rvz	Inter-RepulsivePositive	NE ARG 470 HA2 Proto2 old=606   |     NH1 ARG 470 HA2 Proto3 old=606 ->   4.53460847262473

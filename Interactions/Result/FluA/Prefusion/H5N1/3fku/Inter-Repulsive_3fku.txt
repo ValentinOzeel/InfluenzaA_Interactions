@@ -1,0 +1,10 @@
+H5N1	3fku	Inter-Repulsive	OE1 GLU 467 HA2 Proto1 old=103   |     OE1 GLU 469 HA2 Proto2 old=105 ->   4.22425958009211
+H5N1	3fku	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NE ARG 470 HA2 Proto2 old=106 ->   4.85998621397222
+H5N1	3fku	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto2 old=106 ->   3.01896439197285
+H5N1	3fku	Inter-Repulsive	NH2 ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto2 old=106 ->   4.94359595840922
+H5N1	3fku	Inter-Repulsive	NE ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   4.86102355476704
+H5N1	3fku	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   3.36607144903372
+H5N1	3fku	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NH2 ARG 470 HA2 Proto3 old=106 ->   4.83026562416602
+H5N1	3fku	Inter-Repulsive	OE1 GLU 467 HA2 Proto2 old=103   |     OE1 GLU 469 HA2 Proto3 old=105 ->   4.96555374555548
+H5N1	3fku	Inter-Repulsive	NH2 ARG 470 HA2 Proto2 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   4.66253461113159
+H5N1	3fku	Inter-Repulsive	NH1 ARG 470 HA2 Proto2 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   3.06952911698195

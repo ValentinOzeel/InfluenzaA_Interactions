@@ -1,0 +1,17 @@
+H5N1	4kdn	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=440   |     NE ARG 470 HA2 Proto2 old=440 ->   3.60553643720321
+H5N1	4kdn	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=440   |     NH2 ARG 470 HA2 Proto2 old=440 ->   4.36270409264713
+H5N1	4kdn	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto1 old=440   |     NE ARG 470 HA2 Proto2 old=440 ->   4.05196865733189
+H5N1	4kdn	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto1 old=440   |     NH2 ARG 470 HA2 Proto2 old=440 ->   4.5113703018041
+H5N1	4kdn	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=440   |     NE ARG 470 HA2 Proto3 old=440 ->   4.22489775024201
+H5N1	4kdn	Inter-RepulsivePositive	NE ARG 470 HA2 Proto1 old=440   |     NH2 ARG 470 HA2 Proto3 old=440 ->   3.67196269044227
+H5N1	4kdn	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto1 old=440   |     NH2 ARG 470 HA2 Proto3 old=440 ->   4.72174427515934
+H5N1	4kdn	Inter-RepulsivePositive	NZ LYS 480 HA2 Proto1 old=450   |     NZ LYS 480 HA2 Proto2 old=450 ->   4.73224692931381
+H5N1	4kdn	Inter-RepulsivePositive	NZ LYS 480 HA2 Proto1 old=450   |     NZ LYS 480 HA2 Proto3 old=450 ->   3.08850335923405
+H5N1	4kdn	Inter-RepulsivePositive	NE ARG 487 HA2 Proto1 old=457   |     NH2 ARG 487 HA2 Proto3 old=457 ->   4.63495253481629
+H5N1	4kdn	Inter-RepulsivePositive	NZ LYS 495 HA2 Proto1 old=465   |     NH1 ARG 491 HA2 Proto3 old=461 ->   4.06822283067189
+H5N1	4kdn	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto2 old=440   |     NE ARG 470 HA2 Proto3 old=440 ->   3.05728866808484
+H5N1	4kdn	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto2 old=440   |     NH1 ARG 470 HA2 Proto3 old=440 ->   4.37460546792508
+H5N1	4kdn	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto2 old=440   |     NH2 ARG 470 HA2 Proto3 old=440 ->   3.79562498147538
+H5N1	4kdn	Inter-RepulsivePositive	NE ARG 470 HA2 Proto2 old=440   |     NE ARG 470 HA2 Proto3 old=440 ->   3.8966090386386
+H5N1	4kdn	Inter-RepulsivePositive	NE ARG 470 HA2 Proto2 old=440   |     NH2 ARG 470 HA2 Proto3 old=440 ->   4.87781293204239
+H5N1	4kdn	Inter-RepulsivePositive	NZ LYS 480 HA2 Proto2 old=450   |     NZ LYS 480 HA2 Proto3 old=450 ->   3.81398872573058

@@ -1,0 +1,10 @@
+H7N9	6idd	Inter-Repulsive	NH1 ARG 340 HA1 Proto1 old=298   |     NZ LYS 343 HA1 Proto3 old=301 ->   4.81265477673187
+H7N9	6idd	Inter-Repulsive	OE1 GLU 492 HA2 Proto1 old=449   |     OE2 GLU 495 HA2 Proto3 old=452 ->   4.70795210256008
+H7N9	6idd	Inter-Repulsive	OE2 GLU 492 HA2 Proto1 old=449   |     OE1 GLU 495 HA2 Proto3 old=452 ->   4.780078974243
+H7N9	6idd	Inter-Repulsive	OE2 GLU 492 HA2 Proto1 old=449   |     OE2 GLU 495 HA2 Proto3 old=452 ->   3.72392279726634
+H7N9	6idd	Inter-Repulsive	OE2 GLU 495 HA2 Proto1 old=452   |     OE1 GLU 492 HA2 Proto2 old=449 ->   3.31220727008441
+H7N9	6idd	Inter-Repulsive	OE2 GLU 495 HA2 Proto1 old=452   |     OE2 GLU 492 HA2 Proto2 old=449 ->   4.75356624020325
+H7N9	6idd	Inter-Repulsive	OE1 GLU 495 HA2 Proto1 old=452   |     OE1 GLU 492 HA2 Proto2 old=449 ->   4.36920713631203
+H7N9	6idd	Inter-Repulsive	OE1 GLU 495 HA2 Proto2 old=452   |     OE1 GLU 492 HA2 Proto3 old=449 ->   4.25179562067606
+H7N9	6idd	Inter-Repulsive	OE2 GLU 495 HA2 Proto2 old=452   |     OE1 GLU 492 HA2 Proto3 old=449 ->   3.66975448770077
+H7N9	6idd	Inter-Repulsive	OE2 GLU 495 HA2 Proto2 old=452   |     OE2 GLU 492 HA2 Proto3 old=449 ->   4.91270088647783

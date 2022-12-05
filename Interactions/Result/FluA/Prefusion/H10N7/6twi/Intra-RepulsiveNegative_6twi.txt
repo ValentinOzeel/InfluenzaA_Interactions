@@ -1,0 +1,16 @@
+H10N7	6twi	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto1 old=104   |     OE1 GLU 428 HA2 Proto1 old=64 ->   3.29792828909302
+H10N7	6twi	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto1 old=104   |     OE2 GLU 428 HA2 Proto1 old=64 ->   4.10783556146057
+H10N7	6twi	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto1 old=104   |     OE1 GLU 428 HA2 Proto1 old=64 ->   4.21175141716603
+H10N7	6twi	Intra-RepulsiveNegative	OE2 GLU 359 HA1 Proto1 old=318   |     OE2 GLU 379 HA2 Proto1 old=15 ->   4.9844719880846
+H10N7	6twi	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto1 old=109   |     OD2 ASP 476 HA2 Proto1 old=112 ->   4.89548873964591
+H10N7	6twi	Intra-RepulsiveNegative	OD2 ASP 497 HA2 Proto1 old=133   |     OE2 GLU 503 HA2 Proto1 old=139 ->   4.99679297149682
+H10N7	6twi	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto2 old=104   |     OE1 GLU 428 HA2 Proto2 old=64 ->   3.86933211291045
+H10N7	6twi	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto2 old=104   |     OE1 GLU 428 HA2 Proto2 old=64 ->   3.79501436097416
+H10N7	6twi	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto2 old=104   |     OE2 GLU 428 HA2 Proto2 old=64 ->   4.54224812180049
+H10N7	6twi	Intra-RepulsiveNegative	OD2 ASP 497 HA2 Proto2 old=133   |     OE2 GLU 503 HA2 Proto2 old=139 ->   4.81852695333335
+H10N7	6twi	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto3 old=104   |     OE1 GLU 428 HA2 Proto3 old=64 ->   3.94793642299366
+H10N7	6twi	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto3 old=104   |     OE1 GLU 428 HA2 Proto3 old=64 ->   3.02393353101552
+H10N7	6twi	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto3 old=104   |     OE2 GLU 428 HA2 Proto3 old=64 ->   3.44499346878915
+H10N7	6twi	Intra-RepulsiveNegative	OE2 GLU 359 HA1 Proto3 old=318   |     OE2 GLU 379 HA2 Proto3 old=15 ->   4.65790457180048
+H10N7	6twi	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto3 old=109   |     OD2 ASP 476 HA2 Proto3 old=112 ->   4.78344039369154
+H10N7	6twi	Intra-RepulsiveNegative	OD2 ASP 497 HA2 Proto3 old=133   |     OE2 GLU 503 HA2 Proto3 old=139 ->   4.90912487109465

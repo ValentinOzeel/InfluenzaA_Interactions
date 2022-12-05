@@ -1,0 +1,17 @@
+H2N2	4hlz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto1 old=18   |     ND1 HIS 41 HA1 Proto1 old=38 ->   4.95438734860325
+H2N2	4hlz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto1 old=18   |     NE2 HIS 41 HA1 Proto1 old=38 ->   4.42067302568285
+H2N2	4hlz	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto1 old=109   |     NZ LYS 300 HA1 Proto1 old=269 ->   4.66728668500233
+H2N2	4hlz	Intra-RepulsivePositive	NE2 HIS 116 HA1 Proto1 old=110   |     NZ LYS 432 HA2 Proto1 old=68 ->   4.94900525358379
+H2N2	4hlz	Intra-RepulsivePositive	NZ LYS 128 HA1 Proto1 old=119   |     NZ LYS 132 HA1 Proto1 old=123 ->   4.65717017082262
+H2N2	4hlz	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto1 old=26   |     NZ LYS 517 HA2 Proto1 old=153 ->   4.926893037199
+H2N2	4hlz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto2 old=18   |     ND1 HIS 41 HA1 Proto2 old=38 ->   4.9752467275503
+H2N2	4hlz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto2 old=18   |     NE2 HIS 41 HA1 Proto2 old=38 ->   4.78867257180943
+H2N2	4hlz	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto2 old=109   |     NZ LYS 300 HA1 Proto2 old=269 ->   4.48400055753789
+H2N2	4hlz	Intra-RepulsivePositive	NE2 HIS 116 HA1 Proto2 old=110   |     NZ LYS 432 HA2 Proto2 old=68 ->   4.26602074537853
+H2N2	4hlz	Intra-RepulsivePositive	NE ARG 238 HA1 Proto2 old=220   |     NE ARG 247 HA1 Proto2 old=229 ->   4.54424097072327
+H2N2	4hlz	Intra-RepulsivePositive	NH1 ARG 238 HA1 Proto2 old=220   |     NE ARG 247 HA1 Proto2 old=229 ->   4.99789725784754
+H2N2	4hlz	Intra-RepulsivePositive	ND1 HIS 389 HA2 Proto2 old=25   |     ND1 HIS 390 HA2 Proto2 old=26 ->   4.96548124555918
+H2N2	4hlz	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto2 old=26   |     NZ LYS 517 HA2 Proto2 old=153 ->   4.82990362222685
+H2N2	4hlz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto3 old=18   |     ND1 HIS 41 HA1 Proto3 old=38 ->   4.8046785532437
+H2N2	4hlz	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto3 old=18   |     NE2 HIS 41 HA1 Proto3 old=38 ->   4.52687154666443
+H2N2	4hlz	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto3 old=109   |     NZ LYS 300 HA1 Proto3 old=269 ->   4.02743640545694

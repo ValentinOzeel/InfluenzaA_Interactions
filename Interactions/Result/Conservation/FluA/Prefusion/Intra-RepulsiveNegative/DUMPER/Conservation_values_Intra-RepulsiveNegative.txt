@@ -1,0 +1,1041 @@
+$VAR1 = {
+          'FluA' => {
+                      'Prefusion' => {
+                                       'Intra-RepulsiveNegative' => {
+                                                                      'Intra-RepulsiveNegative ASP 125 HA1 GLU 291 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H15N9' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H15' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 134 HA1 GLU 273 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H2N3' => '1 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 14 HA1 ASP 393 HA2' => {
+                                                                                                                            'fully_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H1N2' => '0 1 0 0',
+                                                                                                                                                                   'H5N6' => '0 1 0 0',
+                                                                                                                                                                   'H5N8' => '0 1 0 0'
+                                                                                                                                                                 }
+                                                                                                                                                 }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative ASP 14 HA1 GLU 393 HA2' => {
+                                                                                                                            'fully_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H1N2' => '1 0 0 0',
+                                                                                                                                                                   'H5N6' => '1 0 0 0',
+                                                                                                                                                                   'H5N8' => '1 0 0 0'
+                                                                                                                                                                 }
+                                                                                                                                                 }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative ASP 205 HA1 GLU 208 HA1' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Subtypes' => {
+                                                                                                                                                                       'H2N2' => '0.666666666666667 0 0 0'
+                                                                                                                                                                     },
+                                                                                                                                                       'SubtypesSameHA' => {
+                                                                                                                                                                             'H2' => '0.75 0 0 0'
+                                                                                                                                                                           }
+                                                                                                                                                     },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'HA_Clades' => {
+                                                                                                                                                                     'CladeH9_1' => '1 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H2N1' => '1 0 0 0',
+                                                                                                                                                                    'H2N3' => '1 0 0 0',
+                                                                                                                                                                    'H8N4' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H8' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 207 HA1 GLU 208 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H13N6' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H13' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 256 HA1 ASP 259 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H15N9' => '1 0 0 0',
+                                                                                                                                                                    'H1N2' => '0 1 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H15' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 317 HA1 GLU 433 HA2' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H14N5' => '1 0 0 0',
+                                                                                                                                                                    'H4N6' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H14' => '1 0 0 0',
+                                                                                                                                                                          'H4' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 401 HA2 GLU 403 HA2' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'HA_Clades' => {
+                                                                                                                                                                     'CladeH17_1' => '1 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                    'Hosts' => {
+                                                                                                                                                                 'Bat' => '1 0 0 0'
+                                                                                                                                                               },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H17N10' => '1 0 0 0',
+                                                                                                                                                                    'H18N11' => '1 0 0 0',
+                                                                                                                                                                    'H5N8' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H17' => '1 0 0 0',
+                                                                                                                                                                          'H18' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 446 HA2 ASP 449 HA2' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'HA_Clades' => {
+                                                                                                                                                                     'CladeH9_1' => '1 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H17N10' => '1 0 0 0',
+                                                                                                                                                                    'H8N4' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H17' => '1 0 0 0',
+                                                                                                                                                                          'H8' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 450 HA2 ASP 454 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Hosts' => {
+                                                                                                                                                                    'Canine' => '0.75 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                     },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H13N6' => '1 0 0 0',
+                                                                                                                                                                    'H16N3' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H13' => '1 0 0 0',
+                                                                                                                                                                          'H16' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH11_1' => '0.8 0 0 0',
+                                                                                                                                                                      'CladeH3_2' => '0.881578947368421 0 0 0'
+                                                                                                                                                                    },
+                                                                                                                                                     'Hosts' => {
+                                                                                                                                                                  'Equine' => '0.833333333333333 0 0 0'
+                                                                                                                                                                },
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H3N8' => '0.857142857142857 0 0 0',
+                                                                                                                                                                     'H4N6' => '0.8 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H4' => '0.8 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   },
+                                                                                                                             'mostly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H3N2' => '0.910714285714286 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H3' => '0.9 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 450 HA2 GLU 454 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Hosts' => {
+                                                                                                                                                                    'Canine' => '0 0.75 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                     },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H13N6' => '0 1 0 0',
+                                                                                                                                                                    'H16N3' => '0 1 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H13' => '0 1 0 0',
+                                                                                                                                                                          'H16' => '0 1 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH11_1' => '0 0.8 0 0',
+                                                                                                                                                                      'CladeH3_2' => '0 0.881578947368421 0 0'
+                                                                                                                                                                    },
+                                                                                                                                                     'Hosts' => {
+                                                                                                                                                                  'Equine' => '0 0.833333333333333 0 0'
+                                                                                                                                                                },
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H3N8' => '0 0.857142857142857 0 0',
+                                                                                                                                                                     'H4N6' => '0 0.8 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H4' => '0 0.8 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   },
+                                                                                                                             'mostly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H3N2' => '0 0.910714285714286 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H3' => '0 0.9 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 469 HA2 ASP 473 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'HA_Clades' => {
+                                                                                                                                                                        'CladeH1_1' => '0 0.739837398373984 0.0975609756097561 0'
+                                                                                                                                                                      },
+                                                                                                                                                       'HA_Groups' => {
+                                                                                                                                                                        'Group1' => '0.0151515151515152 0.71969696969697 0.113636363636364 0'
+                                                                                                                                                                      }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH11_1' => '0.4 0.2 0.4 0'
+                                                                                                                                                                    }
+                                                                                                                                                   },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'HA_Clades' => {
+                                                                                                                                                                     'CladeH17_1' => '0 1 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                    'Hosts' => {
+                                                                                                                                                                 'Bat' => '0 1 0 0'
+                                                                                                                                                               },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H11N9' => '0 1 0 0',
+                                                                                                                                                                    'H13N6' => '1 0 0 0',
+                                                                                                                                                                    'H17N10' => '0 1 0 0',
+                                                                                                                                                                    'H18N11' => '0 1 0 0',
+                                                                                                                                                                    'H2N1' => '0 1 0 0',
+                                                                                                                                                                    'H5N6' => '0 1 0 0',
+                                                                                                                                                                    'H5N8' => '0 1 0 0',
+                                                                                                                                                                    'H6N2' => '0 1 0 0',
+                                                                                                                                                                    'H6N6' => '0 1 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H11' => '0 1 0 0',
+                                                                                                                                                                          'H13' => '1 0 0 0',
+                                                                                                                                                                          'H17' => '0 1 0 0',
+                                                                                                                                                                          'H18' => '0 1 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H1N1' => '0 0.882352941176471 0.0196078431372549 0',
+                                                                                                                                                                     'H2N2' => '0 0.833333333333333 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H1' => '0 0.865384615384615 0.0192307692307692 0',
+                                                                                                                                                                           'H2' => '0 0.8125 0.0625 0'
+                                                                                                                                                                         }
+                                                                                                                                                   },
+                                                                                                                             'mostly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H6N1' => '0 0.916666666666667 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H6' => '0 0.941176470588235 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 473 HA2 ASP 476 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'HA_Clades' => {
+                                                                                                                                                                        'CladeH17_1' => '0.666666666666667 0 0 0.333333333333333'
+                                                                                                                                                                      },
+                                                                                                                                                       'Hosts' => {
+                                                                                                                                                                    'Bat' => '0.666666666666667 0 0 0.333333333333333'
+                                                                                                                                                                  }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H6N2' => '0.5 0 0 0.5'
+                                                                                                                                                                   }
+                                                                                                                                                   },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'HA_Clades' => {
+                                                                                                                                                                     'CladeH9_1' => '1 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H13N6' => '1 0 0 0',
+                                                                                                                                                                    'H16N3' => '1 0 0 0',
+                                                                                                                                                                    'H18N11' => '1 0 0 0',
+                                                                                                                                                                    'H2N3' => '1 0 0 0',
+                                                                                                                                                                    'H8N4' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H13' => '1 0 0 0',
+                                                                                                                                                                          'H16' => '1 0 0 0',
+                                                                                                                                                                          'H18' => '1 0 0 0',
+                                                                                                                                                                          'H8' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH11_1' => '0.8 0 0 0.2'
+                                                                                                                                                                    }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 480 HA2 GLU 484 HA2' => {
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H7N9' => '0.533333333333333 0 0 0'
+                                                                                                                                                                   }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 497 HA2 GLU 503 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Subtypes' => {
+                                                                                                                                                                       'H10N7' => '0.666666666666667 0 0 0',
+                                                                                                                                                                       'H10N8' => '0.714285714285714 0 0 0'
+                                                                                                                                                                     },
+                                                                                                                                                       'SubtypesSameHA' => {
+                                                                                                                                                                             'H10' => '0.666666666666667 0 0 0'
+                                                                                                                                                                           }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH7_2' => '0.557377049180328 0 0 0.0163934426229508'
+                                                                                                                                                                    },
+                                                                                                                                                     'Hosts' => {
+                                                                                                                                                                  'Seal' => '0.611111111111111 0 0 0'
+                                                                                                                                                                },
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H10N2' => '0.5 0 0 0'
+                                                                                                                                                                   }
+                                                                                                                                                   },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H13N6' => '0 1 0 0',
+                                                                                                                                                                    'H7N7' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H13' => '0 1 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 509 HA2 ASP 511 HA2' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H11N9' => '0 1 0 0',
+                                                                                                                                                                    'H5N8' => '0 1 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H11' => '0 1 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 509 HA2 GLU 511 HA2' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H11N9' => '1 0 0 0',
+                                                                                                                                                                    'H5N8' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H11' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 522 HA2 ASP 524 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'HA_Clades' => {
+                                                                                                                                                                        'CladeH3_2' => '0.763157894736842 0 0 0'
+                                                                                                                                                                      },
+                                                                                                                                                       'SubtypesSameHA' => {
+                                                                                                                                                                             'H3' => '0.757142857142857 0 0 0'
+                                                                                                                                                                           }
+                                                                                                                                                     },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H4N6' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H4' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H3N2' => '0.857142857142857 0 0 0'
+                                                                                                                                                                   }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative ASP 58 HA1 GLU 337 HA1' => {
+                                                                                                                            'fully_conserved' => {
+                                                                                                                                                   'HA_Clades' => {
+                                                                                                                                                                    'CladeH9_1' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H8N4' => '1 0 0 0'
+                                                                                                                                                                 },
+                                                                                                                                                   'SubtypesSameHA' => {
+                                                                                                                                                                         'H8' => '1 0 0 0'
+                                                                                                                                                                       }
+                                                                                                                                                 }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative ASP 67 HA1 GLU 82 HA1' => {
+                                                                                                                           'fully_conserved' => {
+                                                                                                                                                  'Subtypes' => {
+                                                                                                                                                                  'H5N6' => '1 0 0 0'
+                                                                                                                                                                }
+                                                                                                                                                }
+                                                                                                                         },
+                                                                      'Intra-RepulsiveNegative ASP 69 HA1 ASP 101 HA1' => {
+                                                                                                                            'fully_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H14N5' => '1 0 0 0'
+                                                                                                                                                                 },
+                                                                                                                                                   'SubtypesSameHA' => {
+                                                                                                                                                                         'H14' => '1 0 0 0'
+                                                                                                                                                                       }
+                                                                                                                                                 },
+                                                                                                                            'highly_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H4N6' => '0.8 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H4' => '0.8 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative ASP 69 HA1 GLU 94 HA1' => {
+                                                                                                                           'fully_conserved' => {
+                                                                                                                                                  'Subtypes' => {
+                                                                                                                                                                  'H14N5' => '1 0 0 0'
+                                                                                                                                                                },
+                                                                                                                                                  'SubtypesSameHA' => {
+                                                                                                                                                                        'H14' => '1 0 0 0'
+                                                                                                                                                                      }
+                                                                                                                                                },
+                                                                                                                           'highly_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H4N6' => '0.8 0 0 0'
+                                                                                                                                                                 },
+                                                                                                                                                   'SubtypesSameHA' => {
+                                                                                                                                                                         'H4' => '0.8 0 0 0'
+                                                                                                                                                                       }
+                                                                                                                                                 }
+                                                                                                                         },
+                                                                      'Intra-RepulsiveNegative ASP 72 HA1 ASP 77 HA1' => {
+                                                                                                                           'fully_conserved' => {
+                                                                                                                                                  'Hosts' => {
+                                                                                                                                                               'Canine' => '1 0 0 0',
+                                                                                                                                                               'Equine' => '1 0 0 0'
+                                                                                                                                                             },
+                                                                                                                                                  'Subtypes' => {
+                                                                                                                                                                  'H3N2' => '0.964285714285714 0 0 0',
+                                                                                                                                                                  'H3N8' => '1 0 0 0'
+                                                                                                                                                                },
+                                                                                                                                                  'SubtypesSameHA' => {
+                                                                                                                                                                        'H3' => '0.971428571428571 0 0 0'
+                                                                                                                                                                      }
+                                                                                                                                                },
+                                                                                                                           'highly_conserved' => {
+                                                                                                                                                   'HA_Clades' => {
+                                                                                                                                                                    'CladeH3_2' => '0.894736842105263 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                 }
+                                                                                                                         },
+                                                                      'Intra-RepulsiveNegative ASP 97 HA1 ASP 303 HA1' => {
+                                                                                                                            'fully_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H6N2' => '1 0 0 0'
+                                                                                                                                                                 }
+                                                                                                                                                 }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative GLU 109 HA1 ASP 249 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H17N10' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H17' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 112 HA1 GLU 433 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Subtypes' => {
+                                                                                                                                                                       'H6N1' => '0.75 0 0.25 0'
+                                                                                                                                                                     }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H6' => '0.529411764705882 0 0.411764705882353 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 112 HA1 GLU 438 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'HA_Clades' => {
+                                                                                                                                                                        'CladeH1_1' => '0.747967479674797 0 0.00813008130081301 0'
+                                                                                                                                                                      },
+                                                                                                                                                       'HA_Groups' => {
+                                                                                                                                                                        'Group1' => '0.712121212121212 0 0.00757575757575758 0'
+                                                                                                                                                                      },
+                                                                                                                                                       'Subtypes' => {
+                                                                                                                                                                       'H1N1' => '0.666666666666667 0 0.0196078431372549 0',
+                                                                                                                                                                       'H5N1' => '0.742857142857143 0 0 0',
+                                                                                                                                                                       'H6N6' => '0.666666666666667 0 0 0'
+                                                                                                                                                                     },
+                                                                                                                                                       'SubtypesSameHA' => {
+                                                                                                                                                                             'H1' => '0.673076923076923 0 0.0192307692307692 0',
+                                                                                                                                                                             'H5' => '0.736842105263158 0 0 0'
+                                                                                                                                                                           }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Hosts' => {
+                                                                                                                                                                  'Avian' => '0.5 0 0 0',
+                                                                                                                                                                  'Swine' => '0.555555555555556 0 0 0'
+                                                                                                                                                                }
+                                                                                                                                                   },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'HA_Clades' => {
+                                                                                                                                                                     'CladeH9_1' => '1 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H11N9' => '1 0 0 0',
+                                                                                                                                                                    'H1N2' => '1 0 0 0',
+                                                                                                                                                                    'H2N2' => '1 0 0 0',
+                                                                                                                                                                    'H2N3' => '1 0 0 0',
+                                                                                                                                                                    'H5N2' => '1 0 0 0',
+                                                                                                                                                                    'H5N6' => '1 0 0 0',
+                                                                                                                                                                    'H6N1' => '1 0 0 0',
+                                                                                                                                                                    'H6N2' => '1 0 0 0',
+                                                                                                                                                                    'H8N4' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H11' => '1 0 0 0',
+                                                                                                                                                                          'H8' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H2' => '0.8125 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   },
+                                                                                                                             'mostly_conserved' => {
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H6' => '0.941176470588235 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 120 HA1 GLU 428 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'HA_Clades' => {
+                                                                                                                                                                        'CladeH7_2' => '0.655737704918033 0 0 0'
+                                                                                                                                                                      },
+                                                                                                                                                       'Hosts' => {
+                                                                                                                                                                    'Seal' => '0.666666666666667 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                       'Subtypes' => {
+                                                                                                                                                                       'H10N2' => '0.75 0 0 0',
+                                                                                                                                                                       'H10N7' => '0.777777777777778 0 0 0'
+                                                                                                                                                                     }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H7N7' => '0.5 0 0 0'
+                                                                                                                                                                   }
+                                                                                                                                                   },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H10N8' => '1 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H10' => '0.861111111111111 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 127 HA1 GLU 190 HA1' => {
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H18N11' => '0.5 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H18' => '0.5 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 208 HA1 ASP 246 HA1' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'HA_Clades' => {
+                                                                                                                                                                        'CladeH17_1' => '0.666666666666667 0 0 0'
+                                                                                                                                                                      },
+                                                                                                                                                       'Hosts' => {
+                                                                                                                                                                    'Bat' => '0.666666666666667 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                     },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H18N11' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H18' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 225 HA1 ASP 259 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H11N9' => '0 1 0 0',
+                                                                                                                                                                    'H6N2' => '0 1 0 0',
+                                                                                                                                                                    'H6N6' => '0 1 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H11' => '0 1 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H6N1' => '0 0.833333333333333 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H6' => '0 0.882352941176471 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 225 HA1 GLU 259 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H11N9' => '1 0 0 0',
+                                                                                                                                                                    'H6N2' => '1 0 0 0',
+                                                                                                                                                                    'H6N6' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H11' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H6N1' => '0.833333333333333 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H6' => '0.882352941176471 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 226 HA1 GLU 259 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H16N3' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H16' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 234 HA1 ASP 249 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H2N3' => '0 1 0 0',
+                                                                                                                                                                    'H6N2' => '1 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H6' => '0.823529411764706 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   },
+                                                                                                                             'mostly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H6N1' => '0.916666666666667 0 0 0'
+                                                                                                                                                                   }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 234 HA1 GLU 249 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H2N3' => '1 0 0 0',
+                                                                                                                                                                    'H6N2' => '0 1 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H6' => '0 0.823529411764706 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   },
+                                                                                                                             'mostly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H6N1' => '0 0.916666666666667 0 0'
+                                                                                                                                                                   }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 256 HA1 ASP 259 HA1' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H15N9' => '0 1 0 0',
+                                                                                                                                                                    'H1N2' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H15' => '0 1 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 279 HA1 GLU 281 HA1' => {
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H13N6' => '0.5 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H13' => '0.5 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 303 HA1 GLU 433 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Subtypes' => {
+                                                                                                                                                                       'H7N7' => '0.75 0 0 0'
+                                                                                                                                                                     }
+                                                                                                                                                     }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 313 HA1 GLU 425 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Subtypes' => {
+                                                                                                                                                                       'H3N2' => '0.660714285714286 0 0 0'
+                                                                                                                                                                     }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH3_2' => '0.513157894736842 0 0 0'
+                                                                                                                                                                    },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H3' => '0.557142857142857 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 359 HA1 GLU 379 HA2' => {
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Hosts' => {
+                                                                                                                                                                  'Equine' => '0.5 0 0 0'
+                                                                                                                                                                }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 394 HA2 ASP 509 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Hosts' => {
+                                                                                                                                                                    'Equine' => '0.666666666666667 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H4N6' => '0.6 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H4' => '0.6 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Hosts' => {
+                                                                                                                                                                 'Canine' => '1 0 0 0'
+                                                                                                                                                               },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H14N5' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H14' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH3_2' => '0.828947368421053 0 0 0'
+                                                                                                                                                                    },
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H3N2' => '0.839285714285714 0 0 0',
+                                                                                                                                                                     'H3N8' => '0.857142857142857 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H3' => '0.842857142857143 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 438 HA2 GLU 445 HA2' => {
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'Hosts' => {
+                                                                                                                                                                  'Equine' => '0.5 0 0 0'
+                                                                                                                                                                },
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H3N2' => '0.535714285714286 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H3' => '0.514285714285714 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 449 HA2 ASP 450 HA2' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H5N6' => '1 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 467 HA2 GLU 474 HA2' => {
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'HA_Clades' => {
+                                                                                                                                                                     'CladeH9_1' => '1 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H8N4' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H8' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 469 HA2 ASP 473 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'HA_Clades' => {
+                                                                                                                                                                        'CladeH1_1' => '0.739837398373984 0 0 0.0975609756097561'
+                                                                                                                                                                      },
+                                                                                                                                                       'HA_Groups' => {
+                                                                                                                                                                        'Group1' => '0.71969696969697 0.0151515151515152 0 0.113636363636364'
+                                                                                                                                                                      }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH11_1' => '0.2 0.4 0 0.4'
+                                                                                                                                                                    }
+                                                                                                                                                   },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'HA_Clades' => {
+                                                                                                                                                                     'CladeH17_1' => '1 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                    'Hosts' => {
+                                                                                                                                                                 'Bat' => '1 0 0 0'
+                                                                                                                                                               },
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H11N9' => '1 0 0 0',
+                                                                                                                                                                    'H13N6' => '0 1 0 0',
+                                                                                                                                                                    'H17N10' => '1 0 0 0',
+                                                                                                                                                                    'H18N11' => '1 0 0 0',
+                                                                                                                                                                    'H2N1' => '1 0 0 0',
+                                                                                                                                                                    'H5N6' => '1 0 0 0',
+                                                                                                                                                                    'H5N8' => '1 0 0 0',
+                                                                                                                                                                    'H6N2' => '1 0 0 0',
+                                                                                                                                                                    'H6N6' => '1 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H11' => '1 0 0 0',
+                                                                                                                                                                          'H13' => '0 1 0 0',
+                                                                                                                                                                          'H17' => '1 0 0 0',
+                                                                                                                                                                          'H18' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  },
+                                                                                                                             'highly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H1N1' => '0.882352941176471 0 0 0.0196078431372549',
+                                                                                                                                                                     'H2N2' => '0.833333333333333 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H1' => '0.865384615384615 0 0 0.0192307692307692',
+                                                                                                                                                                           'H2' => '0.8125 0 0 0.0625'
+                                                                                                                                                                         }
+                                                                                                                                                   },
+                                                                                                                             'mostly_conserved' => {
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H6N1' => '0.916666666666667 0 0 0'
+                                                                                                                                                                   },
+                                                                                                                                                     'SubtypesSameHA' => {
+                                                                                                                                                                           'H6' => '0.941176470588235 0 0 0'
+                                                                                                                                                                         }
+                                                                                                                                                   }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 47 HA1 ASP 48 HA1' => {
+                                                                                                                           'fairly_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H1N1' => '0.568627450980392 0 0 0'
+                                                                                                                                                                 },
+                                                                                                                                                   'SubtypesSameHA' => {
+                                                                                                                                                                         'H1' => '0.557692307692308 0 0 0'
+                                                                                                                                                                       }
+                                                                                                                                                 }
+                                                                                                                         },
+                                                                      'Intra-RepulsiveNegative GLU 47 HA1 GLU 49 HA1' => {
+                                                                                                                           'fairly_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H18N11' => '0.5 0 0 0'
+                                                                                                                                                                 },
+                                                                                                                                                   'SubtypesSameHA' => {
+                                                                                                                                                                         'H18' => '0.5 0 0 0'
+                                                                                                                                                                       }
+                                                                                                                                                 },
+                                                                                                                           'fully_conserved' => {
+                                                                                                                                                  'Subtypes' => {
+                                                                                                                                                                  'H11N9' => '1 0 0 0'
+                                                                                                                                                                },
+                                                                                                                                                  'SubtypesSameHA' => {
+                                                                                                                                                                        'H11' => '1 0 0 0'
+                                                                                                                                                                      }
+                                                                                                                                                }
+                                                                                                                         },
+                                                                      'Intra-RepulsiveNegative GLU 497 HA2 GLU 503 HA2' => {
+                                                                                                                             'decently_conserved' => {
+                                                                                                                                                       'Subtypes' => {
+                                                                                                                                                                       'H10N7' => '0 0.666666666666667 0 0',
+                                                                                                                                                                       'H10N8' => '0 0.714285714285714 0 0'
+                                                                                                                                                                     },
+                                                                                                                                                       'SubtypesSameHA' => {
+                                                                                                                                                                             'H10' => '0 0.666666666666667 0 0'
+                                                                                                                                                                           }
+                                                                                                                                                     },
+                                                                                                                             'fairly_conserved' => {
+                                                                                                                                                     'HA_Clades' => {
+                                                                                                                                                                      'CladeH7_2' => '0 0.557377049180328 0.0163934426229508 0'
+                                                                                                                                                                    },
+                                                                                                                                                     'Hosts' => {
+                                                                                                                                                                  'Seal' => '0 0.611111111111111 0 0'
+                                                                                                                                                                },
+                                                                                                                                                     'Subtypes' => {
+                                                                                                                                                                     'H10N2' => '0 0.5 0 0'
+                                                                                                                                                                   }
+                                                                                                                                                   },
+                                                                                                                             'fully_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H13N6' => '1 0 0 0',
+                                                                                                                                                                    'H7N7' => '0 1 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H13' => '1 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                           },
+                                                                      'Intra-RepulsiveNegative GLU 71 HA1 GLU 94 HA1' => {
+                                                                                                                           'fairly_conserved' => {
+                                                                                                                                                   'SubtypesSameHA' => {
+                                                                                                                                                                         'H6' => '0.647058823529412 0 0 0'
+                                                                                                                                                                       }
+                                                                                                                                                 },
+                                                                                                                           'fully_conserved' => {
+                                                                                                                                                  'HA_Clades' => {
+                                                                                                                                                                   'CladeH9_1' => '1 0 0 0'
+                                                                                                                                                                 },
+                                                                                                                                                  'Subtypes' => {
+                                                                                                                                                                  'H13N6' => '1 0 0 0',
+                                                                                                                                                                  'H16N3' => '1 0 0 0',
+                                                                                                                                                                  'H8N4' => '1 0 0 0'
+                                                                                                                                                                },
+                                                                                                                                                  'SubtypesSameHA' => {
+                                                                                                                                                                        'H13' => '1 0 0 0',
+                                                                                                                                                                        'H16' => '1 0 0 0',
+                                                                                                                                                                        'H8' => '1 0 0 0'
+                                                                                                                                                                      }
+                                                                                                                                                },
+                                                                                                                           'highly_conserved' => {
+                                                                                                                                                   'HA_Clades' => {
+                                                                                                                                                                    'CladeH11_1' => '0.8 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H6N1' => '0.833333333333333 0 0 0'
+                                                                                                                                                                 }
+                                                                                                                                                 }
+                                                                                                                         },
+                                                                      'Intra-RepulsiveNegative GLU 85 HA1 ASP 125 HA1' => {
+                                                                                                                            'decently_conserved' => {
+                                                                                                                                                      'SubtypesSameHA' => {
+                                                                                                                                                                            'H7' => '0.791666666666667 0 0 0'
+                                                                                                                                                                          }
+                                                                                                                                                    },
+                                                                                                                            'fully_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H15N9' => '1 0 0 0',
+                                                                                                                                                                   'H7N7' => '1 0 0 0',
+                                                                                                                                                                   'H7N9' => '1 0 0 0'
+                                                                                                                                                                 },
+                                                                                                                                                   'SubtypesSameHA' => {
+                                                                                                                                                                         'H15' => '1 0 0 0'
+                                                                                                                                                                       }
+                                                                                                                                                 }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative GLU 88 HA1 ASP 122 HA1' => {
+                                                                                                                            'fairly_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H18N11' => '0.5 0 0 0'
+                                                                                                                                                                  },
+                                                                                                                                                    'SubtypesSameHA' => {
+                                                                                                                                                                          'H18' => '0.5 0 0 0'
+                                                                                                                                                                        }
+                                                                                                                                                  }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative GLU 94 HA1 GLU 433 HA2' => {
+                                                                                                                            'decently_conserved' => {
+                                                                                                                                                      'Subtypes' => {
+                                                                                                                                                                      'H5N1' => '0.714285714285714 0 0 0',
+                                                                                                                                                                      'H6N6' => '0.666666666666667 0 0 0'
+                                                                                                                                                                    },
+                                                                                                                                                      'SubtypesSameHA' => {
+                                                                                                                                                                            'H5' => '0.684210526315789 0 0 0'
+                                                                                                                                                                          }
+                                                                                                                                                    },
+                                                                                                                            'fully_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H2N1' => '1 0 0 0',
+                                                                                                                                                                   'H2N3' => '1 0 0 0',
+                                                                                                                                                                   'H5N2' => '1 0 0 0'
+                                                                                                                                                                 }
+                                                                                                                                                 }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative GLU 96 HA1 ASP 303 HA1' => {
+                                                                                                                            'fairly_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H10N2' => '0.5 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  },
+                                                                                                                            'mostly_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H10N8' => '0.928571428571429 0 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative GLU 96 HA1 GLU 303 HA1' => {
+                                                                                                                            'fairly_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H10N2' => '0 0.5 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  },
+                                                                                                                            'mostly_conserved' => {
+                                                                                                                                                    'Subtypes' => {
+                                                                                                                                                                    'H10N8' => '0 0.928571428571429 0 0'
+                                                                                                                                                                  }
+                                                                                                                                                  }
+                                                                                                                          },
+                                                                      'Intra-RepulsiveNegative GLU 97 HA1 ASP 303 HA1' => {
+                                                                                                                            'fully_conserved' => {
+                                                                                                                                                   'Subtypes' => {
+                                                                                                                                                                   'H6N2' => '0 1 0 0'
+                                                                                                                                                                 }
+                                                                                                                                                 }
+                                                                                                                          }
+                                                                    }
+                                     }
+                    }
+        };

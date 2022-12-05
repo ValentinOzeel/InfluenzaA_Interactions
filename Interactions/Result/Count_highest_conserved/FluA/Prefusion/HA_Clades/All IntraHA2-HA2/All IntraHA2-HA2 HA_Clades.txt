@@ -1,0 +1,2 @@
+CladeH1_1      CladeH3_2      CladeH7_2      CladeH9_1      CladeH11_1     CladeH17_1     
+14             54             32             92             48             73             

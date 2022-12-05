@@ -1,0 +1,12 @@
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 47 HA1 Proto1 old=34   |     OD1 ASP 48 HA1 Proto1 old=35 ->   4.67131940676294
+H1N1	5vmf	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto1 old=99   |     OE1 GLU 438 HA2 Proto1 old=74 ->   4.58368639852249
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto1 old=105   |     OD1 ASP 473 HA2 Proto1 old=109 ->   3.9729366972052
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto1 old=105   |     OD2 ASP 473 HA2 Proto1 old=109 ->   4.41229804070394
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 47 HA1 Proto2 old=34   |     OD1 ASP 48 HA1 Proto2 old=35 ->   4.97809140133043
+H1N1	5vmf	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto2 old=99   |     OE1 GLU 438 HA2 Proto2 old=74 ->   4.56618407425719
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto2 old=105   |     OD1 ASP 473 HA2 Proto2 old=109 ->   4.06770930623121
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto2 old=105   |     OD2 ASP 473 HA2 Proto2 old=109 ->   4.39382225402894
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 47 HA1 Proto3 old=34   |     OD1 ASP 48 HA1 Proto3 old=35 ->   4.68208340378512
+H1N1	5vmf	Intra-RepulsiveNegative	OE1 GLU 112 HA1 Proto3 old=99   |     OE1 GLU 438 HA2 Proto3 old=74 ->   4.54498118807988
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto3 old=105   |     OD1 ASP 473 HA2 Proto3 old=109 ->   4.00325704895397
+H1N1	5vmf	Intra-RepulsiveNegative	OE2 GLU 469 HA2 Proto3 old=105   |     OD2 ASP 473 HA2 Proto3 old=109 ->   4.6056449059822

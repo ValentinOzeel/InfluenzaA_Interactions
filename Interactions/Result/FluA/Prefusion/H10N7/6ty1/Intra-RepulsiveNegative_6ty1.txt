@@ -1,0 +1,10 @@
+H10N7	6ty1	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto1 old=104   |     OE1 GLU 428 HA2 Proto1 old=64 ->   3.21765022959304
+H10N7	6ty1	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto1 old=104   |     OE2 GLU 428 HA2 Proto1 old=64 ->   2.6610242388975
+H10N7	6ty1	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto1 old=104   |     OE1 GLU 428 HA2 Proto1 old=64 ->   2.7301115361831
+H10N7	6ty1	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto1 old=104   |     OE2 GLU 428 HA2 Proto1 old=64 ->   3.46855704868754
+H10N7	6ty1	Intra-RepulsiveNegative	OE1 GLU 359 HA1 Proto1 old=318   |     OE1 GLU 379 HA2 Proto1 old=15 ->   4.23622485238921
+H10N7	6ty1	Intra-RepulsiveNegative	OE1 GLU 359 HA1 Proto1 old=318   |     OE2 GLU 379 HA2 Proto1 old=15 ->   4.13298403093938
+H10N7	6ty1	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto1 old=109   |     OD2 ASP 476 HA2 Proto1 old=112 ->   4.22672024151115
+H10N7	6ty1	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto2 old=109   |     OD2 ASP 476 HA2 Proto2 old=112 ->   4.35645107857301
+H10N7	6ty1	Intra-RepulsiveNegative	OE2 GLU 359 HA1 Proto3 old=318   |     OE2 GLU 379 HA2 Proto3 old=15 ->   4.4119912737901
+H10N7	6ty1	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto3 old=109   |     OD2 ASP 476 HA2 Proto3 old=112 ->   4.36306153979061

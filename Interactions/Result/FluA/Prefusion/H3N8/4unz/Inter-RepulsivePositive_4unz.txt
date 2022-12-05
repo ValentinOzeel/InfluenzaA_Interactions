@@ -1,0 +1,7 @@
+H3N8	4unz	Inter-RepulsivePositive	NH1 ARG 343 HA1 Proto1 old=310   |     NZ LYS 426 HA2 Proto3 old=62 ->   4.70791089550344
+H3N8	4unz	Inter-RepulsivePositive	NZ LYS 426 HA2 Proto1 old=62   |     NH1 ARG 343 HA1 Proto2 old=310 ->   4.34126951478482
+H3N8	4unz	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto1 old=123   |     NE ARG 487 HA2 Proto2 old=123 ->   4.87582905770906
+H3N8	4unz	Inter-RepulsivePositive	NE ARG 487 HA2 Proto1 old=123   |     NH2 ARG 487 HA2 Proto3 old=123 ->   4.87191995008128
+H3N8	4unz	Inter-RepulsivePositive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto2 old=170 ->   4.79537621047609
+H3N8	4unz	Inter-RepulsivePositive	NE ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   4.9228491750205
+H3N8	4unz	Inter-RepulsivePositive	NZ LYS 426 HA2 Proto2 old=62   |     NH1 ARG 343 HA1 Proto3 old=310 ->   4.67060445766926

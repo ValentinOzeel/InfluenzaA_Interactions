@@ -1,0 +1,6 @@
+H5N1	6e7g	Inter-RepulsiveNegative	OE1 GLU 428 HA2 Proto1 old=64   |     OD2 ASP 450 HA2 Proto2 old=86 ->   3.29735575878612
+H5N1	6e7g	Inter-RepulsiveNegative	OE2 GLU 428 HA2 Proto1 old=64   |     OD1 ASP 450 HA2 Proto2 old=86 ->   4.54930214428543
+H5N1	6e7g	Inter-RepulsiveNegative	OE2 GLU 428 HA2 Proto1 old=64   |     OD2 ASP 450 HA2 Proto2 old=86 ->   2.67359290094809
+H5N1	6e7g	Inter-RepulsiveNegative	OE1 GLU 428 HA2 Proto2 old=64   |     OD2 ASP 450 HA2 Proto3 old=86 ->   4.20409871435008
+H5N1	6e7g	Inter-RepulsiveNegative	OE2 GLU 428 HA2 Proto2 old=64   |     OD1 ASP 450 HA2 Proto3 old=86 ->   4.71091211974921
+H5N1	6e7g	Inter-RepulsiveNegative	OE2 GLU 428 HA2 Proto2 old=64   |     OD2 ASP 450 HA2 Proto3 old=86 ->   2.82393555167252

@@ -1,0 +1,8 @@
+H8N4	6v46	Inter-Repulsive	ND1 HIS 432 HA2 Proto1 old=68   |     NZ LYS 447 HA2 Proto3 old=83 ->   4.32283911336057
+H8N4	6v46	Inter-Repulsive	NZ LYS 447 HA2 Proto1 old=83   |     ND1 HIS 432 HA2 Proto2 old=68 ->   4.44588123997931
+H8N4	6v46	Inter-Repulsive	NE ARG 534 HA2 Proto1 old=170   |     NH1 ARG 534 HA2 Proto3 old=170 ->   3.40258093217487
+H8N4	6v46	Inter-Repulsive	NH1 ARG 534 HA2 Proto1 old=170   |     NH1 ARG 534 HA2 Proto3 old=170 ->   3.39466478462897
+H8N4	6v46	Inter-Repulsive	NH1 ARG 534 HA2 Proto1 old=170   |     NH2 ARG 534 HA2 Proto3 old=170 ->   3.84753492511764
+H8N4	6v46	Inter-Repulsive	NH2 ARG 534 HA2 Proto1 old=170   |     NH1 ARG 534 HA2 Proto3 old=170 ->   3.20728233867865
+H8N4	6v46	Inter-Repulsive	NH2 ARG 534 HA2 Proto1 old=170   |     NH2 ARG 534 HA2 Proto3 old=170 ->   4.41756222367042
+H8N4	6v46	Inter-Repulsive	NZ LYS 447 HA2 Proto2 old=83   |     ND1 HIS 432 HA2 Proto3 old=68 ->   4.21804705995558

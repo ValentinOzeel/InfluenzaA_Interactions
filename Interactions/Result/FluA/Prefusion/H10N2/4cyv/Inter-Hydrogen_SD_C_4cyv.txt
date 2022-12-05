@@ -1,0 +1,17 @@
+H10N2	4cyv	Inter-Hydrogen_SD_C	O LEU 32 HA1 Proto1 old=29   |     NH1 ARG 418 HA2 Proto2 old=54 ->   2.87047957665614
+H10N2	4cyv	Inter-Hydrogen_SD_C	OG1 THR 33 HA1 Proto1 old=30   |     O GLN 411 HA2 Proto2 old=47 ->   2.96219952062652
+H10N2	4cyv	Inter-Hydrogen_SD_C	O SER 224 HA1 Proto1 old=206   |     NH2 ARG 247 HA1 Proto3 old=229 ->   2.78362695058085
+H10N2	4cyv	Inter-Hydrogen_SD_C	NE2 GLN 228 HA1 Proto1 old=210   |     N ALA 107 HA1 Proto3 old=101 ->   3.36367076272336
+H10N2	4cyv	Inter-Hydrogen_SD_C	NH2 ARG 247 HA1 Proto1 old=229   |     O SER 224 HA1 Proto2 old=206 ->   2.7684098323767
+H10N2	4cyv	Inter-Hydrogen_SD_C	OG SER 264 HA1 Proto1 old=246   |     N ALA 237 HA1 Proto3 old=219 ->   3.42258352710346
+H10N2	4cyv	Inter-Hydrogen_SD_C	O GLY 365 HA2 Proto1 old=1   |     ND2 ASN 481 HA2 Proto2 old=117 ->   3.46411965728668
+H10N2	4cyv	Inter-Hydrogen_SD_C	NH2 ARG 418 HA2 Proto1 old=54   |     O LEU 32 HA1 Proto3 old=29 ->   3.25042412617184
+H10N2	4cyv	Inter-Hydrogen_SD_C	NE ARG 418 HA2 Proto1 old=54   |     O LEU 32 HA1 Proto3 old=29 ->   3.24223348943286
+H10N2	4cyv	Inter-Hydrogen_SD_C	NH2 ARG 527 HA2 Proto1 old=163   |     O ARG 534 HA2 Proto3 old=170 ->   3.17676722471131
+H10N2	4cyv	Inter-Hydrogen_SD_C	O ARG 534 HA2 Proto1 old=170   |     NH2 ARG 527 HA2 Proto2 old=163 ->   2.68145837185663
+H10N2	4cyv	Inter-Hydrogen_SD_C	O LEU 32 HA1 Proto2 old=29   |     NH1 ARG 418 HA2 Proto3 old=54 ->   3.00886523460257
+H10N2	4cyv	Inter-Hydrogen_SD_C	O VAL 235 HA1 Proto2 old=217   |     OG SER 221 HA1 Proto3 old=203 ->   3.1518442220389
+H10N2	4cyv	Inter-Hydrogen_SD_C	NH2 ARG 247 HA1 Proto2 old=229   |     O SER 224 HA1 Proto3 old=206 ->   3.20136642701206
+H10N2	4cyv	Inter-Hydrogen_SD_C	O GLY 365 HA2 Proto2 old=1   |     ND2 ASN 481 HA2 Proto3 old=117 ->   2.89491847899038
+H10N2	4cyv	Inter-Hydrogen_SD_C	O LEU 366 HA2 Proto2 old=2   |     OG SER 477 HA2 Proto3 old=113 ->   3.16327694013661
+H10N2	4cyv	Inter-Hydrogen_SD_C	O ARG 534 HA2 Proto2 old=170   |     NH2 ARG 527 HA2 Proto3 old=163 ->   3.25389166998535

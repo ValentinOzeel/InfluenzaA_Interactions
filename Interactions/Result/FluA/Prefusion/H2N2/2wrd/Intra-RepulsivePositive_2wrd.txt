@@ -1,0 +1,17 @@
+H2N2	2wrd	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto1 old=106   |     NZ LYS 300 HA1 Proto1 old=269 ->   4.26548309104608
+H2N2	2wrd	Intra-RepulsivePositive	NE2 HIS 116 HA1 Proto1 old=107   |     NZ LYS 432 HA2 Proto1 old=397 ->   4.63746072759652
+H2N2	2wrd	Intra-RepulsivePositive	ND1 HIS 202 HA1 Proto1 old=183   |     NH2 ARG 238 HA1 Proto1 old=219 ->   4.99779641442106
+H2N2	2wrd	Intra-RepulsivePositive	NE ARG 238 HA1 Proto1 old=219   |     NE ARG 247 HA1 Proto1 old=228 ->   4.95313102996478
+H2N2	2wrd	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto2 old=106   |     NZ LYS 300 HA1 Proto2 old=269 ->   4.27910422869086
+H2N2	2wrd	Intra-RepulsivePositive	NE2 HIS 116 HA1 Proto2 old=107   |     NZ LYS 432 HA2 Proto2 old=397 ->   4.44269670357993
+H2N2	2wrd	Intra-RepulsivePositive	ND1 HIS 202 HA1 Proto2 old=183   |     NH2 ARG 238 HA1 Proto2 old=219 ->   4.97185227053258
+H2N2	2wrd	Intra-RepulsivePositive	NE ARG 238 HA1 Proto2 old=219   |     NE ARG 247 HA1 Proto2 old=228 ->   4.94543274142921
+H2N2	2wrd	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto2 old=355   |     NZ LYS 517 HA2 Proto2 old=482 ->   4.19610164319217
+H2N2	2wrd	Intra-RepulsivePositive	ND1 HIS 506 HA2 Proto2 old=471   |     NZ LYS 525 HA2 Proto2 old=490 ->   3.9778695302888
+H2N2	2wrd	Intra-RepulsivePositive	NE2 HIS 506 HA2 Proto2 old=471   |     NZ LYS 525 HA2 Proto2 old=490 ->   4.22721823425288
+H2N2	2wrd	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto3 old=106   |     NZ LYS 300 HA1 Proto3 old=269 ->   4.25688078292075
+H2N2	2wrd	Intra-RepulsivePositive	NE2 HIS 116 HA1 Proto3 old=107   |     NZ LYS 432 HA2 Proto3 old=397 ->   4.54400770245826
+H2N2	2wrd	Intra-RepulsivePositive	ND1 HIS 202 HA1 Proto3 old=183   |     NH2 ARG 238 HA1 Proto3 old=219 ->   4.96457963980839
+H2N2	2wrd	Intra-RepulsivePositive	NE ARG 238 HA1 Proto3 old=219   |     NE ARG 247 HA1 Proto3 old=228 ->   4.98684459352806
+H2N2	2wrd	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto3 old=355   |     NZ LYS 517 HA2 Proto3 old=482 ->   3.86028677691179
+H2N2	2wrd	Intra-RepulsivePositive	NE2 HIS 506 HA2 Proto3 old=471   |     NZ LYS 525 HA2 Proto3 old=490 ->   4.10092306682288

@@ -1,0 +1,17 @@
+H3N2	3whe	Inter-RepulsivePositive	NZ LYS 30 HA1 Proto1 old=27   |     NE ARG 418 HA2 Proto2 old=383 ->   3.82876037380247
+H3N2	3whe	Inter-RepulsivePositive	NZ LYS 30 HA1 Proto1 old=27   |     NH1 ARG 418 HA2 Proto2 old=383 ->   3.46124182917056
+H3N2	3whe	Inter-RepulsivePositive	NH1 ARG 418 HA2 Proto1 old=383   |     NZ LYS 30 HA1 Proto3 old=27 ->   3.61870363528156
+H3N2	3whe	Inter-RepulsivePositive	NE ARG 418 HA2 Proto1 old=383   |     NZ LYS 30 HA1 Proto3 old=27 ->   3.84922407765513
+H3N2	3whe	Inter-RepulsivePositive	NE ARG 487 HA2 Proto1 old=452   |     NH2 ARG 488 HA2 Proto2 old=453 ->   4.959767534875
+H3N2	3whe	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto1 old=452   |     NE ARG 488 HA2 Proto2 old=453 ->   3.86909989532449
+H3N2	3whe	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto1 old=452   |     NH1 ARG 488 HA2 Proto2 old=453 ->   4.42958022841894
+H3N2	3whe	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto1 old=452   |     NH2 ARG 488 HA2 Proto2 old=453 ->   3.46452724047596
+H3N2	3whe	Inter-RepulsivePositive	NH1 ARG 488 HA2 Proto1 old=453   |     NH2 ARG 487 HA2 Proto3 old=452 ->   4.5439794233689
+H3N2	3whe	Inter-RepulsivePositive	NE ARG 488 HA2 Proto1 old=453   |     NH2 ARG 487 HA2 Proto3 old=452 ->   3.81630659145724
+H3N2	3whe	Inter-RepulsivePositive	NH2 ARG 488 HA2 Proto1 old=453   |     NH2 ARG 487 HA2 Proto3 old=452 ->   3.60300610601759
+H3N2	3whe	Inter-RepulsivePositive	NZ LYS 503 HA2 Proto1 old=468   |     NH2 ARG 491 HA2 Proto2 old=456 ->   4.99987019831514
+H3N2	3whe	Inter-RepulsivePositive	NZ LYS 30 HA1 Proto2 old=27   |     NE ARG 418 HA2 Proto3 old=383 ->   3.85572989199191
+H3N2	3whe	Inter-RepulsivePositive	NZ LYS 30 HA1 Proto2 old=27   |     NH1 ARG 418 HA2 Proto3 old=383 ->   3.5574610328154
+H3N2	3whe	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto2 old=452   |     NE ARG 488 HA2 Proto3 old=453 ->   4.05415157585407
+H3N2	3whe	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto2 old=452   |     NH1 ARG 488 HA2 Proto3 old=453 ->   4.70650656007192
+H3N2	3whe	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto2 old=452   |     NH2 ARG 488 HA2 Proto3 old=453 ->   3.64197638652422

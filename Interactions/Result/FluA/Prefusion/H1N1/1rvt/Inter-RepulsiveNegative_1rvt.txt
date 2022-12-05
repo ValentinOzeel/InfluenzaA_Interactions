@@ -1,0 +1,6 @@
+H1N1	1rvt	Inter-RepulsiveNegative	OD2 ASP 228 HA1 Proto1 old=210   |     OE1 GLU 234 HA1 Proto3 old=216 ->   4.39578093175718
+H1N1	1rvt	Inter-RepulsiveNegative	OD1 ASP 228 HA1 Proto1 old=210   |     OE1 GLU 234 HA1 Proto3 old=216 ->   4.99318795961057
+H1N1	1rvt	Inter-RepulsiveNegative	OE1 GLU 234 HA1 Proto1 old=216   |     OD1 ASP 228 HA1 Proto2 old=210 ->   4.96494954657144
+H1N1	1rvt	Inter-RepulsiveNegative	OE1 GLU 234 HA1 Proto1 old=216   |     OD2 ASP 228 HA1 Proto2 old=210 ->   4.37160359593594
+H1N1	1rvt	Inter-RepulsiveNegative	OE1 GLU 234 HA1 Proto2 old=216   |     OD1 ASP 228 HA1 Proto3 old=210 ->   4.93669687139083
+H1N1	1rvt	Inter-RepulsiveNegative	OE1 GLU 234 HA1 Proto2 old=216   |     OD2 ASP 228 HA1 Proto3 old=210 ->   4.88095953681241

@@ -1,0 +1,1 @@
+H10N7	6ty1	Inter-RepulsivePositive	ND1 HIS 439 HA2 Proto1 old=75   |     NZ LYS 117 HA1 Proto3 old=101 ->   4.6785205995058

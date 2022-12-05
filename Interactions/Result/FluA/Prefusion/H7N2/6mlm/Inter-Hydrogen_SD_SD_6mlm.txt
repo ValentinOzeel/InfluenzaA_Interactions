@@ -1,0 +1,3 @@
+H7N2	6mlm	Inter-Hydrogen_SD_SD	OG SER 113 HA1 Proto1 old=123   |     OE1 GLN 439 HA2 Proto3 old=75 ->   2.94511697560553
+H7N2	6mlm	Inter-Hydrogen_SD_SD	OE1 GLN 439 HA2 Proto1 old=75   |     OG SER 113 HA1 Proto2 old=123 ->   2.94460472729363
+H7N2	6mlm	Inter-Hydrogen_SD_SD	OE1 GLN 439 HA2 Proto2 old=75   |     OG SER 113 HA1 Proto3 old=123 ->   2.94427682122452

@@ -1,0 +1,9 @@
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 450 HA2 Proto1 old=86   |     OD2 ASP 454 HA2 Proto1 old=90 ->   3.24685832767617
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto1 old=109   |     OD1 ASP 476 HA2 Proto1 old=112 ->   4.65073037274793
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto1 old=109   |     OD2 ASP 476 HA2 Proto1 old=112 ->   4.87303981104197
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 450 HA2 Proto2 old=86   |     OD2 ASP 454 HA2 Proto2 old=90 ->   3.2466924708078
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto2 old=109   |     OD1 ASP 476 HA2 Proto2 old=112 ->   4.65062802210625
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto2 old=109   |     OD2 ASP 476 HA2 Proto2 old=112 ->   4.87330503867753
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 450 HA2 Proto3 old=86   |     OD2 ASP 454 HA2 Proto3 old=90 ->   3.24687865495462
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto3 old=109   |     OD1 ASP 476 HA2 Proto3 old=112 ->   4.65051029458058
+H3N2	6y5l	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto3 old=109   |     OD2 ASP 476 HA2 Proto3 old=112 ->   4.87350315481583

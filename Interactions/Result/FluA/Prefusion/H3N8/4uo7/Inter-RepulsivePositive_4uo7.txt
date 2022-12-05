@@ -1,0 +1,1 @@
+H3N8	4uo7	Inter-RepulsivePositive	NZ LYS 503 HA2 Proto1 old=139   |     NH2 ARG 491 HA2 Proto2 old=127 ->   4.92757485990827

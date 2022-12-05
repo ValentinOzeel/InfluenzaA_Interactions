@@ -1,0 +1,3 @@
+H1N1	1rd8	Inter-RepulsiveNegative	OE2 GLU 467 HA2 Proto1 old=103   |     OE2 GLU 469 HA2 Proto2 old=105 ->   3.66187124295762
+H1N1	1rd8	Inter-RepulsiveNegative	OE2 GLU 469 HA2 Proto1 old=105   |     OE2 GLU 467 HA2 Proto3 old=103 ->   3.72688140406963
+H1N1	1rd8	Inter-RepulsiveNegative	OE2 GLU 467 HA2 Proto2 old=103   |     OE2 GLU 469 HA2 Proto3 old=105 ->   3.75227437696126

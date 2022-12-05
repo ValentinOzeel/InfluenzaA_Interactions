@@ -1,0 +1,1 @@
+H5N1	4bh0	Inter-RepulsivePositive	NH2 ARG 470 HA2 Proto1 old=106   |     NE ARG 470 HA2 Proto3 old=106 ->   4.53346677499682

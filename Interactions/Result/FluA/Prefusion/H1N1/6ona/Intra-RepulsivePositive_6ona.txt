@@ -1,0 +1,6 @@
+H1N1	6ona	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto1 old=355   |     NZ LYS 517 HA2 Proto1 old=482 ->   4.9979374745989
+H1N1	6ona	Intra-RepulsivePositive	ND1 HIS 202 HA1 Proto2 old=183   |     NH2 ARG 238 HA1 Proto2 old=219 ->   4.71099150922605
+H1N1	6ona	Intra-RepulsivePositive	NE ARG 238 HA1 Proto2 old=219   |     NE ARG 247 HA1 Proto2 old=228 ->   4.88060252427915
+H1N1	6ona	Intra-RepulsivePositive	ND1 HIS 202 HA1 Proto3 old=183   |     NH2 ARG 238 HA1 Proto3 old=219 ->   4.5252324802158
+H1N1	6ona	Intra-RepulsivePositive	NE ARG 238 HA1 Proto3 old=219   |     NE ARG 247 HA1 Proto3 old=228 ->   4.85636716074887
+H1N1	6ona	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto3 old=355   |     NZ LYS 517 HA2 Proto3 old=482 ->   4.0545423909487

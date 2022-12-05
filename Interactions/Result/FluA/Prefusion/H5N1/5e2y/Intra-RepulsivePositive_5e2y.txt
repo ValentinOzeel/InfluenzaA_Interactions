@@ -1,0 +1,17 @@
+H5N1	5e2y	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto1 old=18   |     NE2 HIS 41 HA1 Proto1 old=38 ->   4.69888720869101
+H5N1	5e2y	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto1 old=109   |     NZ LYS 300 HA1 Proto1 old=269 ->   3.79447730260704
+H5N1	5e2y	Intra-RepulsivePositive	ND1 HIS 116 HA1 Proto1 old=110   |     NE ARG 120 HA1 Proto1 old=114 ->   4.53637101657261
+H5N1	5e2y	Intra-RepulsivePositive	ND1 HIS 116 HA1 Proto1 old=110   |     NH2 ARG 120 HA1 Proto1 old=114 ->   4.89901357418001
+H5N1	5e2y	Intra-RepulsivePositive	NE2 HIS 116 HA1 Proto1 old=110   |     NE ARG 120 HA1 Proto1 old=114 ->   4.26879596607755
+H5N1	5e2y	Intra-RepulsivePositive	NE2 HIS 116 HA1 Proto1 old=110   |     NH2 ARG 120 HA1 Proto1 old=114 ->   3.76991710784203
+H5N1	5e2y	Intra-RepulsivePositive	NE ARG 238 HA1 Proto1 old=220   |     NE ARG 247 HA1 Proto1 old=229 ->   4.81107150227473
+H5N1	5e2y	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto1 old=26   |     NH2 ARG 517 HA2 Proto1 old=153 ->   4.99094119380303
+H5N1	5e2y	Intra-RepulsivePositive	NE2 HIS 390 HA2 Proto1 old=26   |     NH2 ARG 517 HA2 Proto1 old=153 ->   3.80624237273456
+H5N1	5e2y	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto2 old=18   |     NE2 HIS 41 HA1 Proto2 old=38 ->   4.48103659882398
+H5N1	5e2y	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto2 old=109   |     NZ LYS 300 HA1 Proto2 old=269 ->   4.58659928487327
+H5N1	5e2y	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto2 old=26   |     NH2 ARG 517 HA2 Proto2 old=153 ->   3.50474949176115
+H5N1	5e2y	Intra-RepulsivePositive	NZ LYS 415 HA2 Proto2 old=51   |     NE ARG 470 HA2 Proto2 old=106 ->   4.81316340881961
+H5N1	5e2y	Intra-RepulsivePositive	NE2 HIS 21 HA1 Proto3 old=18   |     NE2 HIS 41 HA1 Proto3 old=38 ->   4.61641505932904
+H5N1	5e2y	Intra-RepulsivePositive	NZ LYS 115 HA1 Proto3 old=109   |     NZ LYS 300 HA1 Proto3 old=269 ->   3.16280587453609
+H5N1	5e2y	Intra-RepulsivePositive	NE ARG 238 HA1 Proto3 old=220   |     NE ARG 247 HA1 Proto3 old=229 ->   4.91914962163177
+H5N1	5e2y	Intra-RepulsivePositive	ND1 HIS 390 HA2 Proto3 old=26   |     NH1 ARG 517 HA2 Proto3 old=153 ->   4.31602803512674

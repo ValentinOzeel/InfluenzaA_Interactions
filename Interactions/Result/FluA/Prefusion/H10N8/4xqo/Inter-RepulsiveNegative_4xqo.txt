@@ -1,0 +1,2 @@
+H10N8	4xqo	Inter-RepulsiveNegative	OE2 GLU 461 HA2 Proto1 old=97   |     OE1 GLU 421 HA2 Proto2 old=57 ->   3.50612321517655
+H10N8	4xqo	Inter-RepulsiveNegative	OE2 GLU 484 HA2 Proto2 old=120   |     OE1 GLU 484 HA2 Proto3 old=120 ->   4.76854736790986

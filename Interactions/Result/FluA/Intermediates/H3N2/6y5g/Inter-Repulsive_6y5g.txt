@@ -1,0 +1,3 @@
+H3N2	6y5g	Inter-Repulsive	NZ LYS 30 HA1 Proto1 old=27   |     NH1 ARG 418 HA2 Proto2 old=54 ->   4.92232566984348
+H3N2	6y5g	Inter-Repulsive	NH1 ARG 418 HA2 Proto1 old=54   |     NZ LYS 30 HA1 Proto3 old=27 ->   4.79429160564934
+H3N2	6y5g	Inter-Repulsive	NH2 ARG 527 HA2 Proto1 old=163   |     NE ARG 534 HA2 Proto3 old=170 ->   4.78963338889316

@@ -1,0 +1,7 @@
+H1N1	4jtv	Inter-RepulsiveNegative	OE2 GLU 34 HA1 Proto1 old=27   |     OE1 GLU 411 HA2 Proto2 old=47 ->   4.44364366258142
+H1N1	4jtv	Inter-RepulsiveNegative	OE2 GLU 34 HA1 Proto1 old=27   |     OE2 GLU 411 HA2 Proto2 old=47 ->   2.4672814999509
+H1N1	4jtv	Inter-RepulsiveNegative	OE1 GLU 34 HA1 Proto1 old=27   |     OE2 GLU 411 HA2 Proto2 old=47 ->   4.60783419840601
+H1N1	4jtv	Inter-RepulsiveNegative	OE2 GLU 411 HA2 Proto1 old=47   |     OE1 GLU 34 HA1 Proto3 old=27 ->   4.85387680107355
+H1N1	4jtv	Inter-RepulsiveNegative	OE2 GLU 411 HA2 Proto1 old=47   |     OE2 GLU 34 HA1 Proto3 old=27 ->   3.19811475716554
+H1N1	4jtv	Inter-RepulsiveNegative	OE1 GLU 34 HA1 Proto2 old=27   |     OE2 GLU 411 HA2 Proto3 old=47 ->   4.77494984266851
+H1N1	4jtv	Inter-RepulsiveNegative	OE2 GLU 34 HA1 Proto2 old=27   |     OE2 GLU 411 HA2 Proto3 old=47 ->   3.2676569587397

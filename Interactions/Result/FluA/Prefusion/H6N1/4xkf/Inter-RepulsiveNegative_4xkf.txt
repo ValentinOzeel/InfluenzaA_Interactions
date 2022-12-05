@@ -1,0 +1,6 @@
+H6N1	4xkf	Inter-RepulsiveNegative	OD2 ASP 217 HA1 Proto1 old=199   |     OD2 ASP 217 HA1 Proto2 old=199 ->   4.94400687701787
+H6N1	4xkf	Inter-RepulsiveNegative	OE2 GLU 467 HA2 Proto1 old=103   |     OE2 GLU 469 HA2 Proto2 old=105 ->   4.62475610167715
+H6N1	4xkf	Inter-RepulsiveNegative	OE2 GLU 484 HA2 Proto1 old=120   |     OE1 GLU 484 HA2 Proto3 old=120 ->   4.93491995882405
+H6N1	4xkf	Inter-RepulsiveNegative	OE2 GLU 484 HA2 Proto1 old=120   |     OE2 GLU 484 HA2 Proto3 old=120 ->   4.64984666413851
+H6N1	4xkf	Inter-RepulsiveNegative	OE2 GLU 467 HA2 Proto2 old=103   |     OE2 GLU 469 HA2 Proto3 old=105 ->   4.77264308324014
+H6N1	4xkf	Inter-RepulsiveNegative	OE1 GLU 484 HA2 Proto2 old=120   |     OE2 GLU 484 HA2 Proto3 old=120 ->   4.81499553478505

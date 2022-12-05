@@ -1,0 +1,3 @@
+H3N2	1qu1	Inter-RepulsivePositive	NH1 ARG 517 HA2 Proto1 old=153   |     NZ LYS 507 HA2 Proto2 old=143 ->   4.27518011316483
+H3N2	1qu1	Inter-RepulsivePositive	NH2 ARG 517 HA2 Proto2 old=153   |     NZ LYS 452 HA2 Proto3 old=88 ->   4.90457062340833
+H3N2	1qu1	Inter-RepulsivePositive	NH1 ARG 517 HA2 Proto2 old=153   |     NZ LYS 507 HA2 Proto3 old=143 ->   4.75909949465232

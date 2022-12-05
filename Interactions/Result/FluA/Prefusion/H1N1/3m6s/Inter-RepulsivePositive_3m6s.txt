@@ -1,0 +1,9 @@
+H1N1	3m6s	Inter-RepulsivePositive	NZ LYS 232 HA1 Proto1 old=211   |     NZ LYS 232 HA1 Proto2 old=211 ->   3.75707080050403
+H1N1	3m6s	Inter-RepulsivePositive	NZ LYS 232 HA1 Proto1 old=211   |     NZ LYS 232 HA1 Proto3 old=211 ->   3.42283552044208
+H1N1	3m6s	Inter-RepulsivePositive	NH1 ARG 281 HA1 Proto1 old=259   |     NZ LYS 439 HA2 Proto2 old=75 ->   4.65349567529615
+H1N1	3m6s	Inter-RepulsivePositive	NH2 ARG 281 HA1 Proto1 old=259   |     NZ LYS 439 HA2 Proto2 old=75 ->   3.96840156738201
+H1N1	3m6s	Inter-RepulsivePositive	NZ LYS 439 HA2 Proto1 old=75   |     NH2 ARG 281 HA1 Proto3 old=259 ->   4.33166723098624
+H1N1	3m6s	Inter-RepulsivePositive	NH2 ARG 487 HA2 Proto1 old=123   |     NH1 ARG 487 HA2 Proto2 old=123 ->   4.82274921595556
+H1N1	3m6s	Inter-RepulsivePositive	NZ LYS 232 HA1 Proto2 old=211   |     NZ LYS 232 HA1 Proto3 old=211 ->   4.03479640130701
+H1N1	3m6s	Inter-RepulsivePositive	NH1 ARG 281 HA1 Proto2 old=259   |     NZ LYS 439 HA2 Proto3 old=75 ->   4.94638372955435
+H1N1	3m6s	Inter-RepulsivePositive	NH2 ARG 281 HA1 Proto2 old=259   |     NZ LYS 439 HA2 Proto3 old=75 ->   4.35591597715107

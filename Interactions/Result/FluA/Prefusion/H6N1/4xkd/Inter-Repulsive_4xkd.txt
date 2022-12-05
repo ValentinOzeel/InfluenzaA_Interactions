@@ -1,0 +1,10 @@
+H6N1	4xkd	Inter-Repulsive	ND1 HIS 432 HA2 Proto1 old=68   |     NH2 ARG 447 HA2 Proto2 old=83 ->   4.8024895627164
+H6N1	4xkd	Inter-Repulsive	NH2 ARG 447 HA2 Proto1 old=83   |     ND1 HIS 432 HA2 Proto3 old=68 ->   4.9398968612715
+H6N1	4xkd	Inter-Repulsive	OE2 GLU 467 HA2 Proto1 old=103   |     OE2 GLU 469 HA2 Proto2 old=105 ->   4.74836403406479
+H6N1	4xkd	Inter-Repulsive	OE2 GLU 484 HA2 Proto1 old=120   |     OE2 GLU 484 HA2 Proto2 old=120 ->   4.89301328426564
+H6N1	4xkd	Inter-Repulsive	OE2 GLU 484 HA2 Proto1 old=120   |     OE2 GLU 484 HA2 Proto3 old=120 ->   4.54621842854036
+H6N1	4xkd	Inter-Repulsive	NH1 ARG 491 HA2 Proto1 old=127   |     NZ LYS 487 HA2 Proto2 old=123 ->   3.60374707769566
+H6N1	4xkd	Inter-Repulsive	NH2 ARG 491 HA2 Proto1 old=127   |     NZ LYS 487 HA2 Proto2 old=123 ->   3.38171687164966
+H6N1	4xkd	Inter-Repulsive	NZ LYS 407 HA2 Proto2 old=43   |     NH2 ARG 355 HA1 Proto3 old=321 ->   4.86486125187553
+H6N1	4xkd	Inter-Repulsive	ND1 HIS 432 HA2 Proto2 old=68   |     NH2 ARG 447 HA2 Proto3 old=83 ->   4.76924228782728
+H6N1	4xkd	Inter-Repulsive	OE2 GLU 467 HA2 Proto2 old=103   |     OE2 GLU 469 HA2 Proto3 old=105 ->   4.73681274698504

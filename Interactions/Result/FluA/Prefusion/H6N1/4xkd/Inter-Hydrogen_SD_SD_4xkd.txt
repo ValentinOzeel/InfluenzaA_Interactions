@@ -1,0 +1,9 @@
+H6N1	4xkd	Inter-Hydrogen_SD_SD	OG SER 120 HA1 Proto1 old=114   |     NH1 ARG 439 HA2 Proto2 old=75 ->   2.65960654984906
+H6N1	4xkd	Inter-Hydrogen_SD_SD	OD1 ASN 445 HA2 Proto1 old=81   |     NH2 ARG 447 HA2 Proto2 old=83 ->   3.03718438689521
+H6N1	4xkd	Inter-Hydrogen_SD_SD	NH2 ARG 447 HA2 Proto1 old=83   |     OD1 ASN 445 HA2 Proto3 old=81 ->   2.90860946158126
+H6N1	4xkd	Inter-Hydrogen_SD_SD	OD1 ASN 495 HA2 Proto1 old=131   |     NH1 ARG 491 HA2 Proto3 old=127 ->   3.18712738998616
+H6N1	4xkd	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto2 old=210   |     NE ARG 238 HA1 Proto3 old=220 ->   3.06872449072901
+H6N1	4xkd	Inter-Hydrogen_SD_SD	OG1 THR 425 HA2 Proto2 old=61   |     OD1 ASP 454 HA2 Proto3 old=90 ->   3.23296906882822
+H6N1	4xkd	Inter-Hydrogen_SD_SD	OG1 THR 425 HA2 Proto2 old=61   |     OD2 ASP 454 HA2 Proto3 old=90 ->   3.12536621854144
+H6N1	4xkd	Inter-Hydrogen_SD_SD	OD1 ASN 445 HA2 Proto2 old=81   |     NH2 ARG 447 HA2 Proto3 old=83 ->   2.88364768999266
+H6N1	4xkd	Inter-Hydrogen_SD_SD	NE ARG 491 HA2 Proto2 old=127   |     OD1 ASN 495 HA2 Proto3 old=131 ->   3.12886193367493

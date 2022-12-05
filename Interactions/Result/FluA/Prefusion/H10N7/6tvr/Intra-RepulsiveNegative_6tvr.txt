@@ -1,0 +1,17 @@
+H10N7	6tvr	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto1 old=106   |     OE1 GLU 428 HA2 Proto1 old=64 ->   4.6034922613164
+H10N7	6tvr	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto1 old=106   |     OE2 GLU 428 HA2 Proto1 old=64 ->   3.33791327029328
+H10N7	6tvr	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto1 old=106   |     OE1 GLU 428 HA2 Proto1 old=64 ->   3.47836082084651
+H10N7	6tvr	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto1 old=106   |     OE2 GLU 428 HA2 Proto1 old=64 ->   3.35025342325025
+H10N7	6tvr	Intra-RepulsiveNegative	OE1 GLU 359 HA1 Proto1 old=320   |     OE1 GLU 379 HA2 Proto1 old=15 ->   4.67365574256384
+H10N7	6tvr	Intra-RepulsiveNegative	OE1 GLU 359 HA1 Proto1 old=320   |     OE2 GLU 379 HA2 Proto1 old=15 ->   4.3143274099215
+H10N7	6tvr	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto1 old=109   |     OD2 ASP 476 HA2 Proto1 old=112 ->   4.96530220631131
+H10N7	6tvr	Intra-RepulsiveNegative	OD1 ASP 497 HA2 Proto1 old=133   |     OE2 GLU 503 HA2 Proto1 old=139 ->   3.45527321640416
+H10N7	6tvr	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto2 old=105   |     OE1 GLU 428 HA2 Proto2 old=64 ->   4.20359952897514
+H10N7	6tvr	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto2 old=105   |     OE1 GLU 428 HA2 Proto2 old=64 ->   4.16866909216838
+H10N7	6tvr	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto2 old=109   |     OD2 ASP 476 HA2 Proto2 old=112 ->   4.97349565195347
+H10N7	6tvr	Intra-RepulsiveNegative	OD1 ASP 497 HA2 Proto2 old=133   |     OE2 GLU 503 HA2 Proto2 old=139 ->   3.4710293862196
+H10N7	6tvr	Intra-RepulsiveNegative	OE2 GLU 120 HA1 Proto3 old=106   |     OE2 GLU 428 HA2 Proto3 old=64 ->   3.37593809184944
+H10N7	6tvr	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto3 old=106   |     OE1 GLU 428 HA2 Proto3 old=64 ->   4.75213909729082
+H10N7	6tvr	Intra-RepulsiveNegative	OE1 GLU 120 HA1 Proto3 old=106   |     OE2 GLU 428 HA2 Proto3 old=64 ->   3.78044402154033
+H10N7	6tvr	Intra-RepulsiveNegative	OD1 ASP 473 HA2 Proto3 old=109   |     OD2 ASP 476 HA2 Proto3 old=112 ->   4.93484143615578
+H10N7	6tvr	Intra-RepulsiveNegative	OD1 ASP 497 HA2 Proto3 old=133   |     OE2 GLU 503 HA2 Proto3 old=139 ->   3.45236049681953

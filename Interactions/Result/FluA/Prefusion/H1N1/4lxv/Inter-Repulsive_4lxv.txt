@@ -1,0 +1,9 @@
+H1N1	4lxv	Inter-Repulsive	NE ARG 226 HA1 Proto1 old=205   |     NE2 HIS 436 HA2 Proto3 old=72 ->   4.67795104720006
+H1N1	4lxv	Inter-Repulsive	NH2 ARG 226 HA1 Proto1 old=205   |     NE2 HIS 436 HA2 Proto3 old=72 ->   4.58185573758058
+H1N1	4lxv	Inter-Repulsive	NH1 ARG 226 HA1 Proto1 old=205   |     ND1 HIS 436 HA2 Proto3 old=72 ->   3.61156780359999
+H1N1	4lxv	Inter-Repulsive	NH1 ARG 226 HA1 Proto1 old=205   |     NE2 HIS 436 HA2 Proto3 old=72 ->   3.51627444890187
+H1N1	4lxv	Inter-Repulsive	NH2 ARG 355 HA1 Proto1 old=319   |     NZ LYS 411 HA2 Proto2 old=47 ->   4.81425684815424
+H1N1	4lxv	Inter-Repulsive	NZ LYS 411 HA2 Proto1 old=47   |     NH2 ARG 355 HA1 Proto3 old=319 ->   4.94121847321086
+H1N1	4lxv	Inter-Repulsive	NE2 HIS 436 HA2 Proto1 old=72   |     NE ARG 226 HA1 Proto2 old=205 ->   4.65256585122659
+H1N1	4lxv	Inter-Repulsive	NH2 ARG 355 HA1 Proto2 old=319   |     NZ LYS 411 HA2 Proto3 old=47 ->   4.90641050055943
+H1N1	4lxv	Inter-Repulsive	NE2 HIS 436 HA2 Proto2 old=72   |     NE ARG 226 HA1 Proto3 old=205 ->   4.50284188041287

@@ -1,0 +1,3 @@
+H7N2	6mlm	Inter-Repulsive	NH1 ARG 35 HA1 Proto1 old=48   |     NZ LYS 422 HA2 Proto2 old=58 ->   4.59904218288983
+H7N2	6mlm	Inter-Repulsive	NZ LYS 422 HA2 Proto1 old=58   |     NH1 ARG 35 HA1 Proto3 old=48 ->   4.59896183937202
+H7N2	6mlm	Inter-Repulsive	NH1 ARG 35 HA1 Proto2 old=48   |     NZ LYS 422 HA2 Proto3 old=58 ->   4.59896705793811

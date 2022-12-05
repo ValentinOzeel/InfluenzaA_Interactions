@@ -1,0 +1,17 @@
+H2N2	2wrf	Inter-Hydrogen_SD_SD	NH1 ARG 35 HA1 Proto1 old=26   |     OG SER 418 HA2 Proto3 old=383 ->   2.64149105620292
+H2N2	2wrf	Inter-Hydrogen_SD_SD	NH2 ARG 35 HA1 Proto1 old=26   |     OG SER 418 HA2 Proto3 old=383 ->   2.62156060391516
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto1 old=209   |     NE ARG 238 HA1 Proto2 old=219 ->   2.71185987838606
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto1 old=209   |     NH2 ARG 238 HA1 Proto2 old=219 ->   2.99593624765281
+H2N2	2wrf	Inter-Hydrogen_SD_SD	NE ARG 238 HA1 Proto1 old=219   |     OD1 ASN 228 HA1 Proto3 old=209 ->   2.67315992787562
+H2N2	2wrf	Inter-Hydrogen_SD_SD	NH2 ARG 238 HA1 Proto1 old=219   |     OD1 ASN 228 HA1 Proto3 old=209 ->   2.80771508526061
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OG SER 418 HA2 Proto1 old=383   |     NH1 ARG 35 HA1 Proto2 old=26 ->   3.33052878684451
+H2N2	2wrf	Inter-Hydrogen_SD_SD	NE2 GLN 426 HA2 Proto1 old=391   |     OD2 ASP 450 HA2 Proto2 old=415 ->   3.27945971159885
+H2N2	2wrf	Inter-Hydrogen_SD_SD	ND2 ASN 443 HA2 Proto1 old=408   |     NE2 HIS 116 HA1 Proto3 old=107 ->   3.41521317050634
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OD1 ASN 459 HA2 Proto1 old=424   |     ND2 ASN 459 HA2 Proto3 old=424 ->   3.31314322056865
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto2 old=209   |     NE ARG 238 HA1 Proto3 old=219 ->   2.78232474740099
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OD1 ASN 228 HA1 Proto2 old=209   |     NH2 ARG 238 HA1 Proto3 old=219 ->   3.07198649085572
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OE1 GLU 264 HA1 Proto2 old=245   |     OG1 THR 237 HA1 Proto3 old=218 ->   3.10039239452041
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OG SER 418 HA2 Proto2 old=383   |     NH1 ARG 35 HA1 Proto3 old=26 ->   3.39840462570307
+H2N2	2wrf	Inter-Hydrogen_SD_SD	OE1 GLN 426 HA2 Proto2 old=391   |     NZ LYS 343 HA1 Proto3 old=310 ->   3.39488703788506
+H2N2	2wrf	Inter-Hydrogen_SD_SD	NE2 GLN 426 HA2 Proto2 old=391   |     OD2 ASP 450 HA2 Proto3 old=415 ->   3.2804674971717
+H2N2	2wrf	Inter-Hydrogen_SD_SD	ND2 ASN 459 HA2 Proto2 old=424   |     OD1 ASN 459 HA2 Proto3 old=424 ->   3.21615562434407

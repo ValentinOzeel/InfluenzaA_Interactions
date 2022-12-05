@@ -1,0 +1,16 @@
+H5N1	6cf5	Inter-Repulsive	OE2 GLU 467 HA2 Proto1 old=103   |     OE2 GLU 469 HA2 Proto3 old=105 ->   4.90114160170873
+H5N1	6cf5	Inter-Repulsive	OE1 GLU 467 HA2 Proto1 old=103   |     OE2 GLU 469 HA2 Proto3 old=105 ->   4.79911543932838
+H5N1	6cf5	Inter-Repulsive	OE1 GLU 469 HA2 Proto1 old=105   |     OE1 GLU 467 HA2 Proto2 old=103 ->   4.82008028978772
+H5N1	6cf5	Inter-Repulsive	OE1 GLU 469 HA2 Proto1 old=105   |     OE2 GLU 467 HA2 Proto2 old=103 ->   4.77332976024075
+H5N1	6cf5	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto2 old=106 ->   3.27940787338202
+H5N1	6cf5	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NH2 ARG 470 HA2 Proto2 old=106 ->   4.96977001479948
+H5N1	6cf5	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NE ARG 470 HA2 Proto3 old=106 ->   4.87218985672767
+H5N1	6cf5	Inter-Repulsive	NH1 ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   3.22819361253318
+H5N1	6cf5	Inter-Repulsive	NH2 ARG 470 HA2 Proto1 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   4.82243185540242
+H5N1	6cf5	Inter-Repulsive	OE1 GLU 469 HA2 Proto2 old=105   |     OE1 GLU 467 HA2 Proto3 old=103 ->   4.87982130820382
+H5N1	6cf5	Inter-Repulsive	NH1 ARG 470 HA2 Proto2 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   3.16575077983091
+H5N1	6cf5	Inter-Repulsive	NH1 ARG 470 HA2 Proto2 old=106   |     NH2 ARG 470 HA2 Proto3 old=106 ->   4.84495758495366
+H5N1	6cf5	Inter-Repulsive	NE ARG 470 HA2 Proto2 old=106   |     NH1 ARG 470 HA2 Proto3 old=106 ->   4.89829664271163
+H5N1	6cf5	Inter-Repulsive	NZ LYS 495 HA2 Proto2 old=131   |     NE ARG 491 HA2 Proto3 old=127 ->   3.52249698367507
+H5N1	6cf5	Inter-Repulsive	NZ LYS 495 HA2 Proto2 old=131   |     NH1 ARG 491 HA2 Proto3 old=127 ->   2.94328948627212
+H5N1	6cf5	Inter-Repulsive	NZ LYS 495 HA2 Proto2 old=131   |     NH2 ARG 491 HA2 Proto3 old=127 ->   4.96698409500171

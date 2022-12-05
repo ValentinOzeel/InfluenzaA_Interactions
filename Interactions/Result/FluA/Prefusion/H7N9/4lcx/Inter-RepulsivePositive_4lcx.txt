@@ -1,0 +1,3 @@
+H7N9	4lcx	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto1 old=444   |     NZ LYS 487 HA2 Proto2 old=444 ->   4.48745139249441
+H7N9	4lcx	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto1 old=444   |     NZ LYS 487 HA2 Proto3 old=444 ->   4.54133790859037
+H7N9	4lcx	Inter-RepulsivePositive	NZ LYS 487 HA2 Proto2 old=444   |     NZ LYS 487 HA2 Proto3 old=444 ->   4.47533127265457

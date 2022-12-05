@@ -1,0 +1,6 @@
+H13N6	4kps	Inter-RepulsivePositive	ND1 HIS 256 HA1 Proto1 old=238   |     NZ LYS 439 HA2 Proto3 old=75 ->   4.58339492079834
+H13N6	4kps	Inter-RepulsivePositive	NE2 HIS 256 HA1 Proto1 old=238   |     NZ LYS 439 HA2 Proto3 old=75 ->   3.84659927728377
+H13N6	4kps	Inter-RepulsivePositive	NZ LYS 439 HA2 Proto1 old=75   |     ND1 HIS 256 HA1 Proto2 old=238 ->   4.62372771689683
+H13N6	4kps	Inter-RepulsivePositive	NZ LYS 439 HA2 Proto1 old=75   |     NE2 HIS 256 HA1 Proto2 old=238 ->   3.84331952874075
+H13N6	4kps	Inter-RepulsivePositive	NZ LYS 439 HA2 Proto2 old=75   |     ND1 HIS 256 HA1 Proto3 old=238 ->   4.83750989663071
+H13N6	4kps	Inter-RepulsivePositive	NZ LYS 439 HA2 Proto2 old=75   |     NE2 HIS 256 HA1 Proto3 old=238 ->   4.03362913515856

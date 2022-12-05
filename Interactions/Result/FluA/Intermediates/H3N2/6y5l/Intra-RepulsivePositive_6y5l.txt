@@ -1,0 +1,12 @@
+H3N2	6y5l	Intra-RepulsivePositive	NZ LYS 415 HA2 Proto1 old=51   |     NE ARG 418 HA2 Proto1 old=54 ->   4.0372478249421
+H3N2	6y5l	Intra-RepulsivePositive	NH1 ARG 418 HA2 Proto1 old=54   |     NZ LYS 422 HA2 Proto1 old=58 ->   4.58882337860151
+H3N2	6y5l	Intra-RepulsivePositive	NH2 ARG 418 HA2 Proto1 old=54   |     NZ LYS 422 HA2 Proto1 old=58 ->   3.36428209280969
+H3N2	6y5l	Intra-RepulsivePositive	NZ LYS 481 HA2 Proto1 old=117   |     NZ LYS 485 HA2 Proto1 old=121 ->   4.53760046720731
+H3N2	6y5l	Intra-RepulsivePositive	NZ LYS 415 HA2 Proto2 old=51   |     NE ARG 418 HA2 Proto2 old=54 ->   4.03770045941993
+H3N2	6y5l	Intra-RepulsivePositive	NH2 ARG 418 HA2 Proto2 old=54   |     NZ LYS 422 HA2 Proto2 old=58 ->   3.36432474651304
+H3N2	6y5l	Intra-RepulsivePositive	NH1 ARG 418 HA2 Proto2 old=54   |     NZ LYS 422 HA2 Proto2 old=58 ->   4.58883002518071
+H3N2	6y5l	Intra-RepulsivePositive	NZ LYS 481 HA2 Proto2 old=117   |     NZ LYS 485 HA2 Proto2 old=121 ->   4.53742151447274
+H3N2	6y5l	Intra-RepulsivePositive	NZ LYS 415 HA2 Proto3 old=51   |     NE ARG 418 HA2 Proto3 old=54 ->   4.0371402006866
+H3N2	6y5l	Intra-RepulsivePositive	NH2 ARG 418 HA2 Proto3 old=54   |     NZ LYS 422 HA2 Proto3 old=58 ->   3.36382490626371
+H3N2	6y5l	Intra-RepulsivePositive	NH1 ARG 418 HA2 Proto3 old=54   |     NZ LYS 422 HA2 Proto3 old=58 ->   4.58810091432173
+H3N2	6y5l	Intra-RepulsivePositive	NZ LYS 481 HA2 Proto3 old=117   |     NZ LYS 485 HA2 Proto3 old=121 ->   4.53794028166966

@@ -1,0 +1,1 @@
+H1N1	1ru7	Inter-RepulsiveNegative	OE2 GLU 264 HA1 Proto1 old=246   |     OE2 GLU 237 HA1 Proto3 old=219 ->   4.79885444663619
